@@ -51,5 +51,5 @@ if __name__ == "__main__":
     car_listings = scrape_baniola()
 
     # Save car listings to CSV (without links and images)
-    pd.DataFrame(car_listings).to_csv("../car_listings_baniola.csv", index=False)
+    pd.DataFrame(car_listings).to_csv("data/car_listings_baniola.csv", index=False)
     print("Car listings saved to 'car_listings_baniola.csv'.")
