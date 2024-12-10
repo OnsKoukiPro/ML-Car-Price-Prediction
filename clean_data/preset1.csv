@@ -1,0 +1,829 @@
+Price,Title,Fuel,Mileage,Year
+35 000,KIA Rio Berline,Essence,163 746,2016
+105 000,Peugeot 3008,Essence,55 000,2022
+30 500,Renault Clio Campus climatisée,Essence,116 000,2012
+52 000,Chery Tiggo 3X Luxury,Essence,47 000,2022
+32 000,Peugeot 3008,Essence,210 000,2010
+52 000,KIA Rio Berline,Essence,90 500,2020
+43 500,Hyundai Grand i10,Essence,43 200,2021
+58 000,MG 5,Essence,37 000,2022
+73 500,Mercedes-Benz Classe C,Essence,159 000,2012
+260 000,Mercedes-Benz GLC Coupé AMG,Hybride,47 000,2021
+77 000,Haval H6 Luxury,Essence,100 000,2019
+67 000,Mercedes-Benz Classe E,Essence,197 000,2010
+178 000,Mercedes-Benz Classe C coupé AMG,Hybride,86 000,2019
+122 000,Land Rover Range Rover Evoque R-Dynamic,Diesel,150 000,2016
+145 000,BMW Série 4 Gran Coupé,Essence,90 000,2019
+258 000,Land Rover Range Rover Velar R-Dynamic,Diesel,55 000,2020
+189 000,Mercedes-Benz GLA AMG,Essence,20 000,2023
+97 500,Hyundai Kona Hybride N Line,Hybride,19 500,2020
+112 000,Audi Q3,Essence,110 000,2019
+152 000,Porsche Cayenne,Essence,195 000,2012
+103 000,MG HS Trophy,Essence,35 000,2021
+122 000,Mercedes-Benz Classe S S 350 phase 2,Essence,165 000,2010
+Sous leasing                    161 300,Mercedes-Benz Classe C AMG,Essence,135 000,2019
+72 000,Volkswagen Golf 7 Join,Essence,83 000,2018
+98 000,Mercedes-Benz Classe S S350. Toit ouvrant,Essence,147 000,2009
+56 000,Peugeot Partner Origin Utilitaire Pack Clim PM,Diesel,73 000,2019
+95 000,KIA Sportage GT-Line,Diesel,139 000,2018
+155 000,Cupra Formentor Sport,Essence,41 000,2022
+165 000,Mercedes-Benz Classe C AMG,Hybride,54 000,2018
+165 000,Mercedes-Benz Classe C AMG,Hybride,69 000,2020
+75 000,Volkswagen Golf 7 Confortline,Essence,69 000,2020
+51 000,KIA Rio 5p,Essence,145 000,2019
+145 000,Mercedes-Benz Classe A,Hybride,66 000,2021
+95 000,Volkswagen Golf 7,Essence,88 000,2018
+55 000,BMW Série 1,Essence,144 000,2015
+76 500,Volkswagen Golf 7 Join,Essence,120 000,2020
+199 000,BMW X2 Lounge,Essence,0,2024
+169 000,Land Rover Range Rover Evoque R-Dynamic,Diesel,59 000,2021
+110 000,Volkswagen Golf 8 R-Line,Hybride,12 000,2022
+122 000,Mercedes-Benz GLA AMG,Essence,30 000,2018
+259 000,Mercedes-Benz GLC Coupé AMG,Hybride,50 000,2021
+174 000,Mercedes-Benz Classe C AMG +,Essence,60 000,2021
+155 000,Volkswagen T-roc 1.5,Hybride,9 000,2024
+197 000,Mercedes-Benz Classe C AMG,Essence,32 000,2022
+218 000,Land Rover Range Rover Evoque R-Dynamic S,Hybride,59 000,2021
+115 000,Volkswagen Golf 8,Hybride,40 000,2020
+248 000,Mercedes-Benz Classe C AMG +,Hybride,11 000,2024
+89 500,Suzuki Jimny,Essence,60 000,2021
+68 000,Mercedes-Benz Classe E coupé AMG,Essence,180 000,2010
+98 000,Volkswagen T-roc Toit ouvrant,Essence,44 000,2020
+99 500,Mercedes-Benz Classe C AMG,Essence,180 000,2016
+184 000,Mercedes-Benz GLB AMG,Essence,16 000,2023
+435 000,Mercedes-Benz Classe E AMG,Hybride,0,2024
+109 000,Mercedes-Benz Classe C AMG,Essence,175 000,2016
+124 500,BMW Série 5 Luxury Line,Essence,155 000,2017
+169 000,Mercedes-Benz Classe A A200,Hybride,8 000,2024
+149 000,KIA Sportage GT-Line,Hybride,40 000,2023
+268 000,Land Rover Range Rover Velar R-Dynamic,Essence,33 000,2019
+158 000,BMW Série 7 B7 ALPINA,Essence,115 000,2011
+89 500,Volkswagen Golf 8 ÉDITION,Essence,45 000,2021
+450 000,Mercedes-Benz Classe E AMG,Hybride,0,2024
+415 000,Mercedes-Benz GLC Coupé AMG,Essence,0,2024
+169 000,Mercedes-Benz CLA AMG,Hybride,42 000,2020
+295 000,Audi Q5 Sportback S-Line,Hybride,45 000,2022
+124 000,Mercedes-Benz Classe A A 200,Essence,57 000,2018
+188 000,Mercedes-Benz CLA AMG,Essence,30 000,2023
+178 000,Land Rover Range Rover Sport,Essence,180 000,2014
+535 000,Porsche Panamera 4S E-hybride plugin,Hybride,32 000,2021
+225 000,Mercedes-Benz GLC Coupé AMG,Essence,106 000,2016
+175 000,Audi Q3 Sportback hybrid,Hybride,50 000,2021
+380 000,Porsche Cayenne Coupé,Essence,37 000,2020
+269 000,Jaguar F-Pace R-Dynamic S,Essence,27 000,2021
+129 000,BMW X1 FACELIFT PACK M,Essence,87 000,2020
+168 000,Mitsubishi L200 Sportero,Diesel,19 000,2022
+510 000,Porsche Cayenne,Hybride,15 000,2022
+147 000,Audi A5 Sportback S-Line,Essence,85 000,2020
+88 000,Mercedes-Benz ML,Diesel,231 000,2010
+148 000,Mercedes-Benz CLA,Diesel,93 000,2020
+98 000,BMW X6,Essence,180 000,2011
+245 000,Mercedes-Benz GLC Coupé,Hybride,70 000,2020
+350 000,Mercedes-Benz Classe G,Diesel,168 000,2010
+85 000,Peugeot 508,Essence,46 000,2020
+132 000,Seat Leon Cupra,Essence,74 000,2020
+48 000,Volkswagen Touareg,Diesel,308 000,2006
+195 000,Mercedes-Benz Classe S,Hybride,79 000,2015
+83 000,Peugeot 508,Essence,137 000,2019
+340 000,Land Rover Range Rover Sport,Hybride,100 000,2019
+178 000,BMW Série 5,Essence,93 000,2020
+400 000,Mercedes-Benz GLC Coupé,Essence,0,2024
+208 000,BMW Série 5,Essence,32 000,2021
+630 000,Mercedes-Benz Classe G AMG,Essence,30 000,2015
+158 000,Mercedes-Benz GLC,Essence,83 000,2016
+174 000,Mercedes-Benz CLA,Hybride,69 000,2021
+30 500,Citroën DS3,Essence,92 000,2017
+100 000,Mini Clubman,Essence,34 000,2019
+450 000,Mercedes-Benz Classe S,Hybride,40 000,2020
+95 000,Nissan Qashqai,Essence,26 000,2022
+245 000,Mercedes-Benz Classe E,Essence,9 000,2022
+360 000,Mercedes-Benz GLC Coupé,Essence,6 600,2023
+170 000,Audi A5 Sportback,Essence,58 000,2021
+98 000,Seat Ateca,Essence,85 000,2020
+410 000,Porsche Cayenne E-Hybrid,Hybride,86 000,2019
+54 500,KIA Picanto GT-Line,Essence,63 000,2022
+88 000,Toyota Prado,Diesel,449 000,2003
+47 000,BYD F3,Essence,10 000,2022
+350 000,Land Rover Range Rover Sport,Hybride,37 000,2020
+115 000,Volkswagen Golf 7,Essence,73 000,2017
+375 000,Porsche Macan,Essence,6 900,2023
+174 000,BMW Série 3,Essence,80 000,2021
+190 000,Audi Q3,Essence,2 000,2024
+370 000,Porsche Cayenne Coupé,Essence,59 000,2019
+350 000,Toyota Land Cruiser,Diesel,98 000,2016
+58 000,Mini 5 portes,Essence,75 000,2015
+340 000,Mercedes-Benz Classe E coupé,Hybride,86 000,2018
+82 000,Peugeot 3008,Essence,87 000,2019
+56 000,Toyota RAV 4,Essence,280 000,2016
+45 500,Fiat 500 C,Essence,71 000,2017
+240 000,Mercedes-Benz GLC Coupé,Diesel,52 000,2020
+42 000,Suzuki Swift,Essence,69 000,2020
+76 000,Toyota Corolla,Essence,32 000,2022
+92 500,Ssangyong Korando,Essence,80 000,2021
+225 000,Jeep Wrangler Sahara,Essence,115 000,2018
+40 000,Peugeot 2008 Allure,Essence,96 000,2015
+100 000,BMW Série 4 Gran Coupé,Essence,121 000,2019
+95 000,Volkswagen Tiguan,Essence,123 000,2021
+59 000,BMW Série 3 318i,Essence,200 000,2015
+25 500,Peugeot 307,Essence,110 451,2007
+118 000,Mercedes-Benz Classe A AMG,Diesel,96 000,2019
+139 500,Mini Countryman All4,Hybride,33 000,2020
+58 000,MG ZS,Essence,110 000,2021
+245 000,Mercedes-Benz Classe C,Essence,7 300,2022
+120 000,KIA Sportage Hybride,Hybride,53 000,2020
+115 000,BMW Série 1 Pack M,Essence,110,2020
+55 000,Fiat 500 Dolcevita,Hybride,78 000,2021
+49 500,Fiat Tipo 5 portes,Essence,68 000,2021
+49 500,Renault Clio,Diesel,138 000,2020
+99 000,Mercedes-Benz Classe C,Essence,158 000,2015
+39 500,Suzuki Celerio,Essence,0,2024
+48 500,Volkswagen Golf 7,Essence,153 000,2015
+59 500,Renault Megane,Diesel,148 000,2021
+45 500,Peugeot 208 Style,Diesel,128 000,2020
+78 000,Audi Q5 S-line,Diesel,270 000,2014
+38 500,Citroën C1 Importée Tn245,Essence,56 000,2021
+76 000,Haval H6 Luxury,Essence,138 000,2021
+79 000,Peugeot 3008,Diesel,148 000,2020
+57 000,Volkswagen Amarok TDI 4*4,Diesel,198 000,2012
+145 000,Mercedes-Benz CLA AMG,Diesel,138 000,2020
+118 000,Mercedes-Benz CLA Importée Tn245,Diesel,138 000,2020
+149 000,Mercedes-Benz CLA,Essence,87 000,2021
+110 000,Volkswagen Golf 8 STYLE 1.5 BVA eTSI  importée,Essence,87 000,2021
+98 000,KIA Sportage GT-Line,Diesel,119 000,2019
+99 000,Haval H6,Essence,16 000,2022
+185 000,BMW Série 5 Pack M,Essence,70 000,2021
+107 000,BMW Série 4 Gran Coupé,Essence,53 000,2020
+30 000,Hyundai Grand i10 Sedan,Essence,150 000,2017
+135 000,Mercedes-Benz Classe C AMG +,Essence,146 000,2015
+95 000,Volkswagen Golf 8 Active,Essence,69 000,2021
+420 000,Mercedes-Benz GLE Coupé,Diesel,54 000,2020
+115 000,Mazda CX-5 High Grade,Essence,63 000,2019
+65 000,MG ZS,Essence,65 000,2019
+70 000,Seat Leon,Essence,61 847,2020
+97 000,Mercedes-Benz CLA Urban,Essence,125 043,2018
+150 000,KIA Sportage Hybride GT-Line,Hybride,36 000,2023
+54 000,KIA Rio 5p SX,Essence,68 954,2019
+75 000,Volkswagen Golf 7 Highline,Essence,26 043,2016
+87 000,Volkswagen Golf 8 Life,Essence,70 001,2020
+175 000,Toyota Land Cruiser,Diesel,142 060,2010
+69 000,Volkswagen Golf 7 Confortline,Essence,169 452,2019
+40 000,BMW Série 1,Essence,131 766,2009
+165 000,Mercedes-Benz Classe E AMG,Essence,55 001,2019
+275 000,Mercedes-Benz Classe C AMG +,Essence,0,2024
+235 000,Mercedes-Benz GLA La nouvelle Gla 250e AMG,Hybride,10 730,2023
+390 000,Mercedes-Benz Classe E AMG,Essence,10 776,2023
+65 000,BMW X3 Luxury Line,Diesel,186 000,2006
+185 000,Mercedes-Benz Classe C AMG,Essence,50 893,2022
+43 000,KIA Picanto Populaire,Essence,3 805,2021
+36 000,Lada 4x4 Urban,Essence,24 387,2018
+126 000,Haval H6,Essence,12 442,2023
+51 000,Nissan Juke Tekna,Essence,163 166,2014
+160 000,Mitsubishi Pajero LIMITED EDITION,Diesel,20 742,2023
+169 900,Mercedes-Benz CLA AMG Edition 1,Hybride,31 235,2021
+64 000,Peugeot 308 GT-Line GT-Line,Diesel,96 300,2020
+129 000,Toyota Prado,Diesel,199 425,2003
+135 000,Mini 5 portes,Essence,18 000,2021
+62 000,BMW Série 3 coupé,Essence,156 000,2010
+30 000,Mahindra KUV 100 K6+,Essence,63 000,2021
+93 000,Haval Jolion 1 ere,Essence,30 000,2023
+126 000,Peugeot 308,Diesel,48 000,2023
+198 000,Volkswagen Tiguan R-Line,Essence,54 723,2023
+59 000,Peugeot Expert,Diesel,139 199,2019
+138 000,Volkswagen Golf 8 R-Line,Hybride,36 651,2022
+48 000,Mini Cabrio,Essence,86 111,2010
+61 000,KIA Picanto 1 ère main,Essence,0,2024
+275 000,Porsche Cayman S,Essence,39 508,2008
+54 000,Seat Ibiza,Essence,99 519,2021
+119 000,Toyota Land Cruiser,Diesel,316 620,2003
+230 000,Mercedes-Benz GLC Coupé AMG,Hybride,82 415,2020
+65 000,Mercedes-Benz Classe C AMG,Essence,249 000,2011
+178 000,Mercedes-Benz Classe C,Essence,30 570,2021
+71 000,Peugeot 3008,Essence,105 000,2017
+225 000,Mercedes-Benz CLA AMG,Hybride,1 000,2024
+88 000,Volkswagen Golf 8,Essence,85 181,2020
+79 000,Volkswagen Golf 7 Join,Essence,86 000,2018
+78 000,Volkswagen T-roc,Essence,74 107,2019
+36 000,Renault Symbol,Essence,115 000,2020
+185 000,Mercedes-Benz CLA AMG,Hybride,18 500,2023
+135 000,Mercedes-Benz Classe A AMG,Essence,68 000,2018
+65 000,BMW Série 3 Luxury,Essence,112 000,2013
+110 000,Audi Q5 S-line,Diesel,176 000,2015
+145 000,Mercedes-Benz Classe C AMG,Diesel,145 000,2019
+50 000,Peugeot 2008 Allure Toit Cielo Blanc Nacré,Essence,125 000,2018
+119 000,Mercedes-Benz Classe A AMG,Diesel,141 000,2019
+145 000,Volkswagen Golf 8 GTE,Hybride,26 000,2021
+220 000,Mercedes-Benz CLA AMG,Hybride,6 000,2024
+78 000,Mercedes-Benz Classe A AMG Premium,Essence,131 000,2013
+46 500,KIA Picanto,Essence,28 000,2021
+48 000,Ford Fusion Titanium,Essence,217 000,2016
+49 800,Mini 5 portes Très bon état,Essence,160 000,2016
+45 000,BMW Série 3,Essence,180 000,2012
+60 000,Seat Leon 1.2L,Essence,140 000,2018
+200 000,Land Rover Range Rover Sport,Essence,190 000,2015
+89 000,Peugeot 3008 1.2L,Essence,70 000,2020
+87 000,Volkswagen Golf 8,Essence,58 000,2022
+89 000,KIA Sportage 1.6L Diesel,Diesel,105 000,2018
+55 500,Mercedes-Benz Classe C,Essence,235 000,2013
+47 000,Audi Q5 2.0L,Essence,255 000,2009
+139 000,Volkswagen Golf 8,Essence,40 000,2023
+89 000,Mercedes-Benz Classe C AMG,Essence,164 000,2014
+138 000,Mercedes-Benz Classe E 1.6L,Essence,132 000,2017
+108 000,Seat Leon Xcellence,Essence,37 000,2023
+72 000,Jeep Wrangler 4.0L,Essence,200 000,1989
+38 500,Renault Clio 1.0L,Essence,135 000,2021
+78 500,Audi A3 Sportback 1.2L,Essence,125 000,2019
+119 000,Cupra Formentor 1.5L,Hybride,19 000,2022
+55 500,Ford Fusion 1.6,Essence,90 000,2017
+49 500,Mazda 3,Essence,124 000,2017
+39 500,Nissan Juke,Essence,160 000,2015
+227 000,Volvo XC60 2.0L,Essence,18 000,2022
+39 800,Hyundai Grand i10 1.0L,Essence,57 000,2021
+43 000,Skoda Fabia 1.6L,Essence,137 000,2018
+75 000,BMW Série 5 520,Essence,182 000,2014
+93 000,Volkswagen Golf 8 1.5L,Essence,80 000,2021
+132 000,BMW X2 S drive,Essence,74 000,2020
+73 500,Volkswagen Golf 7 Importé,Essence,40 000,2020
+85 000,BMW X1 1.6L,Essence,126 000,2016
+138 500,BMW Série 1 M,Essence,40 000,2022
+58 500,Citroën Berlingo Utilitaire 1.6L,Diesel,31 000,2023
+38 000,Citroën C3,Essence,92 000,2018
+34 500,Citroën C3 Live,Essence,119 000,2019
+38 000,Citroën C4,Essence,109 000,2012
+88 000,Peugeot 3008 Allure,Essence,38 000,2019
+159 000,Mercedes-Benz Classe C Avantgarde,Essence,27 000,2022
+75 000,Peugeot 3008 Allure,Essence,75 000,2020
+139 000,BMW X4,Diesel,140 000,2018
+65 500,Volkswagen Polo R-Line,Essence,70 000,2020
+69 000,Volkswagen Golf 7 BVA,Essence,200 000,2020
+75 000,BMW Série 1 Pack Sport M,Essence,165 000,2016
+147 000,Hyundai Tucson Top Grade,Essence,40 000,2022
+41 000,Lada 4x4 Urban,Essence,58 000,2020
+205 000,Mercedes-Benz Classe X,Diesel,68 000,2020
+81 000,Seat Arona Xperience,Essence,47 000,2022
+69 000,Toyota Corolla Dynamic,Essence,85 000,2020
+65 000,Fiat 500X Pop Star,Essence,60 000,2018
+115 000,Land Rover Discovery,Essence,170 000,2015
+88 000,Haval Jolion,Essence,40 000,2021
+73 000,Toyota C-HR,Essence,130 000,2018
+92 500,Nissan Juke Tekna,Essence,6 000,2024
+Sous leasing                    255 100,Mercedes-Benz Classe C AMG,Essence,20 000,2023
+129 000,Mercedes-Benz CLA Kit Amg 200,Essence,150 000,2020
+62 000,Seat Ibiza Xcellence,Essence,68 000,2021
+57 500,KIA Rio 5p SX,Essence,70 000,2020
+72 000,MG ZS Luxury,Essence,20 000,2022
+101 000,Chery Tiggo 7 Pro,Essence,0,2024
+165 000,Audi Q3 BVA,Essence,3 000,2023
+155 000,Peugeot 408 GT,Essence,10 000,2024
+87 000,Jaguar XF Luxury,Essence,120 000,2014
+85 000,BMW Série 6 Face Lift,Essence,190 000,2009
+189 000,Land Rover Range Rover Sport HSE Dynamic,Diesel,300 000,2016
+62 000,KIA Rio 5p GT-Line,Essence,70 000,2021
+188 000,KIA Sportage GT-Line,Hybride,15 000,2024
+225 000,Mercedes-Benz GLA 250e Pack AMG,Hybride,26 000,2023
+39 000,Mahindra Pick-up SC,Diesel,120 000,2021
+69 000,Peugeot 3008,Essence,112 000,2020
+73 000,KIA Rio 5p GT-Line,Essence,9 000,2023
+152 000,Mercedes-Benz Classe C Pack AMG Pack night,Hybride,120 000,2019
+89 000,Peugeot 3008 GT GT-line,Essence,125 000,2020
+77 900,MG HS Luxury,Essence,87 000,2020
+173 000,Mercedes-Benz GLA AMG,Essence,90 000,2021
+87 000,BMW Série 4 Coupé 420i,Essence,180 000,2015
+88 000,Chery Tiggo 7 Pro,Essence,40 000,2022
+98 000,Suzuki Jimny,Essence,20 000,2023
+83 000,Mercedes-Benz CLA Kit AMG,Essence,124 000,2014
+37 500,Citroën C3 Shine,Essence,88 000,2018
+63 000,Mercedes-Benz Classe C coupé AMG,Essence,200 000,2012
+45 000,Renault Clio 4,Essence,120 000,2021
+29 000,Mini 3 portes One,Essence,200 000,2009
+129 000,Hyundai Tucson High Grade,Essence,19 000,2023
+87 000,Nissan Juke Tekna,Essence,53 000,2021
+88 000,Jeep Renegade,Essence,88 000,2021
+152 000,Mercedes-Benz Classe C AMG,Hybride,120 000,2019
+109 000,Ford Mondeo Hybride,Hybride,34 000,2020
+120 000,Land Rover Range Rover Evoque,Diesel,145 000,2018
+59 000,Volkswagen Passat,Essence,160 000,2016
+117 000,Haval H6,Essence,16 000,2022
+85 000,Haval H6 Luxury,Essence,55 000,2021
+105 000,Volkswagen Golf 8 1.4,Essence,40 000,2022
+179 000,Jaguar F-Pace R_Dynamic,Diesel,165 000,2017
+70 000,Renault Kadjar,Essence,140 000,2018
+79 000,Toyota Corolla,Essence,24 000,2022
+47 000,Peugeot 308,Essence,128 000,2020
+167 000,Mercedes-Benz Classe C coupé AMG,Essence,130 000,2018
+47 500,Citroën C3 Shine,Essence,45 000,2020
+40 000,Ford Focus Titanium,Essence,200 000,2015
+178 000,Porsche Panamera,Essence,82 000,2011
+89 000,KIA Seltos,Essence,130 000,2021
+81 000,Seat Ibiza FR,Essence,40 000,2023
+77 000,Alfa Romeo Giulietta,Essence,37 000,2019
+235 000,Land Rover Discovery R-DYNAMIC,Diesel,87 000,2020
+49 000,Volkswagen Golf 7 Confortline,Essence,190 000,2013
+64 500,Renault Megane 4 Diesel,Diesel,125 000,2020
+65 000,KIA Rio 5p GT-Line,Essence,60 000,2021
+35 000,Fiat Fiorino,Diesel,120 000,2021
+75 000,Dacia Duster Techroad,Essence,35 000,2020
+278 000,BMW Série 5 530e Xdrive Pack m,Hybride,50 000,2021
+97 000,BMW Série 4 Gran Coupé 418 Luxury,Essence,133 000,2016
+125 000,Volkswagen Passat R-Line DSG,Essence,40 000,2022
+290 000,Toyota Hilux Double Cabine Gr Sport,Diesel,7 000,2024
+91 000,Toyota C-HR,Essence,55 000,2022
+109 000,Audi A5 Sportback S-Line,Essence,120 000,2019
+80 000,Peugeot 2008,Diesel,100 000,2021
+Sous leasing                    59 700,KIA Rio 5p,Essence,85 000,2022
+91 000,Honda CR-V,Essence,67 000,2018
+295 000,Audi Q5 S-line,Diesel,40 000,2021
+107 000,KIA Sportage Hybride,Hybride,114 000,2021
+128 000,KIA Sportage GT-Line,Diesel,19 000,2021
+76 000,Dacia Duster Techroad,Essence,34 000,2020
+660 000,Mercedes-Benz Classe S AMG,Hybride,3 000,2022
+455 000,BMW X5 Hybride Xdrive E45,Hybride,19 000,2021
+138 000,Hyundai Tucson Hybride Xcellence,Hybride,120 000,2022
+75 000,BMW Série 1 I Pack Sport,Essence,200 000,2019
+105 000,KIA Sportage GT-Line,Diesel,140 000,2017
+235 000,Mercedes-Benz Classe C AMG,Essence,50 000,2023
+120 000,Jaguar XE,Diesel,140 000,2017
+72 000,Peugeot Rifter,Diesel,95 000,2020
+110 000,BMW Série 7 740LI,Essence,98 000,2010
+72 000,Peugeot Rifter 5 places,Diesel,95 000,2020
+187 000,Land Rover Range Rover Evoque Hybride,Diesel,50 000,2019
+115 000,Ford Mondeo Hybride,Hybride,32 000,2020
+64 000,KIA Rio 5p GT-Line,Essence,64 000,2021
+169 000,Mercedes-Benz GLC AMG,Essence,115 000,2017
+57 000,Mini 5 portes One,Essence,78 000,2016
+48 000,Citroën C3 Shine,Essence,28 000,2020
+85 000,Audi A3 Berline,Essence,50 000,2019
+83 500,KIA Sportage,Essence,127 000,2019
+Non dédouané                    235 000,Mercedes-Benz GLA AMG,Essence,12 000,2023
+95 000,Audi Q3,Essence,95 000,2017
+210 000,Mercedes-Benz GLB 200 d,Diesel,111 000,2021
+58 000,Audi A4 Face_lift,Essence,143 000,2016
+95 000,Land Rover Range Rover Evoque Face_lift,Essence,170 000,2016
+135 000,BMW Série 1 Pack M,Essence,40 000,2020
+195 000,Land Rover Range Rover Evoque Hybride,Diesel,40 000,2019
+79 000,Haval H6 Luxury,Essence,120 000,2020
+105 000,Iveco Daily Simple Cabine,Diesel,40 000,2022
+128 000,Land Rover Discovery Sport,Diesel,128 000,2017
+90 000,Haval H6 Luxury,Essence,40 000,2021
+98 000,KIA Sportage Hybride,Hybride,140 000,2020
+85 000,KIA Sportage,Essence,125 000,2019
+137 000,Hyundai Tucson Hybride,Hybride,80 000,2021
+165 000,Audi Q5 QUATTRO 40 TDI,Diesel,170 000,2019
+43 500,Fiat Panda City Cross,Essence,52 000,2020
+45 000,Volkswagen Golf 6 Match,Diesel,240 000,2012
+228 000,Ford Ranger Raptor,Diesel,100 000,2022
+130 000,BMW Série 4 Coupé Pack M,Essence,140 000,2021
+48 000,Mercedes-Benz Classe B,Essence,100 000,2014
+75 000,MG ZS Luxury,Essence,80 000,2022
+210 000,Land Rover Range Rover Evoque Hybride,Diesel,60 000,2019
+68 000,Renault Kadjar,Essence,70 000,2019
+56 000,Mazda 3 Sky active,Essence,103 000,2017
+398 000,Audi Q8 S_Line,Essence,16 000,2021
+173 000,Mercedes-Benz Classe C coupé AMG,Essence,50 000,2019
+Sous leasing                    78 000,MG ZS,Essence,35 000,2022
+40 000,Suzuki Baleno,Essence,160 000,2017
+95 000,KIA Sportage,Essence,69 000,2019
+69 000,Ford Kuga,Essence,100 000,2017
+119 000,Mercedes-Benz CLS AMG,Diesel,160 000,2011
+185 000,Mercedes-Benz GLA 180 Pack AMG,Essence,40 000,2022
+73 500,Seat Arona,Essence,26 000,2021
+71 000,Toyota Corolla,Essence,90 000,2021
+79 000,Haval H6 Luxury,Essence,115 000,2020
+125 000,Skoda Superb Ambassador,Essence,30 000,2021
+79 000,MG 6,Essence,22 000,2021
+189 000,Mercedes-Benz GLC Coupé AMG,Diesel,190 000,2017
+89 000,Mercedes-Benz Classe C 180 elegance,Essence,170 000,2016
+278 000,Mercedes-Benz GLC Coupé AMG,Hybride,69 000,2020
+135 000,Mercedes-Benz Classe E 180,Essence,90 000,2018
+42 000,Ssangyong Actyon Sports,Diesel,200 000,2017
+35 000,DS 3,Essence,138 000,2012
+97 000,Audi A3 Berline,Essence,17 000,2020
+43 000,Nissan Qashqai,Essence,147 000,2011
+90 000,BMW Série 5 Confort Luxury,Essence,200 000,2015
+101 000,Volkswagen Passat R-Line,Essence,100 000,2019
+125 000,Land Rover Discovery Sport,Diesel,160 000,2017
+44 500,Citroën C3 Shine,Essence,90 000,2019
+49 000,Volkswagen Amarok,Diesel,370 000,2012
+Sous leasing                    291 800,Mercedes-Benz Classe E Business,Essence,8 000,2022
+37 000,Mini 3 portes one,Essence,140 000,2013
+68 000,BMW Série 1,Essence,126 000,2017
+231 000,Toyota Hilux Double Cabine 4*4,Essence,3 000,2024
+97 000,Peugeot 2008 Allure,Essence,34 000,2022
+158 000,Mercedes-Benz Classe A AMG,Essence,20 000,2022
+106 000,Volkswagen Passat R-Line,Essence,60 000,2020
+90 000,Volkswagen Tiguan,Essence,60 000,2018
+99 000,Mercedes-Benz Classe C AMG,Essence,160 000,2014
+96 000,Chery Tiggo 8 Pro,Essence,80 000,2022
+47 000,BYD F3,Essence,10 000,2022
+44 500,Citroën C3 Shine,Essence,58 000,2019
+107 000,BMW Série 4 Coupé 420i Pack M,Essence,160 000,2015
+90 000,Audi Q3 S-line,Essence,100 000,2017
+109 000,Volkswagen Golf 8 United,Essence,26 000,2020
+35 000,Peugeot 208,Essence,60 000,2020
+59 000,Audi A5 Cabriolet S-line,Essence,120 000,2010
+135 000,Honda Accord,Essence,11 000,2022
+74 000,Volkswagen Golf 7,Essence,40 000,2019
+119 000,KIA Sportage,Essence,40 000,2020
+135 000,BMW Série 2 Gran Coupé 218i,Essence,21 000,2022
+46 000,Fiat Tipo 5 portes,Essence,75 000,2018
+Sous leasing                    150 600,Haval H6,Essence,13 000,2022
+52 000,Volkswagen Golf 7 Smartline,Essence,140 000,2015
+78 000,Haval H6 Luxury,Essence,90 000,2019
+40 000,Chevrolet Cruze,Essence,90 000,2018
+76 000,Volkswagen Golf 7,Essence,29 000,2019
+51 000,Mercedes-Benz Classe E 200,Essence,330 000,2010
+77 000,Mercedes-Benz Classe E e220,Diesel,330 000,2011
+145 000,Volkswagen Golf 8 R-Line,Essence,40 000,2021
+240 000,Mercedes-Benz Classe C AMG,Essence,16 000,2023
+Non dédouané                    212 000,Dodge RAM Rumble bee,Essence,65 000,2019
+81 000,Mercedes-Benz CLA,Essence,163 000,2014
+69 000,Haval H2 Luxury,Essence,40 000,2019
+86 000,Haval H6 Luxury,Essence,32 000,2019
+169 000,Mercedes-Benz CLA AMG,Essence,30 000,2021
+98 000,Mercedes-Benz Classe A 180d,Diesel,50 000,2019
+74 000,Volkswagen Golf 7,Essence,64 000,2019
+95 000,Audi A3 Sportback S-Line,Essence,70 000,2019
+205 000,Mercedes-Benz Classe C AMG,Essence,40 000,2022
+105 000,DS 7 Crossback Grand Chic,Essence,140 000,2021
+Sous leasing                    264 200,Mercedes-Benz Classe C AMG,Essence,50 000,2022
+84 000,Volkswagen Golf 7 Join,Essence,70 000,2018
+79 000,Mercedes-Benz CLA 220,Diesel,240 000,2013
+110 000,BMW X6 Pack M,Diesel,270 000,2008
+59 000,Audi A5 Cabriolet S-line,Essence,120 000,2010
+73 000,Seat Leon Style,Essence,65 000,2020
+37 500,Citroën Berlingo Utilitaire,Diesel,170 000,2018
+143 000,KIA Sportage,Essence,23 000,2022
+64 000,Volkswagen Golf 7,Essence,180 000,2019
+78 000,Mercedes-Benz Classe S Executive,Essence,170 000,2008
+128 000,Volkswagen Tiguan Confortline,Essence,33 000,2020
+80 000,Volkswagen Golf 7 R-Line,Essence,130 000,2018
+79 000,Hyundai Kona,Hybride,30 000,2021
+Sous leasing                    122 800,Seat Leon FR,Essence,70 000,2022
+53 000,Hyundai Grand i10,Essence,30 000,2022
+92 000,Peugeot 2008 GT_LINE,Essence,30 000,2021
+179 000,Mercedes-Benz Classe C coupé AMG,Essence,40 000,2019
+119 000,KIA Sportage GT-Line,Hybride,120 000,2021
+88 000,BMW Série 3 318i,Essence,117 000,2017
+43 500,Chery Tiggo 2 Confort,Essence,60 000,2020
+87 000,Haval Jolion,Essence,40 000,2022
+208 000,Mercedes-Benz Classe C AMG,Essence,40 000,2022
+53 000,Hyundai Grand i10,Essence,54 000,2021
+68 000,Seat Ibiza FR,Essence,100 000,2020
+169 000,Mercedes-Benz CLA AMG,Essence,20 000,2020
+67 000,Seat Ibiza FR,Essence,50 000,2020
+85 000,Volkswagen T-roc,Essence,87 000,2020
+113 000,Mercedes-Benz GLA AMG,Essence,74 000,2016
+115 000,Mercedes-Benz Classe C AMG,Essence,170 000,2014
+188 000,Audi Q3 Sportback,Essence,10 000,2021
+215 000,Audi Q5,Diesel,100 000,2018
+125 000,Volkswagen Golf 8 R-Line,Essence,70 000,2021
+185 000,Jaguar F-Pace R-DYNAMIC,Diesel,165 000,2017
+77 000,Peugeot 3008 GT-line,Essence,260 000,2017
+Non dédouané                    350 000,Land Rover Range Rover Velar R-Dynamic,Diesel,100 000,2019
+255 000,Porsche Panamera PLATINUM édition,Essence,100 000,2014
+295 000,Land Rover Range Rover Velar R-Dynamic,Essence,90 000,2020
+Sous leasing                    182 900,Dongfeng Forthing T5 EVO,Essence,4 000,2023
+47 000,Chery Tiggo 3,Essence,75 000,2018
+85 000,Audi Q3,Essence,77 000,2017
+66 000,Renault Kadjar Intens,Essence,150 000,2018
+155 000,Volkswagen Golf 8 R-Line,Essence,40 000,2021
+205 000,Mercedes-Benz Classe C AMG,Hybride,35 000,2020
+80 000,Volkswagen Golf 7 Join,Essence,120 000,2019
+99 000,BMW Série 4 Gran Coupé Luxury,Essence,100 000,2018
+161 000,Hyundai Tucson,Essence,24 000,2023
+87 000,Hyundai Tucson,Essence,120 000,2020
+92 000,BMW Série 1 Pack sport,Essence,70 000,2020
+45 000,Fiat Panda City Cross,Essence,20 000,2022
+125 000,BMW Série 4 Gran Coupé 418 PACK M,Essence,110 000,2017
+77 000,Mercedes-Benz Classe E AMG,Essence,135 000,2011
+215 000,Mercedes-Benz Classe C AMG,Essence,80 000,2022
+65 000,Dongfeng SX3,Essence,30 000,2021
+128 000,Volkswagen Golf 8 United,Essence,16 000,2021
+172 000,Mercedes-Benz Classe A AMG,Essence,15 000,2022
+148 000,Mercedes-Benz Classe C AMG,Diesel,80 000,2019
+62 000,MG GS Luxe,Essence,115 000,2017
+Sous leasing                    122 800,Mitsubishi ASX 4WD,Essence,55 000,2021
+126 000,Land Rover Discovery,Diesel,130 000,2017
+185 000,Audi A5 Sportback,Essence,70 000,2021
+45 000,BMW Série 7 Individuel,Essence,300 000,2008
+245 000,Land Rover Range Rover Sport,Diesel,160 000,2014
+110 000,BMW Série 4 Coupé,Essence,78 000,2017
+61 000,MG GS Luxe Plus,Essence,100 000,2017
+40 000,Peugeot RCZ,Essence,171 000,2011
+118 000,Land Rover Discovery Sport,Diesel,94 000,2016
+87 000,Volkswagen Amarok AWD,Diesel,180 000,2016
+55 000,BMW Série 7 740I FACE-LIFT,Essence,220 000,2008
+69 000,Ford Ecosport Titanium,Essence,67 000,2022
+120 000,Toyota Corolla Cross Hybride High,Hybride,36 000,2022
+58 000,MG ZS Confort Plus,Essence,141 000,2019
+85 000,KIA Sportage,Essence,150 000,2019
+74 000,BMW Série 3 coupé Kit M///,Essence,152 000,2012
+71 000,Mercedes-Benz Classe C AMG,Essence,200 000,2011
+75 000,Audi A5 Coupé,Essence,109 000,2014
+58 500,KIA Rio 5p SX,Essence,35 000,2020
+36 500,BMW Série 1 Business Line,Essence,251 000,2012
+78 000,Volkswagen Golf 7 Sound,Essence,125 000,2018
+170 000,Mercedes-Benz CLA AMG,Hybride,25 000,2021
+135 000,Mercedes-Benz Classe A AMG,Hybride,35 000,2020
+50 000,Peugeot 308,Essence,102 000,2020
+67 000,Ford Ecosport Titanium,Essence,44 000,2022
+62 000,Fiat 500 Cult Club,Essence,3 000,2023
+115 000,Mercedes-Benz Classe A AMG,Essence,60 000,2021
+110 000,Volkswagen Tiguan R-Line,Essence,160 000,2019
+40 000,Volkswagen Scirocco,Essence,200 000,2010
+115 000,Audi A5 Sportback,Essence,80 000,2019
+100 000,Hyundai Tucson,Diesel,81 000,2018
+125 000,Land Rover Discovery,Essence,110 000,2016
+110 000,Mercedes-Benz Classe A,Essence,90 000,2021
+178 000,Hyundai Tucson Hybride Top Grade,Diesel,16 000,2023
+51 000,Peugeot 508,Essence,145 000,2018
+145 000,Mercedes-Benz Classe C coupé AMG,Essence,120 000,2019
+230 000,Land Rover Range Rover Sport,Diesel,90 000,2017
+220 000,Porsche Cayenne,Essence,158 000,2015
+67 000,BMW Série 3,Essence,210 000,2015
+108 000,Mercedes-Benz Classe A,Essence,50 000,2020
+66 000,Mercedes-Benz Classe C,Essence,180 000,2013
+83 000,Renault Kadjar,Essence,98 000,2021
+85 000,Land Rover Range Rover Sport,Diesel,208 000,2007
+200 000,Audi Q3,Hybride,40 000,2023
+95 000,KIA Sorento,Diesel,120 000,2016
+118 000,KIA Sportage,Diesel,140 000,2018
+53 000,KIA Rio 5p SX PLUS,Essence,99 000,2020
+Sous leasing                    47 100,Wallyscar 719,Essence,86 573,2023
+61 000,Renault Megane Sedan,Essence,46 000,2019
+78 000,Ford Ecosport,Essence,19 000,2022
+58 000,Mercedes-Benz ML,Diesel,250 000,2007
+36 000,Ford Focus Trend Sport,Essence,180 000,2014
+65 000,Toyota Prado Adventure,Diesel,330 000,1999
+27 500,Peugeot 207 Access Plus,Diesel,290 000,2011
+145 000,Mercedes-Benz CLA,Diesel,60 000,2021
+63 500,Hyundai ix35 Toit Panoramique,Diesel,160 000,2016
+41 300,Volkswagen Polo Sedan Trendline,Essence,170 000,2020
+68 500,Mercedes-Benz Classe A AMG,Essence,180 000,2014
+420 000,Mercedes-Benz GLC Coupé AMG,Essence,0,2024
+105 000,Mercedes-Benz Classe C,Essence,200 000,2014
+65 000,Ssangyong Tivoli Confort Plus,Essence,4 700,2018
+63 000,Mini 3 portes John Cooper Works,Essence,100 000,2017
+168 000,Toyota Hilux Double Cabine D4D,Diesel,140 000,2020
+255 000,Land Rover Range Rover Evoque HSE,Hybride,60 000,2022
+132 000,Mercedes-Benz Classe A Berline AMG,Essence,100 000,2020
+385 000,Land Rover Range Rover Sport Autobiography,Hybride,60 000,2021
+220 000,Mercedes-Benz CLA AMG,Essence,0,2024
+480 000,Porsche Cayenne Coupé GTS,Hybride,70 000,2020
+450 000,Mercedes-Benz GLE Coupé,Hybride,30 000,2022
+260 000,Mercedes-Benz Classe E AMG,Hybride,70 000,2020
+270 000,Mercedes-Benz GLC Coupé AMG,Hybride,80 000,2021
+145 000,BMW Série 4 Gran Coupé KIT-M-individual,Essence,120 000,2016
+115 000,Mercedes-Benz CLA,Diesel,130 000,2017
+145 000,Audi A3 Sportback 1.5,Hybride,900,2023
+190 000,Tesla Model 3 Modèle 3 Highland 2024,Electrique,15 000,2023
+197 000,Mercedes-Benz GLC AMG,Hybride,130 000,2018
+168 000,Mercedes-Benz Classe E,Diesel,158 000,2020
+56 000,Nissan Qashqai,Diesel,147 000,2016
+145 000,Hyundai Tucson,Essence,37 000,2022
+95 000,Audi Q2 Design,Essence,77 000,2019
+62 000,KIA Rio 5p,Essence,51 000,2021
+85 000,Toyota C-HR,Essence,71 000,2021
+78 000,KIA Sportage Black Edition,Essence,117 000,2018
+26 000,Mahindra KUV 100 K6+,Essence,90 000,2021
+75 000,Toyota C-HR,Essence,165 000,2020
+28 000,Ford Fiesta Trend,Essence,161 000,2013
+150 000,BMW Série 4 Coupé M,Essence,85 000,2019
+60 000,Renault Megane Sedan,Essence,70 000,2021
+104 000,Mazda CX-9 High grade,Essence,155 000,2019
+29 500,Ford Fiesta Titanium,Essence,223 000,2013
+26 000,Peugeot Partner,Diesel,320 000,2009
+37 900,Suzuki Celerio,Essence,45 000,2022
+144 900,Mercedes-Benz CLA AMG,Essence,100 000,2020
+90 000,MG HS Trophy,Essence,111 000,2022
+41 500,Seat Ibiza,Essence,83 000,2019
+48 000,Ssangyong Tivoli,Essence,235 000,2018
+32 500,Mahindra KUV 100 K6+,Essence,59 000,2022
+18 000,Hyundai H-1,Essence,999 999,2006
+"29,500 DT",Nissan Micra,Essence,"130,000 KM",2017
+"28,600 DT",BMW Serie 1,Essence,"240,000 KM",2007
+0 DT,Suzuki Swift,Essence,"91,000 KM",2021
+0 DT,Skoda Fabia,Essence,"78,000 KM",2021
+0 DT,Kia Optima,Essence,"247,000 KM",2014
+"25,800 DT",Fiat Doblo,Diesel,"160,000 KM",2020
+"78,000 DT",Mercedes-Benz Classe C,Essence,"207,600 KM",2014
+"39,500 DT",Kia Cerato,Essence,"14,400 KM",2015
+"55,500 DT",Kia Rio,Essence,"90,000 KM",2021
+0 DT,Citroen Berlingo,Diesel,"181,000 KM",2019
+0 DT,Renault Megane,Diesel,"149,000 KM",2020
+"44,500 DT",Volkswagen Polo,Essence,"140,000 KM",2021
+"30,500 DT",Renault Clio,Essence,"116,000 KM",2012
+950 DT,Citroen C5,Essence,250 KM,2024
+0 DT,Chevrolet S-10,Essence,"64,000 KM",2021
+0 DT,Renault Clio,Essence,"67,000 KM",2021
+"17,500 DT",Peugeot 207,Essence,"229,999 KM",2012
+0 DT,Mercedes-Benz Classe A,Essence,"48,000 KM",2019
+"20,000 DT",Citroen Nemo,Diesel,"420,000 KM",2014
+"13,500 DT",Peugeot 306,Essence,"202,000 KM",2000
+0 DT,Fiat Tipo,Diesel,"113,167 KM",2020
+"34,000 DT",Citroen C3,Essence,"97,000 KM",2018
+"29,000 DT",SsangYong Actyon,Diesel,"424,000 KM",2015
+0 DT,Volkswagen Polo,Essence,"84,200 KM",2021
+0 DT,Suzuki Celerio,Essence,"58,000 KM",2021
+"9,000 DT",Opel Corsa,Essence,312 KM,N.C
+"1,111 DT",Volkswagen Golf 5,Essence,"170,000 KM",2007
+"66,500 DT",Peugeot 3008,Essence,"100,000 KM",2019
+0 DT,Mercedes-Benz Classe A,N.C,"32,000 KM",2021
+"78,000 DT",Peugeot Partner,Diesel,"70,000 KM",2020
+0 DT,Kia Sportage,Diesel,"139,000 KM",2018
+"41,500 DT",Skoda Fabia,Essence,"130,000 KM",2021
+0 DT,Toyota Corolla,Essence,"31,000 KM",2021
+0 DT,Mercedes-Benz Classe C,N.C,"26,000 KM",2022
+0 DT,Haval H6,Essence,"15,000 KM",2022
+0 DT,Renault Clio,Essence,"95,000 KM",2020
+"105,000 DT",BMW Serie 4,Essence,"150,000 KM",2019
+"152,000 DT",BMW X4,Essence,"62,000 KM",2016
+0 DT,Mercedes-Benz Classe A,Essence,"48,000 KM",2020
+0 DT,Volkswagen Golf,Essence,"190,000 KM",2012
+0 DT,BMW Serie 5,Essence,"140,000 KM",2017
+"53,000 DT",Fiat Tipo,Essence,"113,000 KM",2020
+0 DT,Renault Clio,Diesel,N.C,2021
+0 DT,Volkswagen Passat CC,Essence,"111,000 KM",2019
+0 DT,Volkswagen Golf 8,Essence,"38,000 KM",2021
+0 DT,Volkswagen Golf 7,Essence,"81,000 KM",2018
+0 DT,Volkswagen Golf 7,Essence,"71,000 KM",2019
+0 DT,Peugeot 208,Essence,"65,000 KM",2020
+0 DT,Volkswagen Passat,N.C,"50,000 KM",2020
+"48,500 DT",Renault Megane,Essence,"150,000 KM",2020
+0 DT,Renault Clio,Essence,"241,000 KM",2008
+"79,000 DT",Ford Focus,Essence,"60,000 KM",2020
+"82,000 DT",Nissan Juke,Essence,"27,000 KM",2023
+0 DT,Peugeot Partner,Diesel,"119,000 KM",2021
+0 DT,Mitsubishi L200,Diesel,"205,000 KM",2017
+"44,000 DT",Peugeot 2008,Essence,"117,000 KM",2018
+"33,800 DT",Nissan Micra,Essence,"74,300 KM",2020
+0 DT,SEAT Ibiza,Essence,N.C,2014
+"67,000 DT",Mercedes-Benz Classe E,Essence,"197,000 KM",2010
+"55,000 DT",Audi A6,Essence,"166,920 KM",2016
+"41,000 DT",Hyundai i10,Essence,"65,000 KM",2023
+0 DT,Volkswagen Golf 8,N.C,"69,000 KM",2021
+0 DT,Alfa Romeo Giulietta,Essence,"143,000 KM",2015
+0 DT,Volkswagen Passat,Essence,"128,000 KM",2010
+"96,000 DT",Kia Sportage,Essence,"45,000 KM",N.C
+0 DT,Fiat Linea,Essence,"167,000 KM",2009
+"1,111 DT",Jeep Compass,Essence,"64,000 KM",2020
+"1,111 DT",BMW Serie 4,Essence,"150,000 KM",2019
+"1,111 DT",Land Rover Range Rover Sport,Hybride,"42,000 KM",2020
+0 DT,Porsche Cayenne,Essence,"10,000 KM",2015
+0 DT,Mercedes-Benz Classe A,Essence,"89,000 KM",2020
+0 DT,Renault Captur,N.C,"90,000 KM",2022
+"38,500 DT",Fiat Panda,Essence,"130,000 KM",2022
+"42,000 DT",Ford Focus,Essence,"120,000 KM",2016
+0 DT,Fiat Siena,Essence,"200,000 KM",2006
+"75,000 DT",Kia Sportage,Essence,"160,000 KM",2017
+"45,500 DT",Fiat 500C,Essence,"71,000 KM",2017
+0 DT,Dacia Dokker,Diesel,"127,000 KM",2021
+0 DT,Peugeot 308,Diesel,"208,000 KM",2011
+0 DT,Hyundai Tucson,Essence,N.C,2008
+0 DT,Volkswagen Golf,Diesel,"182,000 KM",2012
+0 DT,Volkswagen Golf,Diesel,"134,000 KM",2020
+"61,500 DT",Citroen DS5,Essence,"110,000 KM",2017
+0 DT,Renault Clio,Essence,"90,000 KM",2019
+"42,000 DT",Citroen C3,Essence,"98,270 KM",2018
+0 DT,SEAT Ibiza,Essence,"48,000 KM",2019
+"117,000 DT",Kia Sportage,N.C,"54,000 KM",2020
+"58,000 DT",Volkswagen Passat,Essence,"140,000 KM",2016
+"54,000 DT",Peugeot 2008,Essence,"90,000 KM",2019
+"22,800 DT",Chery QQ,Essence,"104,000 KM",2019
+"45,500 DT",Peugeot 208,Essence,"78,000 KM",2021
+"78,000 DT",Audi A3,Essence,"98,000 KM",2020
+"13,500 DT",Opel Corsa,Essence,"266,000 KM",2000
+"70,000 DT",SEAT Leon,Essence,"61,847 KM",2019
+0 DT,Mercedes-Benz Classe CLA,N.C,"27,000 KM",2022
+"35,500 DT",Citroen C3,Essence,"58,000 KM",2021
+"46,500 DT",Kia Picanto,Essence,"28,000 KM",2021
+0 DT,Volkswagen Polo,Essence,"81,000 KM",2022
+"90,000 DT",MG ZS,Essence,13 KM,2024
+"47,000 DT",Nissan Navara,Diesel,"315,000 KM",2012
+0 DT,Ford Fiesta,Essence,"197,000 KM",2010
+0 DT,Toyota Aygo,Essence,"60,000 KM",2017
+0 DT,Mercedes-Benz 220,Diesel,"250,000 KM",2002
+0 DT,SEAT Ibiza,Essence,"106,000 KM",2021
+0 DT,Volkswagen Golf,Essence,"80,000 KM",2018
+0 DT,Kia Sportage,Diesel,"24,000 KM",2017
+0 DT,Peugeot Partner,Diesel,"105,000 KM",2020
+0 DT,Audi A3,Diesel,"210,000 KM",2010
+"30,000 DT",Peugeot 508,Essence,"268,000 KM",2012
+"40,500 DT",Renault Clio,Essence,"110,000 KM",2016
+0 DT,Mercedes-Benz Classe A,Essence,"68,653 KM",2018
+0 DT,BMW Serie 5,Diesel,"287,586 KM",2007
+0 DT,Hyundai Grand i10,Essence,"94,260 KM",2017
+0 DT,Kia Sportage,Diesel,"207,991 KM",2018
+"19,500 DT",Renault Megane,Diesel,"350,000 KM",2007
+0 DT,Peugeot 308,Essence,"36,799 KM",2021
+"48,500 DT",Kia Rio,Essence,"170,000 KM",2021
+"42,500 DT",Renault Clio,Essence,"80,000 KM",2021
+0 DT,Toyota Hilux,Diesel,N.C,2018
+0 DT,Kia Sportage,Essence,"150,000 KM",2019
+0 DT,Renault Kadjar,Essence,"60,000 KM",2023
+"8,500 DT",Renault Clio,Essence,"300,000 KM",1993
+0 DT,Volkswagen Polo,Essence,"189,000 KM",2012
+400 DT,Renault Clio,Essence,N.C,2023
+0 DT,Citroen C3,Diesel,"92,000 KM",2020
+0 DT,Mercedes-Benz Classe E,Essence,"95,000 KM",2017
+0 DT,Fiat Doblo,Diesel,"165,000 KM",2017
+"36,500 DT",Citroen C-Elysee,Essence,"70,000 KM",2020
+0 DT,Renault Clio,Essence,"150,000 KM",2006
+"52,000 DT",Volkswagen Polo,Essence,N.C,2022
+"120,000 DT",Mazda BT-50,Essence,"190,000 KM",2015
+0 DT,Audi A4,Essence,"44,000 KM",2018
+"26,000 DT",Nissan Micra,Essence,"160,000 KM",2013
+0 DT,Citroen Berlingo,Diesel,"190,000 KM",2016
+0 DT,Peugeot Partner,Diesel,"140,000 KM",2020
+"61,500 DT",Kia Rio,Essence,"48,000 KM",2024
+"12,800 DT",Opel Corsa,Essence,"350,000 KM",2000
+0 DT,Renault Clio,Essence,"150,000 KM",2014
+0 DT,Suzuki Celerio,Essence,"50,000 KM",2023
+0 DT,Volkswagen Polo,Essence,"190,000 KM",2017
+0 DT,Mahindra Hover,Essence,"2,000 KM",2024
+0 DT,Dacia Logan MCV,Essence,"20,000 KM",2023
+0 DT,Renault Symbol,Essence,"120,000 KM",2012
+"46,000 DT",Mazda CX-9,Essence,"286,000 KM",2010
+0 DT,Volkswagen Golf,Diesel,"203,588 KM",2012
+0 DT,Peugeot 208,Essence,"112,223 KM",2017
+0 DT,Renault Symbol,Essence,"195,000 KM",2011
+"41,000 DT",Renault Clio,Essence,"91,300 KM",2020
+"61,000 DT",SsangYong Tivoli,Essence,"74,000 KM",2020
+"77,500 DT",Mercedes-Benz Classe CLA,Essence,"170,000 KM",2014
+"67,500 DT",BMW X5,Diesel,"280,000 KM",2008
+"40,900 DT",Toyota Aygo,Essence,"90,000 KM",2021
+"9,000 DT",Peugeot 205,Essence,"111,000 KM",1993
+"27,500 DT",Peugeot 207,Diesel,"290,000 KM",2011
+0 DT,BMW Serie 1,Essence,"144,000 KM",2015
+0 DT,Kia Sportage,N.C,"100,000 KM",2020
+0 DT,Volkswagen Polo,Essence,"116,000 KM",2021
+0 DT,Hyundai Grand i10,Essence,"90,000 KM",2021
+"1,000 DT",Renault R4,Essence,"57,000 KM",1980
+"10,000 DT",Renault Clio,Essence,"123,000 KM",2005
+"190,000 DT",Hyundai Santa Fe,Diesel,"48,000 KM",2020
+0 DT,Mazda 6,Essence,"157,000 KM",2018
+"19,000 DT",Peugeot 206,Essence,N.C,2001
+"32,000 DT",Fiat Fiorino,Diesel,"112,000 KM",2019
+0 DT,Citroen C3,Essence,"81,000 KM",2021
+"173,000 DT",Mercedes-Benz Classe C,Essence,"9,000 KM",2021
+0 DT,Volkswagen Golf,Essence,"130,000 KM",2015
+"27,000 DT",Chevrolet Spark,Essence,"121,000 KM",2015
+"35,000 DT",Peugeot 308,Essence,"168,000 KM",2015
+"37,000 DT",SEAT Ibiza,Essence,"205,000 KM",2020
+0 DT,Volkswagen Polo,Essence,"80,000 KM",2021
+"51,500 DT",Hyundai i20,Essence,"72,000 KM",2022
+"19,700 DT",Citroen C3,Essence,"195,540 KM",2007
+"85,000 DT",Toyota C-HR,Essence,"711,000 KM",2021
+"25,000 DT",Volkswagen Polo,Essence,"47,000 KM",2006
+"33,000 DT",Hyundai i10,Essence,"88,000 KM",2018
+0 DT,Mazda BT-50,Diesel,N.C,2009
+"38,500 DT",Citroen Berlingo,Diesel,"76,470 KM",2015
+0 DT,Peugeot 208,Essence,"48,000 KM",2022
+"220,000 DT",Mercedes-Benz Classe A,Essence,"10,000 KM",2002
+"64,000 DT",Volkswagen Caddy,Diesel,"124,000 KM",2020
+"33,000 DT",Peugeot Partner,Diesel,"282,000 KM",2016
+0 DT,Mercedes-Benz Classe B,Essence,"226,000 KM",2009
+"65,000 DT",BMW X5,Essence,"154,000 KM",2009
+"30,000 DT",Peugeot 208,Essence,"113,000 KM",2017
+"56,000 DT",Volkswagen Passat,Diesel,"300,000 KM",2013
+0 DT,Nissan Micra,Essence,"190,000 KM",2018
+0 DT,Renault Megane,Diesel,"2,021 KM",2021
+0 DT,Citroen Berlingo,Diesel,"95,000 KM",2020
+0 DT,BMW Serie 1,Essence,"185,000 KM",2016
+0 DT,Kia Picanto,Essence,"30,000 KM",2022
+0 DT,Dacia Sandero,Essence,"78,000 KM",2021
+0 DT,Peugeot 208,Essence,"28,000 KM",2023
+"75,000 DT",Toyota C-HR,Essence,"165,000 KM",2020
+0 DT,Suzuki Celerio,Essence,"70,000 KM",2021
+"60,000 DT",Renault Megane,Essence,"60,000 KM",2021
+"25,000 DT",Mercedes-Benz Classe A,Essence,"100,000 KM",2002
+"8,000 DT",Peugeot 206,Diesel,N.C,2003
+0 DT,Volkswagen Golf 8,Essence,"60,000 KM",2021
+"22,000 DT",Peugeot 301,Essence,"106,000 KM",2014
+"24,500 DT",Peugeot 301,Essence,"170,000 KM",2015
+0 DT,Citroen Nemo,Diesel,"232,000 KM",2018
+0 DT,Volkswagen Golf 4,Essence,"298,000 KM",2000
+"42,500 DT",Suzuki Swift,Essence,"49,500 KM",2019
+"42,300 DT",Kia Picanto,Essence,"74,000 KM",2020
+0 DT,Renault Clio,Essence,231 KM,N.C
+"40,000 DT",Kia Picanto,Essence,"77,000 KM",2021
+0 DT,Mercedes-Benz Classe C,Essence,N.C,2012
+0 DT,Audi Q5,Electrique,"53,000 KM",2021
+0 DT,Dacia Duster,Essence,"170,000 KM",2013
+0 DT,Hyundai i10,Essence,90 KM,N.C
+"26,500 DT",Fiat Grande Punto,Essence,"194,500 KM",2014
+"32,000 DT",Peugeot 308,Essence,"180,000 KM",2015
+"43,000 DT",Renault Clio,Essence,"105,000 KM",2020
+0 DT,Mercedes-Benz Classe C,Essence,N.C,2010
+0 DT,Peugeot Partner,Diesel,"90,000 KM",2012
+"24,800 DT",Renault Clio,Essence,"200,000 KM",2010
+0 DT,Volkswagen Polo,Essence,"186,000 KM",2011
+"42,500 DT",Volkswagen Polo,Essence,"92,500 KM",2021
+"28,000 DT",Volkswagen Passat,Diesel,N.C,2000
+0 DT,Skoda Fabia,Essence,"82,000 KM",2021
+"15,500 DT",Chevrolet Aveo,Essence,"258,000 KM",2005
+"15,500 DT",Renault Symbol,Essence,"390,000 KM",2010
+0 DT,Volkswagen Polo,Diesel,"200,000 KM",2001
+"175,000 DT",Volkswagen Golf 7,Essence,"75,000 KM",2020
+"33,500 DT",BMW Serie 3,Essence,"248,000 KM",2007
+0 DT,Hyundai i20,Essence,"47,000 KM",2022
+"38,000 DT",Hyundai Accent,Essence,"141,000 KM",2016
