@@ -1,0 +1,13 @@
+1. Remove Cars with Mileage Above 500,000
+We'll remove rows where the Mileage is greater than 500,000, as you've observed that these are causing errors and their prices are irrelevant.
+
+2. Limit the Year to 2000
+We will filter the rows to keep only the cars with a Year greater than or equal to 2000, since cars older than this are irrelevant.
+
+3. Handle Missing Mileage for New Cars
+For cars with missing Mileage data:
+
+If the Year is recent (within a certain threshold, e.g., 5 years), we'll keep the row with the null Mileage.
+If the Year is older and Mileage is missing, we will remove the row.
+4. Remove Cars with Irrelevant Price
+We'll remove rows where the Price is below 8,000 or above 500,000 as these prices are considered outliers.
