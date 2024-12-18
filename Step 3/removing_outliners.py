@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 
 
-df = pd.read_csv('clean_data/preset1_cleaned_final.csv')
+df = pd.read_csv('../Step 2/preset2.csv')
 
 # 1. Remove cars with mileage above 500,000
 df_cleaned = df[df['Mileage'] <= 500000]
@@ -27,7 +27,7 @@ df_cleaned = df_cleaned[~((df_cleaned['Mileage'].isnull()) & (df_cleaned['Year']
 df_cleaned = df_cleaned[(df_cleaned['Price'] >= 8000) & (df_cleaned['Price'] <= 500000)]
 
 
-df_cleaned.to_csv('clean_data/evaluating_after_removing_potential_issues.csv', index=False)
+df_cleaned.to_csv('../Step 4/preset3.csv', index=False)
 
 # Boxplots for detecting outliers
 plt.figure(figsize=(14, 5))

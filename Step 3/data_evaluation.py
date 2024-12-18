@@ -4,15 +4,7 @@ import seaborn as sns
 
 # Load the dataset (change the path to where your dataset is located)
 # If your dataset is in CSV format, you can load it like this:
-df = pd.read_csv('cleanData/data_cleaning_step2.csv')
-
-# Fill missing 'Mileage' with the median value
-df['Mileage'] = df['Mileage'].fillna(df['Mileage'].median())
-
-# Fill missing 'Year' with the median value
-df['Year'] = df['Year'].fillna(df['Year'].median())
-
-
+df = pd.read_csv('preset3.csv')
 
 
 # Step 1: Basic Data Exploration

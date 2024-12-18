@@ -390,7 +390,7 @@ Mercedes-Benz,Classe C 180 elegance,Essence,170000.0,2016.0,89000
 Mercedes-Benz,GLC Coupé AMG,Hybride,69000.0,2020.0,278000
 Mercedes-Benz,Classe E 180,Essence,90000.0,2018.0,135000
 Ssangyong,Actyon Sports,Diesel,200000.0,2017.0,42000
-DS,3,Essence,138000.0,2012.0,35000
+Citroen,DS 3,Essence,138000.0,2012.0,35000
 Audi,A3 Berline,Essence,17000.0,2020.0,97000
 Nissan,Qashqai,Essence,147000.0,2011.0,43000
 BMW,Série 5 Confort Luxury,Essence,200000.0,2015.0,90000
@@ -438,7 +438,7 @@ Mercedes-Benz,Classe A 180d,Diesel,50000.0,2019.0,98000
 Volkswagen,Golf 7,Essence,64000.0,2019.0,74000
 Audi,A3 Sportback S-Line,Essence,70000.0,2019.0,95000
 Mercedes-Benz,Classe C AMG,Essence,40000.0,2022.0,205000
-DS,7 Crossback Grand Chic,Essence,140000.0,2021.0,105000
+Citroen,DS 7 Crossback Grand Chic,Essence,140000.0,2021.0,105000
 Mercedes-Benz,Classe C AMG,Essence,50000.0,2022.0,264200
 Volkswagen,Golf 7 Join,Essence,70000.0,2018.0,84000
 Mercedes-Benz,CLA 220,Diesel,240000.0,2013.0,79000
@@ -601,9 +601,9 @@ Kia,Rio,Essence,90000.0,2021.0,55500
 Volkswagen,Polo,Essence,140000.0,2021.0,44500
 Renault,Clio,Essence,116000.0,2012.0,30500
 Peugeot,207,Essence,229999.0,2012.0,17500
-Citroen,Nemo,Diesel,420000.0,2014.0,20000
+Citroen,DS Nemo,Diesel,420000.0,2014.0,20000
 Peugeot,306,Essence,202000.0,2000.0,13500
-Citroen,C3,Essence,97000.0,2018.0,34000
+Citroen,DS C3,Essence,97000.0,2018.0,34000
 SsangYong,Actyon,Diesel,424000.0,2015.0,29000
 Peugeot,3008,Essence,100000.0,2019.0,66500
 Peugeot,Partner,Diesel,70000.0,2020.0,78000
@@ -623,8 +623,8 @@ Fiat,Panda,Essence,130000.0,2022.0,38500
 Ford,Focus,Essence,120000.0,2016.0,42000
 Kia,Sportage,Essence,160000.0,2017.0,75000
 Fiat,500C,Essence,71000.0,2017.0,45500
-Citroen,DS5,Essence,110000.0,2017.0,61500
-Citroen,C3,Essence,98270.0,2018.0,42000
+Citroen,DS DS5,Essence,110000.0,2017.0,61500
+Citroen,DS C3,Essence,98270.0,2018.0,42000
 Kia,Sportage,N.C,54000.0,2020.0,117000
 Volkswagen,Passat,Essence,140000.0,2016.0,58000
 Peugeot,2008,Essence,90000.0,2019.0,54000
@@ -633,7 +633,7 @@ Peugeot,208,Essence,78000.0,2021.0,45500
 Audi,A3,Essence,98000.0,2020.0,78000
 Opel,Corsa,Essence,266000.0,2000.0,13500
 SEAT,Leon,Essence,61847.0,2019.0,70000
-Citroen,C3,Essence,58000.0,2021.0,35500
+Citroen,DS C3,Essence,58000.0,2021.0,35500
 Kia,Picanto,Essence,28000.0,2021.0,46500
 MG,ZS,Essence,13.0,2024.0,90000
 Nissan,Navara,Diesel,315000.0,2012.0,47000
@@ -642,7 +642,7 @@ Renault,Clio,Essence,110000.0,2016.0,40500
 Renault,Megane,Diesel,350000.0,2007.0,19500
 Kia,Rio,Essence,170000.0,2021.0,48500
 Renault,Clio,Essence,80000.0,2021.0,42500
-Citroen,C-Elysee,Essence,70000.0,2020.0,36500
+Citroen,DS C-Elysee,Essence,70000.0,2020.0,36500
 Mazda,BT-50,Essence,190000.0,2015.0,120000
 Nissan,Micra,Essence,160000.0,2013.0,26000
 Kia,Rio,Essence,48000.0,2024.0,61500
@@ -662,10 +662,10 @@ Chevrolet,Spark,Essence,121000.0,2015.0,27000
 Peugeot,308,Essence,168000.0,2015.0,35000
 SEAT,Ibiza,Essence,205000.0,2020.0,37000
 Hyundai,i20,Essence,72000.0,2022.0,51500
-Citroen,C3,Essence,195540.0,2007.0,19700
+Citroen,DS C3,Essence,195540.0,2007.0,19700
 Volkswagen,Polo,Essence,47000.0,2006.0,25000
 Hyundai,i10,Essence,88000.0,2018.0,33000
-Citroen,Berlingo,Diesel,76470.0,2015.0,38500
+Citroen,DS Berlingo,Diesel,76470.0,2015.0,38500
 Mercedes-Benz,Classe A,Essence,10000.0,2002.0,220000
 Volkswagen,Caddy,Diesel,124000.0,2020.0,64000
 Peugeot,Partner,Diesel,282000.0,2016.0,33000

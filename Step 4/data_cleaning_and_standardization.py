@@ -3,7 +3,7 @@ import re
 
 # Load the dataset (change the path to where your dataset is located)
 # If your dataset is in CSV format, you can load it like this:
-df = pd.read_csv('clean_data/evaluating_after_removing_potential_issues.csv')
+df = pd.read_csv('../Step 3/preset3.csv')
 
 # Fill missing 'Mileage' with the median value
 df['Mileage'] = df['Mileage'].fillna(df['Mileage'].median())
@@ -153,4 +153,4 @@ column_order = ['Brand', 'Core_Model', 'Specifications','Year', 'Fuel', 'Mileage
 
 df_cleaned = df_cleaned[column_order]
 
-df_cleaned.to_csv('clean_data/preset2.csv', index=False)
+df_cleaned.to_csv('../Step 6/preset4.csv', index=False)

@@ -3,7 +3,7 @@ import pandas as pd
 from datetime import datetime
 
 # Load the dataset
-df = pd.read_csv("clean_data/preset1.csv")
+df = pd.read_csv("../Step 1/preset1.csv")
 
 # Function to extract and convert mileage to integer
 def clean_mileage(value):
@@ -75,7 +75,6 @@ df = df.drop(columns=['Title'])
 df = df[['Brand', 'Model', 'Fuel', 'Mileage', 'Year', 'Price']]
 
 # Save the cleaned and structured DataFrame
-df.to_csv("clean_data/preset1_cleaned_final.csv", index=False)
 
 # Display the structured DataFrame
 print("Structured Data:\n", df)
@@ -99,3 +98,5 @@ brand_counts = df['Brand'].value_counts()
 # Print the frequency of each brand
 print("Redundancy of each brand:")
 print(brand_counts)
+
+df.to_csv("preset2.csv", index=False)

@@ -1,0 +1,625 @@
+Brand,Core_Model,Specifications,Year,Fuel,Mileage,Price
+audi,Q3,S-Line,2017.0,Essence,100000.0,90000
+audi,Q8,S_Line,2021.0,Essence,16000.0,398000
+audi,Q5,,2018.0,Diesel,100000.0,215000
+audi,A3,Berline,2020.0,Essence,17000.0,97000
+audi,Q3,Sportback,2021.0,Essence,10000.0,188000
+audi,Q3,,2024.0,Essence,2000.0,190000
+audi,Q3,Bva,2023.0,Essence,3000.0,165000
+audi,A6,,2016.0,Essence,166920.0,55000
+audi,A5,Sportback,2019.0,Essence,80000.0,115000
+audi,A5,Sportback,2021.0,Essence,58000.0,170000
+audi,Q5,S-Line,2015.0,Diesel,176000.0,110000
+audi,Q2,Design,2019.0,Essence,77000.0,95000
+audi,A3,Sportback S-Line,2019.0,Essence,70000.0,95000
+audi,A3,Sportback 1.5,2023.0,Hybride,900.0,145000
+audi,Q3,,2023.0,Hybride,40000.0,200000
+audi,A5,Cabriolet S-Line,2010.0,Essence,120000.0,59000
+audi,Q3,,2017.0,Essence,77000.0,85000
+audi,A5,Coupé,2014.0,Essence,109000.0,75000
+audi,Q5,2.0L,2009.0,Essence,255000.0,47000
+audi,Q5,S-Line,2021.0,Diesel,40000.0,295000
+audi,Q5,S-Line,2014.0,Diesel,270000.0,78000
+audi,Q5,Sportback S-Line,2022.0,Hybride,45000.0,295000
+audi,A5,Sportback,2021.0,Essence,70000.0,185000
+audi,A3,Berline,2019.0,Essence,50000.0,85000
+audi,Q3,,2017.0,Essence,95000.0,95000
+audi,Q3,Sportback,2021.0,Hybride,50000.0,175000
+audi,Q3,,2019.0,Essence,110000.0,112000
+audi,A3,Sportback 1.2L,2019.0,Essence,125000.0,78500
+audi,A5,Cabriolet S-Line,2010.0,Essence,120000.0,59000
+audi,A5,Sportback S-Line,2019.0,Essence,120000.0,109000
+audi,A3,,2020.0,Essence,98000.0,78000
+audi,A5,Sportback S-Line,2020.0,Essence,85000.0,147000
+audi,Q5,Quattro 40 Tdi,2019.0,Diesel,170000.0,165000
+audi,A4,Face_Lift,2016.0,Essence,143000.0,58000
+bmw,Série 1,I Pack Sport,2019.0,Essence,200000.0,75000
+bmw,Série 6,Face Lift,2009.0,Essence,190000.0,85000
+bmw,Série 3,318I,2017.0,Essence,117000.0,88000
+bmw,Série 4,Coupé 420I,2015.0,Essence,180000.0,87000
+bmw,X1,Facelift Pack M,2020.0,Essence,87000.0,129000
+bmw,X6,,2011.0,Essence,180000.0,98000
+bmw,Série 5,,2020.0,Essence,93000.0,178000
+bmw,Série 4,Gran Coupé Luxury,2018.0,Essence,100000.0,99000
+bmw,Série 3,Luxury,2013.0,Essence,112000.0,65000
+bmw,X6,Pack M,2008.0,Diesel,270000.0,110000
+bmw,Série 7,740Li,2010.0,Essence,98000.0,110000
+bmw,Série 3,,2007.0,Essence,248000.0,33500
+bmw,Série 1,Pack M,2020.0,Essence,110.0,115000
+bmw,Série 1,Pack M,2020.0,Essence,40000.0,135000
+bmw,Série 4,Gran Coupé 418 Luxury,2016.0,Essence,133000.0,97000
+bmw,Série 5,530E Xdrive Pack M,2021.0,Hybride,50000.0,278000
+bmw,Série 3,318I,2015.0,Essence,200000.0,59000
+bmw,Série 4,Gran Coupé,2019.0,Essence,121000.0,100000
+bmw,Série 5,Pack M,2021.0,Essence,70000.0,185000
+bmw,Série 4,Coupé Pack M,2021.0,Essence,140000.0,130000
+bmw,Série 4,Gran Coupé,2020.0,Essence,53000.0,107000
+bmw,Série 5,Confort Luxury,2015.0,Essence,200000.0,90000
+bmw,Série 3,,2021.0,Essence,80000.0,174000
+bmw,Série 1,,2017.0,Essence,126000.0,68000
+bmw,Série 4,Coupé 420I Pack M,2015.0,Essence,160000.0,107000
+bmw,Série 1,,2009.0,Essence,131766.0,40000
+bmw,Série 2,Gran Coupé 218I,2022.0,Essence,21000.0,135000
+bmw,Série 5,,2021.0,Essence,32000.0,208000
+bmw,Série 1,Pack Sport,2020.0,Essence,70000.0,92000
+bmw,X5,Xdrive E45,2021.0,Hybride,19000.0,455000
+bmw,Série 4,Gran Coupé 418 Pack M,2017.0,Essence,110000.0,125000
+bmw,X5,,2008.0,Diesel,280000.0,67500
+bmw,Série 3,Coupé,2010.0,Essence,156000.0,62000
+bmw,Série 5,520,2014.0,Essence,182000.0,75000
+bmw,Série 3,,2012.0,Essence,180000.0,45000
+bmw,X4,,2016.0,Essence,62000.0,152000
+bmw,Série 4,,2019.0,Essence,150000.0,105000
+bmw,Série 1,,2007.0,Essence,240000.0,28600
+bmw,X2,S Drive,2020.0,Essence,74000.0,132000
+bmw,Série 1,,2015.0,Essence,144000.0,55000
+bmw,Série 4,Coupé M,2019.0,Essence,85000.0,150000
+bmw,X2,Lounge,2024.0,Essence,0.0,199000
+bmw,Série 4,Gran Coupé,2019.0,Essence,90000.0,145000
+bmw,X1,1.6L,2016.0,Essence,126000.0,85000
+bmw,Série 1,M,2022.0,Essence,40000.0,138500
+bmw,Série 4,Gran Coupé Kit-M-Individual,2016.0,Essence,120000.0,145000
+bmw,X5,,2009.0,Essence,154000.0,65000
+bmw,X3,Luxury Line,2006.0,Diesel,186000.0,65000
+bmw,Série 3,Coupé Kit M///,2012.0,Essence,152000.0,74000
+bmw,Série 5,Luxury Line,2017.0,Essence,155000.0,124500
+bmw,Série 1,Business Line,2012.0,Essence,251000.0,36500
+bmw,Série 7,Individuel,2008.0,Essence,300000.0,45000
+bmw,Série 4,Coupé,2017.0,Essence,78000.0,110000
+bmw,Série 7,740I Face-Lift,2008.0,Essence,220000.0,55000
+bmw,Série 3,,2015.0,Essence,210000.0,67000
+bmw,Série 7,B7 Alpina,2011.0,Essence,115000.0,158000
+bmw,X4,,2018.0,Diesel,140000.0,139000
+bmw,Série 1,Pack Sport M,2016.0,Essence,165000.0,75000
+citroën,C3,,2018.0,Essence,92000.0,38000
+citroën,Ds,C3,2007.0,Essence,195540.0,19700
+citroën,C3,Shine,2019.0,Essence,90000.0,44500
+citroën,Ds,C-Elysee,2020.0,Essence,70000.0,36500
+citroën,Ds,Ds5,2017.0,Essence,110000.0,61500
+citroën,Ds,C3,2018.0,Essence,98270.0,42000
+citroën,Ds,3,2012.0,Essence,138000.0,35000
+citroën,Ds,C3,2018.0,Essence,97000.0,34000
+citroën,Ds,Nemo,2014.0,Diesel,420000.0,20000
+citroën,C3,Shine,2020.0,Essence,28000.0,48000
+citroën,Berlingo,Utilitaire 1.6L,2023.0,Diesel,31000.0,58500
+citroën,Berlingo,Utilitaire,2018.0,Diesel,170000.0,37500
+citroën,Ds,7 Crossback Grand Chic,2021.0,Essence,140000.0,105000
+citroën,Ds3,,2017.0,Essence,92000.0,30500
+citroën,C3,Live,2019.0,Essence,119000.0,34500
+citroën,C1,Importée Tn245,2021.0,Essence,56000.0,38500
+citroën,C3,Shine,2018.0,Essence,88000.0,37500
+citroën,C3,Shine,2020.0,Essence,45000.0,47500
+citroën,C4,,2012.0,Essence,109000.0,38000
+citroën,Ds,Berlingo,2015.0,Diesel,76470.0,38500
+citroën,C3,Shine,2019.0,Essence,58000.0,44500
+citroën,Ds,C3,2021.0,Essence,58000.0,35500
+fiat,500,Dolcevita,2021.0,Hybride,78000.0,55000
+fiat,Fiorino,,2019.0,Diesel,112000.0,32000
+fiat,Grande,Punto,2014.0,Essence,194500.0,26500
+fiat,Tipo,5 Portes,2021.0,Essence,68000.0,49500
+fiat,Doblo,,2020.0,Diesel,160000.0,25800
+fiat,Panda,City Cross,2020.0,Essence,52000.0,43500
+fiat,Panda,,2022.0,Essence,130000.0,38500
+fiat,500,C,2017.0,Essence,71000.0,45500
+fiat,Tipo,,2020.0,Essence,113000.0,53000
+fiat,Fiorino,,2021.0,Diesel,120000.0,35000
+fiat,Panda,City Cross,2022.0,Essence,20000.0,45000
+fiat,Tipo,5 Portes,2018.0,Essence,75000.0,46000
+fiat,500,Cult Club,2023.0,Essence,3000.0,62000
+fiat,500,C,2017.0,Essence,71000.0,45500
+fiat,500,X Pop Star,2018.0,Essence,60000.0,65000
+ford,Fusion,1.6,2017.0,Essence,90000.0,55500
+ford,Fusion,Titanium,2016.0,Essence,217000.0,48000
+ford,Focus,Titanium,2015.0,Essence,200000.0,40000
+ford,Mondeo,,2020.0,Hybride,34000.0,109000
+ford,Mondeo,,2020.0,Hybride,32000.0,115000
+ford,Focus,,2016.0,Essence,120000.0,42000
+ford,Focus,,2020.0,Essence,60000.0,79000
+ford,Ranger,Raptor,2022.0,Diesel,100000.0,228000
+ford,Kuga,,2017.0,Essence,100000.0,69000
+ford,Fiesta,Titanium,2013.0,Essence,223000.0,29500
+ford,Fiesta,Trend,2013.0,Essence,161000.0,28000
+ford,Focus,Trend Sport,2014.0,Essence,180000.0,36000
+ford,Ecosport,,2022.0,Essence,19000.0,78000
+ford,Ecosport,Titanium,2022.0,Essence,44000.0,67000
+ford,Ecosport,Titanium,2022.0,Essence,67000.0,69000
+haval,H6,Luxury,2021.0,Essence,138000.0,76000
+haval,H6,Luxury,2019.0,Essence,100000.0,77000
+haval,Jolion,1 Ere,2023.0,Essence,30000.0,93000
+haval,H6,,2023.0,Essence,12442.0,126000
+haval,Jolion,,2021.0,Essence,40000.0,88000
+haval,Jolion,,2022.0,Essence,40000.0,87000
+haval,H2,Luxury,2019.0,Essence,40000.0,69000
+haval,H6,Luxury,2020.0,Essence,120000.0,79000
+haval,H6,Luxury,2021.0,Essence,40000.0,90000
+haval,H6,Luxury,2019.0,Essence,32000.0,86000
+haval,H6,,2022.0,Essence,16000.0,117000
+haval,H6,Luxury,2021.0,Essence,55000.0,85000
+haval,H6,Luxury,2019.0,Essence,90000.0,78000
+haval,H6,,2022.0,Essence,16000.0,99000
+haval,H6,,2022.0,Essence,13000.0,150600
+haval,H6,Luxury,2020.0,Essence,115000.0,79000
+hyundai,I10,Grand,2021.0,Essence,54000.0,53000
+hyundai,I10,,2018.0,Essence,88000.0,33000
+hyundai,I20,,2022.0,Essence,72000.0,51500
+hyundai,Santa,Fe,2020.0,Diesel,48000.0,190000
+hyundai,I10,Grand  1.0L,2021.0,Essence,57000.0,39800
+hyundai,Tucson,,2021.0,Hybride,80000.0,137000
+hyundai,I10,,2023.0,Essence,65000.0,41000
+hyundai,Tucson,,2022.0,Essence,37000.0,145000
+hyundai,Ix35,Toit Panoramique,2016.0,Diesel,160000.0,63500
+hyundai,Tucson,Top Grade,2023.0,Hybride,16000.0,178000
+hyundai,Tucson,,2018.0,Diesel,81000.0,100000
+hyundai,Tucson,High Grade,2023.0,Essence,19000.0,129000
+hyundai,Tucson,Xcellence,2022.0,Hybride,120000.0,138000
+hyundai,Tucson,,2020.0,Essence,120000.0,87000
+hyundai,Tucson,,2023.0,Essence,24000.0,161000
+hyundai,Kona,,2021.0,Hybride,30000.0,79000
+hyundai,I10,Grand,2022.0,Essence,30000.0,53000
+hyundai,Tucson,Top Grade,2022.0,Essence,40000.0,147000
+hyundai,Accent,,2016.0,Essence,141000.0,38000
+hyundai,I10,Grand  Sedan,2017.0,Essence,150000.0,30000
+hyundai,Kona,N Line,2020.0,Hybride,19500.0,97500
+hyundai,I10,Grand,2021.0,Essence,43200.0,43500
+kia,Sportage,,2019.0,Essence,150000.0,85000
+kia,Sportage,Gt-Line,2023.0,Hybride,40000.0,149000
+kia,Rio,5P Sx,2020.0,Essence,35000.0,58500
+kia,Rio,5P Sx,2019.0,Essence,68954.0,54000
+kia,Rio,5P Gt-Line,2023.0,Essence,9000.0,73000
+kia,Sportage,Gt-Line,2024.0,Hybride,15000.0,188000
+kia,Rio,5P Gt-Line,2021.0,Essence,70000.0,62000
+kia,Rio,5P Sx,2020.0,Essence,70000.0,57500
+kia,Sorento,,2016.0,Diesel,120000.0,95000
+kia,Sportage,,2018.0,Diesel,140000.0,118000
+kia,Rio,5P Sx Plus,2020.0,Essence,99000.0,53000
+kia,Picanto,Populaire,2021.0,Essence,3805.0,43000
+kia,Seltos,,2021.0,Essence,130000.0,89000
+kia,Rio,5P Gt-Line,2021.0,Essence,60000.0,65000
+kia,Rio,Berline,2016.0,Essence,163746.0,35000
+kia,Sportage,Gt-Line,2019.0,Diesel,119000.0,98000
+kia,Sportage,,2019.0,Essence,69000.0,95000
+kia,Picanto,Gt-Line,2022.0,Essence,63000.0,54500
+kia,Sportage,,2020.0,Essence,40000.0,119000
+kia,Sportage,,2019.0,Essence,125000.0,85000
+kia,Sportage,,2020.0,Hybride,140000.0,98000
+kia,Sportage,,2020.0,Hybride,53000.0,120000
+kia,Rio,5P,2021.0,Essence,51000.0,62000
+kia,Sportage,,2019.0,Essence,127000.0,83500
+kia,Rio,5P Gt-Line,2021.0,Essence,64000.0,64000
+kia,Sportage,Gt-Line,2021.0,Hybride,120000.0,119000
+kia,Sportage,Gt-Line,2017.0,Diesel,140000.0,105000
+kia,Sportage,Gt-Line,2021.0,Diesel,19000.0,128000
+kia,Sportage,,2021.0,Hybride,114000.0,107000
+kia,Rio,5P,2022.0,Essence,85000.0,59700
+kia,Sportage,,2022.0,Essence,23000.0,143000
+kia,Sportage,Black Edition,2018.0,Essence,117000.0,78000
+kia,Sportage,Gt-Line,2023.0,Hybride,36000.0,150000
+kia,Rio,Berline,2020.0,Essence,90500.0,52000
+kia,Picanto,,2021.0,Essence,28000.0,46500
+kia,Sportage,,2017.0,Essence,160000.0,75000
+kia,Sportage,Gt-Line,2018.0,Diesel,139000.0,95000
+kia,Cerato,,2015.0,Essence,14400.0,39500
+kia,Picanto,,2021.0,Essence,28000.0,46500
+kia,Picanto,1 Ère Main,2024.0,Essence,0.0,61000
+kia,Picanto,,2021.0,Essence,77000.0,40000
+kia,Sportage,1.6L,2018.0,Diesel,105000.0,89000
+kia,Rio,,2021.0,Essence,90000.0,55500
+kia,Rio,5P,2019.0,Essence,145000.0,51000
+kia,Picanto,,2020.0,Essence,74000.0,42300
+kia,Rio,,2021.0,Essence,170000.0,48500
+kia,Rio,,2024.0,Essence,48000.0,61500
+land rover,Range Rover,Evoque,2019.0,Hybride,40000.0,195000
+land rover,Range Rover,Sport,2014.0,Diesel,160000.0,245000
+land rover,Range Rover,Sport,2007.0,Diesel,208000.0,85000
+land rover,Discovery,Sport,2017.0,Diesel,128000.0,128000
+land rover,Range Rover,Sport,2017.0,Diesel,90000.0,230000
+land rover,Discovery,,2015.0,Essence,170000.0,115000
+land rover,Range Rover,Evoque Face_Lift,2016.0,Essence,170000.0,95000
+land rover,Range Rover,Velar R-Dynamic,2020.0,Essence,90000.0,295000
+land rover,Range Rover,Velar R-Dynamic,2019.0,Essence,33000.0,268000
+land rover,Discovery,,2016.0,Essence,110000.0,125000
+land rover,Range Rover,Evoque,2018.0,Diesel,145000.0,120000
+land rover,Range Rover,Sport,2019.0,Hybride,100000.0,340000
+land rover,Range Rover,Sport,2015.0,Essence,190000.0,200000
+land rover,Range Rover,Sport Hse Dynamic,2016.0,Diesel,300000.0,189000
+land rover,Discovery,Sport,2016.0,Diesel,94000.0,118000
+land rover,Range Rover,Evoque,2019.0,Hybride,50000.0,187000
+land rover,Discovery,,2017.0,Diesel,130000.0,126000
+land rover,Range Rover,Evoque R-Dynamic,2021.0,Diesel,59000.0,169000
+land rover,Range Rover,Sport,2014.0,Essence,180000.0,178000
+land rover,Discovery,Sport,2017.0,Diesel,160000.0,125000
+land rover,Range Rover,Evoque R-Dynamic,2016.0,Diesel,150000.0,122000
+land rover,Range Rover,Evoque Hse,2022.0,Hybride,60000.0,255000
+land rover,Discovery,R-Dynamic,2020.0,Diesel,87000.0,235000
+land rover,Range Rover,Sport Autobiography,2021.0,Hybride,60000.0,385000
+land rover,Range Rover,Evoque R-Dynamic S,2021.0,Hybride,59000.0,218000
+land rover,Range Rover,Evoque,2019.0,Hybride,60000.0,210000
+land rover,Range Rover,Sport,2020.0,Hybride,37000.0,350000
+land rover,Range Rover,Velar R-Dynamic,2019.0,Diesel,100000.0,350000
+land rover,Range Rover,Velar R-Dynamic,2020.0,Diesel,55000.0,258000
+mercedes-benz,Classe C,La,2014.0,Essence,170000.0,77500
+mercedes-benz,Classe C,Amg,2022.0,Essence,40000.0,208000
+mercedes-benz,Classe C,Coupé Amg,2019.0,Hybride,86000.0,178000
+mercedes-benz,Glc,Coupé,2020.0,Hybride,70000.0,245000
+mercedes-benz,Classe G,,2010.0,Diesel,168000.0,350000
+mercedes-benz,Classe C,Amg,2014.0,Essence,170000.0,115000
+mercedes-benz,Gla,Amg,2016.0,Essence,74000.0,113000
+mercedes-benz,Cla,Amg,2020.0,Essence,20000.0,169000
+mercedes-benz,Classe A,,2021.0,Hybride,66000.0,145000
+mercedes-benz,Classe C,,2021.0,Essence,9000.0,173000
+mercedes-benz,Classe E,,2010.0,Essence,197000.0,67000
+mercedes-benz,Classe E,180,2018.0,Essence,90000.0,135000
+mercedes-benz,Classe E,Coupé,2018.0,Hybride,86000.0,340000
+mercedes-benz,Classe E,Business,2022.0,Essence,8000.0,291800
+mercedes-benz,Classe A,Amg,2022.0,Essence,20000.0,158000
+mercedes-benz,Classe C,Amg,2014.0,Essence,160000.0,99000
+mercedes-benz,Classe A,,2002.0,Essence,100000.0,25000
+mercedes-benz,Glc,Coupé,2023.0,Essence,6600.0,360000
+mercedes-benz,Classe E,,2022.0,Essence,9000.0,245000
+mercedes-benz,Classe E,200,2010.0,Essence,330000.0,51000
+mercedes-benz,Classe E,E220,2011.0,Diesel,330000.0,77000
+mercedes-benz,Classe C,Amg,2023.0,Essence,16000.0,240000
+mercedes-benz,Cla,,2014.0,Essence,163000.0,81000
+mercedes-benz,Classe S,,2020.0,Hybride,40000.0,450000
+mercedes-benz,Cla,Amg,2021.0,Essence,30000.0,169000
+mercedes-benz,Classe A,,2002.0,Essence,10000.0,220000
+mercedes-benz,Classe A,180D,2019.0,Diesel,50000.0,98000
+mercedes-benz,Classe C,Amg,2022.0,Essence,40000.0,205000
+mercedes-benz,Cla,,2021.0,Hybride,69000.0,174000
+mercedes-benz,Classe C,Amg,2022.0,Essence,50000.0,264200
+mercedes-benz,Glc,,2016.0,Essence,83000.0,158000
+mercedes-benz,Glc,Coupé,2024.0,Essence,0.0,400000
+mercedes-benz,Classe C,,2012.0,Essence,159000.0,73500
+mercedes-benz,Glc,Coupé Amg,2021.0,Hybride,47000.0,260000
+mercedes-benz,Classe S,Executive,2008.0,Essence,170000.0,78000
+mercedes-benz,Classe S,,2015.0,Hybride,79000.0,195000
+mercedes-benz,Classe C,Coupé Amg,2019.0,Essence,40000.0,179000
+mercedes-benz,Cla,,2020.0,Diesel,93000.0,148000
+mercedes-benz,Classe A,Amg,2022.0,Essence,15000.0,172000
+mercedes-benz,Ml,,2010.0,Diesel,231000.0,88000
+mercedes-benz,Classe S,S350. Toit Ouvrant,2009.0,Essence,147000.0,98000
+mercedes-benz,Classe C,,2013.0,Essence,180000.0,66000
+mercedes-benz,Classe C,Amg,2018.0,Hybride,54000.0,165000
+mercedes-benz,Classe C,Amg,2020.0,Hybride,69000.0,165000
+mercedes-benz,Ml,,2007.0,Diesel,250000.0,58000
+mercedes-benz,Classe C,Amg,2022.0,Essence,32000.0,197000
+mercedes-benz,Cla,,2021.0,Diesel,60000.0,145000
+mercedes-benz,Classe A,Amg,2014.0,Essence,180000.0,68500
+mercedes-benz,Glc,Coupé Amg,2024.0,Essence,0.0,420000
+mercedes-benz,Classe C,,2014.0,Essence,200000.0,105000
+mercedes-benz,Classe A,Berline Amg,2020.0,Essence,100000.0,132000
+mercedes-benz,Cla,Amg,2024.0,Essence,0.0,220000
+mercedes-benz,Gle,Coupé,2022.0,Hybride,30000.0,450000
+mercedes-benz,Classe E,Amg,2020.0,Hybride,70000.0,260000
+mercedes-benz,Glc,Coupé Amg,2021.0,Hybride,80000.0,270000
+mercedes-benz,Classe C,Amg +,2021.0,Essence,60000.0,174000
+mercedes-benz,Cla,,2017.0,Diesel,130000.0,115000
+mercedes-benz,Glc,Coupé Amg,2021.0,Hybride,50000.0,259000
+mercedes-benz,Glc,Amg,2018.0,Hybride,130000.0,197000
+mercedes-benz,Classe E,,2020.0,Diesel,158000.0,168000
+mercedes-benz,Gla,Amg,2018.0,Essence,30000.0,122000
+mercedes-benz,Classe C,,2014.0,Essence,207600.0,78000
+mercedes-benz,Cla,Amg,2020.0,Essence,100000.0,144900
+mercedes-benz,Classe A,,2020.0,Essence,50000.0,108000
+mercedes-benz,Classe C,Amg +,2024.0,Hybride,11000.0,248000
+mercedes-benz,Classe C,Coupé Amg,2019.0,Essence,120000.0,145000
+mercedes-benz,Classe E,,2010.0,Essence,197000.0,67000
+mercedes-benz,Glc,Coupé Amg,2016.0,Essence,106000.0,225000
+mercedes-benz,Gla,Amg,2023.0,Essence,20000.0,189000
+mercedes-benz,Cla,Amg,2023.0,Essence,30000.0,188000
+mercedes-benz,Classe A,A 200,2018.0,Essence,57000.0,124000
+mercedes-benz,Classe E,Amg,2011.0,Essence,135000.0,77000
+mercedes-benz,Classe C,Amg,2022.0,Essence,80000.0,215000
+mercedes-benz,Classe C,Amg,2019.0,Diesel,80000.0,148000
+mercedes-benz,Cla,Amg,2020.0,Hybride,42000.0,169000
+mercedes-benz,Glc,Coupé Amg,2024.0,Essence,0.0,415000
+mercedes-benz,Classe E,Amg,2024.0,Hybride,0.0,450000
+mercedes-benz,Classe C,Amg,2011.0,Essence,200000.0,71000
+mercedes-benz,Classe C,Amg,2020.0,Hybride,35000.0,205000
+mercedes-benz,Classe A,A200,2024.0,Hybride,8000.0,169000
+mercedes-benz,Classe C,Amg,2016.0,Essence,175000.0,109000
+mercedes-benz,Cla,Amg,2021.0,Hybride,25000.0,170000
+mercedes-benz,Classe A,Amg,2020.0,Hybride,35000.0,135000
+mercedes-benz,Glc,Coupé Amg,2020.0,Hybride,69000.0,278000
+mercedes-benz,Classe E,Amg,2024.0,Hybride,0.0,435000
+mercedes-benz,Glb,Amg,2023.0,Essence,16000.0,184000
+mercedes-benz,Classe A,Amg,2021.0,Essence,60000.0,115000
+mercedes-benz,Classe C,Amg,2016.0,Essence,180000.0,99500
+mercedes-benz,Classe C,Amg,2019.0,Essence,135000.0,161300
+mercedes-benz,Classe A,,2021.0,Essence,90000.0,110000
+mercedes-benz,Classe E,Coupé Amg,2010.0,Essence,180000.0,68000
+mercedes-benz,Classe S,S 350 Phase 2,2010.0,Essence,165000.0,122000
+mercedes-benz,Classe C,180 Elegance,2016.0,Essence,170000.0,89000
+mercedes-benz,Glc,Coupé Amg,2020.0,Hybride,82415.0,230000
+mercedes-benz,Cla,220,2013.0,Diesel,240000.0,79000
+mercedes-benz,Classe,X,2020.0,Diesel,68000.0,205000
+mercedes-benz,Classe C,Amg,2023.0,Essence,50000.0,235000
+mercedes-benz,Cla,Kit Amg 200,2020.0,Essence,150000.0,129000
+mercedes-benz,Classe,B,2014.0,Essence,100000.0,48000
+mercedes-benz,Glc,Coupé Amg,2017.0,Diesel,190000.0,189000
+mercedes-benz,Gla,250E Pack Amg,2023.0,Hybride,26000.0,225000
+mercedes-benz,Classe C,Pack Amg Pack Night,2019.0,Hybride,120000.0,152000
+mercedes-benz,Gla,Amg,2021.0,Essence,90000.0,173000
+mercedes-benz,Cla,Kit Amg,2014.0,Essence,124000.0,83000
+mercedes-benz,Classe C,Coupé Amg,2012.0,Essence,200000.0,63000
+mercedes-benz,Cla,Urban,2018.0,Essence,125043.0,97000
+mercedes-benz,Classe A,Amg,2019.0,Diesel,96000.0,118000
+mercedes-benz,Classe C,Amg,2019.0,Hybride,120000.0,152000
+mercedes-benz,Gle,Coupé,2020.0,Diesel,54000.0,420000
+mercedes-benz,Classe C,,2022.0,Essence,7300.0,245000
+mercedes-benz,Glb,200 D,2021.0,Diesel,111000.0,210000
+mercedes-benz,Classe C,Coupé Amg,2018.0,Essence,130000.0,167000
+mercedes-benz,Gla,Amg,2023.0,Essence,12000.0,235000
+mercedes-benz,Classe C,Amg +,2015.0,Essence,146000.0,135000
+mercedes-benz,Classe C,,2015.0,Essence,158000.0,99000
+mercedes-benz,Cla,,2021.0,Essence,87000.0,149000
+mercedes-benz,Cla,Importée Tn245,2020.0,Diesel,138000.0,118000
+mercedes-benz,Cla,Amg,2020.0,Diesel,138000.0,145000
+mercedes-benz,Classe E,Amg,2019.0,Essence,55001.0,165000
+mercedes-benz,Classe C,Amg +,2024.0,Essence,0.0,275000
+mercedes-benz,Classe C,Amg,2023.0,Essence,20000.0,255100
+mercedes-benz,Gla,La Nouvelle Gla 250E Amg,2023.0,Hybride,10730.0,235000
+mercedes-benz,Classe C,Amg,2011.0,Essence,249000.0,65000
+mercedes-benz,Classe C,,2021.0,Essence,30570.0,178000
+mercedes-benz,Cla,Amg,2024.0,Hybride,1000.0,225000
+mercedes-benz,Cla,Amg,2023.0,Hybride,18500.0,185000
+mercedes-benz,Classe A,Amg,2018.0,Essence,68000.0,135000
+mercedes-benz,Classe C,Amg,2019.0,Diesel,145000.0,145000
+mercedes-benz,Gla,180 Pack Amg,2022.0,Essence,40000.0,185000
+mercedes-benz,Classe A,Amg,2019.0,Diesel,141000.0,119000
+mercedes-benz,Glc,Coupé,2020.0,Diesel,52000.0,240000
+mercedes-benz,Cla,Amg,2024.0,Hybride,6000.0,220000
+mercedes-benz,Classe A,Amg Premium,2013.0,Essence,131000.0,78000
+mercedes-benz,Cls,Amg,2011.0,Diesel,160000.0,119000
+mercedes-benz,Classe C,,2013.0,Essence,235000.0,55500
+mercedes-benz,Classe C,Avantgarde,2022.0,Essence,27000.0,159000
+mercedes-benz,Classe E,Amg,2023.0,Essence,10776.0,390000
+mercedes-benz,Classe C,Coupé Amg,2019.0,Essence,50000.0,173000
+mercedes-benz,Classe C,Amg,2022.0,Essence,50893.0,185000
+mercedes-benz,Cla,Amg Edition 1,2021.0,Hybride,31235.0,169900
+mercedes-benz,Classe C,Amg,2014.0,Essence,164000.0,89000
+mercedes-benz,Classe E,1.6L,2017.0,Essence,132000.0,138000
+mercedes-benz,Glc,Amg,2017.0,Essence,115000.0,169000
+mg,Zs,,2024.0,Essence,13.0,90000
+mg,Hs,Trophy,2022.0,Essence,111000.0,90000
+mg,Gs,Luxe Plus,2017.0,Essence,100000.0,61000
+mg,Hs,Trophy,2021.0,Essence,35000.0,103000
+mg,Gs,Luxe,2017.0,Essence,115000.0,62000
+mg,Zs,,2019.0,Essence,65000.0,65000
+mg,Zs,Luxury,2022.0,Essence,20000.0,72000
+mg,5,,2022.0,Essence,37000.0,58000
+mg,Zs,Confort Plus,2019.0,Essence,141000.0,58000
+mg,Hs,Luxury,2020.0,Essence,87000.0,77900
+mg,6,,2021.0,Essence,22000.0,79000
+mg,Zs,,2022.0,Essence,35000.0,78000
+mg,Zs,Luxury,2022.0,Essence,80000.0,75000
+mg,Zs,,2021.0,Essence,110000.0,58000
+mini,3,Portes One,2009.0,Essence,200000.0,29000
+mini,3,Portes John Cooper Works,2017.0,Essence,100000.0,63000
+mini,Cabrio,,2010.0,Essence,86111.0,48000
+mini,5,Portes Très Bon État,2016.0,Essence,160000.0,49800
+mini,3,Portes One,2013.0,Essence,140000.0,37000
+mini,Countryman,All4,2020.0,Hybride,33000.0,139500
+mini,Clubman,,2019.0,Essence,34000.0,100000
+mini,5,Portes,2015.0,Essence,75000.0,58000
+mini,5,Portes One,2016.0,Essence,78000.0,57000
+mini,5,Portes,2021.0,Essence,18000.0,135000
+nissan,Micra,,2013.0,Essence,160000.0,26000
+nissan,Qashqai,,2011.0,Essence,147000.0,43000
+nissan,Juke,,2015.0,Essence,160000.0,39500
+nissan,Micra,,2017.0,Essence,130000.0,29500
+nissan,Juke,Tekna,2014.0,Essence,163166.0,51000
+nissan,Juke,Tekna,2021.0,Essence,53000.0,87000
+nissan,Qashqai,,2022.0,Essence,26000.0,95000
+nissan,Juke,,2023.0,Essence,27000.0,82000
+nissan,Qashqai,,2016.0,Diesel,147000.0,56000
+nissan,Micra,,2020.0,Essence,74300.0,33800
+nissan,Navara,,2012.0,Diesel,315000.0,47000
+nissan,Juke,Tekna,2024.0,Essence,6000.0,92500
+peugeot,208,Style,2020.0,Diesel,128000.0,45500
+peugeot,508,,2012.0,Essence,268000.0,30000
+peugeot,Partner,,2020.0,Diesel,70000.0,78000
+peugeot,3008,,2019.0,Essence,100000.0,66500
+peugeot,508,,2020.0,Essence,46000.0,85000
+peugeot,307,,2007.0,Essence,110451.0,25500
+peugeot,308,,2023.0,Diesel,48000.0,126000
+peugeot,308,,2020.0,Essence,102000.0,50000
+peugeot,2008,Allure Toit Cielo Blanc Nacré,2018.0,Essence,125000.0,50000
+peugeot,2008,Allure,2022.0,Essence,34000.0,97000
+peugeot,3008,,2019.0,Essence,87000.0,82000
+peugeot,208,,2021.0,Essence,78000.0,45500
+peugeot,2008,,2019.0,Essence,90000.0,54000
+peugeot,3008,Gt Gt-Line,2020.0,Essence,125000.0,89000
+peugeot,2008,,2018.0,Essence,117000.0,44000
+peugeot,2008,Allure,2015.0,Essence,96000.0,40000
+peugeot,3008,,2020.0,Essence,112000.0,69000
+peugeot,508,,2018.0,Essence,145000.0,51000
+peugeot,Rifter,5 Places,2020.0,Diesel,95000.0,72000
+peugeot,Partner,Origin Utilitaire Pack Clim Pm,2019.0,Diesel,73000.0,56000
+peugeot,207,Access Plus,2011.0,Diesel,290000.0,27500
+peugeot,301,,2015.0,Essence,170000.0,24500
+peugeot,Rcz,,2011.0,Essence,171000.0,40000
+peugeot,3008,,2020.0,Diesel,148000.0,79000
+peugeot,301,,2014.0,Essence,106000.0,22000
+peugeot,3008,,2022.0,Essence,55000.0,105000
+peugeot,3008,,2017.0,Essence,105000.0,71000
+peugeot,3008,Gt-Line,2017.0,Essence,260000.0,77000
+peugeot,Partner,,2009.0,Diesel,320000.0,26000
+peugeot,2008,,2021.0,Diesel,100000.0,80000
+peugeot,208,,2017.0,Essence,113000.0,30000
+peugeot,308,Gt-Line Gt-Line,2020.0,Diesel,96300.0,64000
+peugeot,Partner,,2016.0,Diesel,282000.0,33000
+peugeot,3008,,2010.0,Essence,210000.0,32000
+peugeot,508,,2019.0,Essence,137000.0,83000
+peugeot,308,,2015.0,Essence,180000.0,32000
+peugeot,Rifter,,2020.0,Diesel,95000.0,72000
+peugeot,308,,2015.0,Essence,168000.0,35000
+peugeot,3008,Allure,2020.0,Essence,75000.0,75000
+peugeot,208,,2020.0,Essence,60000.0,35000
+peugeot,207,,2011.0,Diesel,290000.0,27500
+peugeot,Expert,,2019.0,Diesel,139199.0,59000
+peugeot,2008,Gt_Line,2021.0,Essence,30000.0,92000
+peugeot,308,,2020.0,Essence,128000.0,47000
+peugeot,207,,2012.0,Essence,229999.0,17500
+peugeot,306,,2000.0,Essence,202000.0,13500
+peugeot,408,Gt,2024.0,Essence,10000.0,155000
+peugeot,3008,Allure,2019.0,Essence,38000.0,88000
+peugeot,3008,1.2L,2020.0,Essence,70000.0,89000
+porsche,Cayenne,Coupé Gts,2020.0,Hybride,70000.0,480000
+porsche,Cayenne,E-,2019.0,Hybride,86000.0,410000
+porsche,Cayenne,,2015.0,Essence,158000.0,220000
+porsche,Cayenne,,2012.0,Essence,195000.0,152000
+porsche,Cayman,S,2008.0,Essence,39508.0,275000
+porsche,Panamera,,2011.0,Essence,82000.0,178000
+porsche,Cayenne,Coupé,2019.0,Essence,59000.0,370000
+porsche,Cayenne,Coupé,2020.0,Essence,37000.0,380000
+porsche,Panamera,Platinum Édition,2014.0,Essence,100000.0,255000
+porsche,Macan,,2023.0,Essence,6900.0,375000
+renault,Kadjar,Intens,2018.0,Essence,150000.0,66000
+renault,Symbol,,2010.0,Essence,390000.0,15500
+renault,Clio,Campus Climatisée,2012.0,Essence,116000.0,30500
+renault,Clio,,2020.0,Diesel,138000.0,49500
+renault,Megane,4,2020.0,Diesel,125000.0,64500
+renault,Symbol,,2020.0,Essence,115000.0,36000
+renault,Megane,,2021.0,Essence,60000.0,60000
+renault,Megane,Sedan,2021.0,Essence,70000.0,60000
+renault,Clio,,2005.0,Essence,123000.0,10000
+renault,Clio,1.0L,2021.0,Essence,135000.0,38500
+renault,Clio,,2020.0,Essence,105000.0,43000
+renault,Clio,,2010.0,Essence,200000.0,24800
+renault,Clio,,2020.0,Essence,91300.0,41000
+renault,Clio,,2012.0,Essence,116000.0,30500
+renault,Kadjar,,2018.0,Essence,140000.0,70000
+renault,Clio,,2021.0,Essence,80000.0,42500
+renault,Megane,,2007.0,Diesel,350000.0,19500
+renault,Clio,,2016.0,Essence,110000.0,40500
+renault,Kadjar,,2021.0,Essence,98000.0,83000
+renault,Kadjar,,2019.0,Essence,70000.0,68000
+renault,Megane,Sedan,2019.0,Essence,46000.0,61000
+renault,Megane,,2021.0,Diesel,148000.0,59500
+renault,Megane,,2020.0,Essence,150000.0,48500
+renault,Clio,4,2021.0,Essence,120000.0,45000
+seat,Leon,1.2L,2018.0,Essence,140000.0,60000
+seat,Ibiza,,2020.0,Essence,205000.0,37000
+seat,Arona,,2021.0,Essence,26000.0,73500
+seat,Ibiza,,2019.0,Essence,83000.0,41500
+seat,Ibiza,,2021.0,Essence,99519.0,54000
+seat,Leon,,2019.0,Essence,61847.0,70000
+seat,Leon,Xcellence,2023.0,Essence,37000.0,108000
+seat,Leon,Fr,2022.0,Essence,70000.0,122800
+seat,Leon,,2020.0,Essence,61847.0,70000
+seat,Ateca,,2020.0,Essence,85000.0,98000
+seat,Ibiza,Xcellence,2021.0,Essence,68000.0,62000
+seat,Leon,Cupra,2020.0,Essence,74000.0,132000
+seat,Ibiza,Fr,2020.0,Essence,100000.0,68000
+seat,Ibiza,Fr,2020.0,Essence,50000.0,67000
+seat,Arona,Xperience,2022.0,Essence,47000.0,81000
+seat,Leon,Style,2020.0,Essence,65000.0,73000
+seat,Ibiza,Fr,2023.0,Essence,40000.0,81000
+toyota,Prado,,2003.0,Diesel,449000.0,88000
+toyota,C-Hr,,2022.0,Essence,55000.0,91000
+toyota,Land,Cruiser,2010.0,Diesel,142060.0,175000
+toyota,Hilux,Double Cabine Gr Sport,2024.0,Diesel,7000.0,290000
+toyota,Hilux,Double Cabine 4*4,2024.0,Essence,3000.0,231000
+toyota,Aygo,,2021.0,Essence,90000.0,40900
+toyota,Land,Cruiser,2016.0,Diesel,98000.0,350000
+toyota,C-Hr,,2021.0,Essence,71000.0,85000
+toyota,Land,Cruiser,2003.0,Diesel,316620.0,119000
+toyota,Corolla,,2022.0,Essence,24000.0,79000
+toyota,Corolla,Cross High,2022.0,Hybride,36000.0,120000
+toyota,Corolla,,2022.0,Essence,32000.0,76000
+toyota,Corolla,Dynamic,2020.0,Essence,85000.0,69000
+toyota,C-Hr,,2018.0,Essence,130000.0,73000
+toyota,Hilux,Double Cabine D4D,2020.0,Diesel,140000.0,168000
+toyota,C-Hr,,2020.0,Essence,165000.0,75000
+toyota,C-Hr,,2020.0,Essence,165000.0,75000
+toyota,Prado,,2003.0,Diesel,199425.0,129000
+toyota,Corolla,,2021.0,Essence,90000.0,71000
+toyota,Rav,4,2016.0,Essence,280000.0,56000
+volkswagen,Golf 8,1.4,2022.0,Essence,40000.0,105000
+volkswagen,Golf 7,,2020.0,Essence,75000.0,175000
+volkswagen,Golf 7,R-Line,2018.0,Essence,130000.0,80000
+volkswagen,Polo,,2021.0,Essence,92500.0,42500
+volkswagen,Touareg,,2006.0,Diesel,308000.0,48000
+volkswagen,T-Roc,,2020.0,Essence,87000.0,85000
+volkswagen,Golf 8,Active,2021.0,Essence,69000.0,95000
+volkswagen,Golf 8,United,2021.0,Essence,16000.0,128000
+volkswagen,Tiguan,Confortline,2020.0,Essence,33000.0,128000
+volkswagen,T-Roc,,2019.0,Essence,74107.0,78000
+volkswagen,Golf 8,R-Line,2021.0,Essence,40000.0,155000
+volkswagen,Golf 8,Style 1.5 Bva Etsi Importée,2021.0,Essence,87000.0,110000
+volkswagen,Amarok,Tdi 4*4,2012.0,Diesel,198000.0,57000
+volkswagen,Passat,R-Line Dsg,2022.0,Essence,40000.0,125000
+volkswagen,Golf 7,Join,2018.0,Essence,86000.0,79000
+volkswagen,Polo,,2006.0,Essence,47000.0,25000
+volkswagen,Golf 8,,2020.0,Essence,85181.0,88000
+volkswagen,Golf 8,R-Line,2021.0,Essence,70000.0,125000
+volkswagen,Golf 7,,2019.0,Essence,180000.0,64000
+volkswagen,Golf 7,Join,2019.0,Essence,120000.0,80000
+volkswagen,Golf 7,Join,2018.0,Essence,70000.0,84000
+volkswagen,Passat,,2013.0,Diesel,300000.0,56000
+volkswagen,Caddy,,2020.0,Diesel,124000.0,64000
+volkswagen,Golf 7,,2015.0,Essence,153000.0,48500
+volkswagen,Golf 7,Confortline,2013.0,Essence,190000.0,49000
+volkswagen,Passat,R-Line,2019.0,Essence,100000.0,101000
+volkswagen,Golf 8,1.5L,2021.0,Essence,80000.0,93000
+volkswagen,Golf 8,Édition,2021.0,Essence,45000.0,89500
+volkswagen,Golf 7,Confortline,2020.0,Essence,69000.0,75000
+volkswagen,T-Roc,1.5,2024.0,Hybride,9000.0,155000
+volkswagen,Polo,Sedan Trendline,2020.0,Essence,170000.0,41300
+volkswagen,Polo,,2021.0,Essence,140000.0,44500
+volkswagen,Passat,R-Line,2020.0,Essence,60000.0,106000
+volkswagen,Golf 7,,2019.0,Essence,40000.0,74000
+volkswagen,Golf 7,Bva,2020.0,Essence,200000.0,69000
+volkswagen,Golf 7,Confortline,2019.0,Essence,169452.0,69000
+volkswagen,Tiguan,R-Line,2023.0,Essence,54723.0,198000
+volkswagen,Golf 8,United,2020.0,Essence,26000.0,109000
+volkswagen,Tiguan,,2018.0,Essence,60000.0,90000
+volkswagen,Golf 7,,2017.0,Essence,73000.0,115000
+volkswagen,Golf 7,Importé,2020.0,Essence,40000.0,73500
+volkswagen,Golf 7,,2018.0,Essence,88000.0,95000
+volkswagen,Golf 7,Join,2020.0,Essence,120000.0,76500
+volkswagen,Golf 8,R-Line,2022.0,Hybride,12000.0,110000
+volkswagen,Polo,R-Line,2020.0,Essence,70000.0,65500
+volkswagen,Golf 8,,2023.0,Essence,40000.0,139000
+volkswagen,Golf 8,R-Line,2022.0,Hybride,36651.0,138000
+volkswagen,Golf 8,,2020.0,Hybride,40000.0,115000
+volkswagen,Golf 7,,2019.0,Essence,64000.0,74000
+volkswagen,Passat,,2016.0,Essence,160000.0,59000
+volkswagen,Golf 7,Sound,2018.0,Essence,125000.0,78000
+volkswagen,Golf 8,Gte,2021.0,Hybride,26000.0,145000
+volkswagen,Tiguan,,2021.0,Essence,123000.0,95000
+volkswagen,Golf 6,Match,2012.0,Diesel,240000.0,45000
+volkswagen,Golf 8,R-Line,2021.0,Essence,40000.0,145000
+volkswagen,Tiguan,R-Line,2019.0,Essence,160000.0,110000
+volkswagen,Passat,,2016.0,Essence,140000.0,58000
+volkswagen,Scirocco,,2010.0,Essence,200000.0,40000
+volkswagen,T-Roc,Toit Ouvrant,2020.0,Essence,44000.0,98000
+volkswagen,Golf 7,Highline,2016.0,Essence,26043.0,75000
+volkswagen,Golf 7,,2019.0,Essence,29000.0,76000
+volkswagen,Golf 8,Life,2020.0,Essence,70001.0,87000
+volkswagen,Golf 7,Join,2018.0,Essence,83000.0,72000
+volkswagen,Golf 8,,2022.0,Essence,58000.0,87000
+volkswagen,Golf 7,Smartline,2015.0,Essence,140000.0,52000
+volkswagen,Amarok,Awd,2016.0,Diesel,180000.0,87000
+volkswagen,Amarok,,2012.0,Diesel,370000.0,49000
