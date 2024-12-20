@@ -3,78 +3,33 @@ import pandas as pd
 from datetime import datetime
 
 # Load the dataset
-df = pd.read_csv("../Step 1/preset1.csv")
+df = pd.read_csv("../dataconcat and cleaning/updated_dataset.csv")
 
-# Function to extract and convert mileage to integer
-def clean_mileage(value):
-    if pd.isna(value):  # Handle NaN values
-        return None
-    # Extract digits only, ignoring non-digit characters
-    value = ''.join(filter(str.isdigit, str(value)))
-    return int(value) if value.isdigit() else None
+def extract_and_clean_fuel(row):
+    model = row['Model'].lower()  # Convert model to lowercase for consistent comparison
 
-# Function to extract and convert price to integer
-def clean_price(value):
-    if pd.isna(value):  # Handle NaN values
-        return None
-    # Extract digits only, ignoring non-digit characters
-    value = ''.join(filter(str.isdigit, str(value)))
-    return int(value) if value.isdigit() else None
+    # Define fuel keywords mapping
+    fuel_keywords = {
+        'hybride': 'hybrid',  # Fix incorrect spelling
+        'hybrid': 'hybrid',
+        'essence': 'essence',
+        'diesel': 'diesel'
+    }
 
-# Function to clean and validate the year
-def clean_year(value):
-    try:
-        year = int(float(value))  # Convert to integer (handles values like 2016.0)
-        current_year = datetime.now().year
-        if 1900 <= year <= current_year:
-            return year
-    except (ValueError, TypeError):
-        pass
-    return None  # Return None for invalid years
+    # Search for each fuel keyword in the model
+    for keyword, standard_fuel in fuel_keywords.items():
+        if keyword in model:  # If fuel keyword is found in the model
+            row['Énergie'] = standard_fuel  # Update the fuel column to standardized fuel name
 
-# List of multi-word brands
-multi_word_brands = [
-    "Land Rover", "Mercedes-Benz", "BMW X", "Alfa Romeo", "Rolls-Royce", "BMW M", "Nissan Nismo",
-    "Mercedes-AMG", "Audi Sport", "Great Wall", "SAIC Motor", "Faraday Future", "GAC Group",
-    "Toyota Crown", "Chevrolet Silverado", "Chevrolet Corvette"
-]
+    # Replace 'Hybride' followed by any characters with 'Hybride' only
+    df['Énergie'] = df['Énergie'].str.replace(r'^Hybride.*', 'Hybride', regex=True)
 
-# Function to clean and split the Title into Brand and Model
-def split_title(title):
-    # Iterate over multi-word brands and match them in the title
-    for brand in multi_word_brands:
-        if brand in title:
-            # If the title contains a multi-word brand, treat the brand as the first part
-            Model = title.replace(brand, "").strip()
-            return brand, Model
 
-    # Default case: split by first space (first word is the brand, the rest is the Model)
-    # This regex ensures that we handle titles with spaces more effectively
-    match = re.match(r'(\S+)(?:\s+(.+))?', title)
-    if match:
-        return match.group(1), match.group(2)
+    return row
 
-    return title, None  # If no match, return the entire title as brand and None for Model
-
-# Apply cleaning functions
-df['Mileage'] = df['Mileage'].apply(clean_mileage).astype('Int64')  # Ensures it's an integer
-df['Price'] = df['Price'].apply(clean_price).astype('Int64')  # Ensure price is an integer
 
 # Remove rows with Price equal to 0
 df = df[df['Price'] != 0]
-
-df['Year'] = df['Year'].apply(clean_year).astype('Int64')  # Ensures Year is an integer
-
-# Split Title into Brand and Model
-df[['Brand', 'Model']] = df['Title'].apply(split_title).apply(pd.Series)
-
-# Drop the original Title column
-df = df.drop(columns=['Title'])
-
-# Rearrange columns to the desired order
-df = df[['Brand', 'Model', 'Fuel', 'Mileage', 'Year', 'Price']]
-
-# Save the cleaned and structured DataFrame
 
 # Display the structured DataFrame
 print("Structured Data:\n", df)
@@ -87,11 +42,6 @@ print("Unique Brands in the dataset: ",len(unique_brands))
 for brand in unique_brands:
     print(brand)
 
-# Step 1: Modify only DS-related rows
-df.loc[df['Brand'] == 'DS', 'Brand'] = 'Citroen'  # Change DS to Citroen for DS rows
-df.loc[df['Brand'] == 'Citroen', 'Model'] = 'DS ' + df['Model']  # Add "DS " to version ONLY for Citroen rows that were originally DS
-
-
 # Get the frequency (redundancy) of each brand
 brand_counts = df['Brand'].value_counts()
 
@@ -100,3 +50,8 @@ print("Redundancy of each brand:")
 print(brand_counts)
 
 df.to_csv("preset2.csv", index=False)
+
+# Save the cleaned dataset to a new CSV file
+df.to_csv('updated_dataset.csv', index=False)
+
+print("Fuel cleaned and saved as 'updated_dataset.csv'.")

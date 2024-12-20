@@ -2,8 +2,8 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
 
-# Load the dataset (change the path to where your dataset is located)
-df = pd.read_csv('preset2.csv')
+# Load the dataset without changing column names
+df = pd.read_csv('updated_dataset.csv')
 
 # Step 1: Basic Data Exploration
 
@@ -39,7 +39,7 @@ plt.show()
 
 # 2.2 Price vs. Mileage
 plt.figure(figsize=(10, 6))
-sns.scatterplot(x='Mileage', y='Price', data=df)
+sns.scatterplot(x='Kilométrage', y='Price', data=df)
 plt.title('Price vs Mileage')
 plt.xlabel('Mileage')
 plt.ylabel('Price')
@@ -47,7 +47,7 @@ plt.show()
 
 # 2.3 Price vs. Year
 plt.figure(figsize=(10, 6))
-sns.scatterplot(x='Year', y='Price', data=df)
+sns.scatterplot(x='Année', y='Price', data=df)
 plt.title('Price vs Year')
 plt.xlabel('Year')
 plt.ylabel('Price')
@@ -55,7 +55,7 @@ plt.show()
 
 # 2.4 Price vs. Fuel type (Box plot)
 plt.figure(figsize=(10, 6))
-sns.boxplot(x='Fuel', y='Price', data=df)
+sns.boxplot(x='Énergie', y='Price', data=df)
 plt.title('Price vs Fuel Type')
 plt.xlabel('Fuel')
 plt.ylabel('Price')
@@ -71,6 +71,10 @@ plt.xticks(rotation=90)
 plt.show()
 
 # Step 3: Correlation Heatmap
+
+# Extract the year from 'Année' for correlation analysis
+df['Year'] = df['Année']
+
 # Select only numeric columns for correlation calculation
 numeric_cols = df.select_dtypes(include=['float64', 'int64']).columns
 
