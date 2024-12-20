@@ -3,7 +3,7 @@ from sklearn.model_selection import train_test_split, GridSearchCV
 from sklearn.tree import DecisionTreeRegressor
 
 # Load the dataset
-df = pd.read_csv('../Step 4/preset4.csv')
+df = pd.read_csv('updated_dataset.csv')
 
 # Display first few rows
 print("Dataset Overview:")
@@ -19,7 +19,7 @@ X = df.drop(columns=['Price'])  # Features (all except Price)
 y = df['Price']  # Target variable
 
 # Encode categorical columns using One-Hot Encoding
-X = pd.get_dummies(X, columns=['Brand', 'Core_Model', 'Specifications', 'Year', 'Fuel'], drop_first=True)
+X = pd.get_dummies(X, columns=['Brand', 'Model', 'Carrosserie', 'Boite vitesse', 'Transmission','Énergie'], drop_first=True)
 
 # Step 3: Split the Data into Training and Testing Sets
 X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.25, random_state=42)

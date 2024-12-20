@@ -847,7 +847,6 @@ Car ID,Brand,Model,Price,Kilométrage,Année,Carrosserie,Boite vitesse,Cylindré
 105927,peugeot,RI,69000.0,67000.0,2019.0,Utilitaire,Manuelle,1198.0,40.0,6.0,Traction,Essence
 105865,peugeot,20,32900.0,104000.0,2017.0,Monospace,Manuelle,1198.0,20.0,5.0,Traction,Essence
 104927,peugeot,LA,95000.0,34000.0,2022.0,Pick up,Manuelle,1898.0,40.0,6.0,Traction,Diesel
-104285,peugeot,30,,,,,,,,,,
 103724,peugeot,20,38500.0,74000.0,2016.0,Monospace,Manuelle,1199.0,20.0,5.0,Traction,Essence
 100630,peugeot,30,33000.0,230000.0,2010.0,Citadine,Manuelle,1599.0,40.0,7.0,Traction,Essence
 100350,peugeot,30,84900.0,132000.0,2018.0,SUV/4x4,Automatique,1598.0,50.0,9.0,Traction,Essence

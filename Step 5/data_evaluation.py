@@ -92,11 +92,6 @@ sns.heatmap(corr, annot=True, cmap='coolwarm', fmt='.2f', cbar=True)
 plt.title('Correlation Heatmap')
 plt.show()
 
-
 df.hist(bins=25,figsize=(15,10),color='peru')
 plt.show()
 
-plt.subplots(figsize=(10,5), dpi=120)
-sns.countplot(data= df, x='Category',palette='hot')
-plt.title("Of each Category",fontsize=20)
-plt.show()

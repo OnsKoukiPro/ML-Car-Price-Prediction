@@ -5,9 +5,12 @@ from datetime import datetime
 # Load the dataset
 df = pd.read_csv('../dataconcat and cleaning/updated_dataset.csv')
 
-
-# Remove rows with Price equal to 0
+# Remove rows with Price unset or equal to 0
 df = df[df['Price'] != 0]
+df = df.dropna(subset=['Price'])
+
+
+df.Price = df.Price.astype('Float64')
 
 # Replace entire 'Énergie' value with 'Hybride' if 'Hybride' is in the string
 df.loc[df['Énergie'].str.contains('Hybride', case=False, na=False), 'Énergie'] = 'Hybride'
@@ -22,11 +25,6 @@ unique_brands = df['Brand'].unique()
 print("Unique Brands in the dataset: ",len(unique_brands))
 for brand in unique_brands:
     print(brand)
-
-# Step 1: Modify only DS-related rows
-df.loc[df['Brand'] == 'DS', 'Brand'] = 'Citroen'  # Change DS to Citroen for DS rows
-df.loc[df['Brand'] == 'Citroen', 'Model'] = 'DS ' + df['Model']  # Add "DS " to version ONLY for Citroen rows that were originally DS
-
 
 # Get the frequency (redundancy) of each brand
 brand_counts = df['Brand'].value_counts()

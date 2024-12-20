@@ -14,7 +14,7 @@ import warnings
 warnings.filterwarnings('ignore')
 
 # Load dataset
-data = pd.read_csv('../Step 4/preset4.csv')
+data = pd.read_csv('updated_dataset.csv')
 
 # Split the dataset into object and numeric columns
 obdata = data.select_dtypes(include=object)
@@ -67,6 +67,8 @@ def models(model):
 
 # Initialize the models with specified parameters for DecisionTreeRegressor
 model1 = LinearRegression()
+# Best parameters: {'ccp_alpha': 0.01, 'max_depth': 15, 'min_samples_leaf': 1, 'min_samples_split': 10}
+
 model2 = DecisionTreeRegressor(ccp_alpha=0.01, max_depth=15, min_samples_leaf=1, min_samples_split=10)
 model3 = RandomForestRegressor()
 model4 = GradientBoostingRegressor()

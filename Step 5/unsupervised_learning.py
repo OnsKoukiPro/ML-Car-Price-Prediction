@@ -5,18 +5,21 @@ from sklearn.cluster import KMeans
 from sklearn.preprocessing import StandardScaler, LabelEncoder
 
 # Load dataset
-data = pd.read_csv('../Step 4/preset4.csv')
+data = pd.read_csv('updated_dataset.csv')
 
 # Define the features including categorical variables
-features = data[['Brand', 'Core_Model', 'Year', 'Fuel', 'Mileage', 'Price']]
+features = data[['Brand', 'Model', 'Price', 'Kilométrage', 'Carrosserie', 'Boite vitesse', 'Cylindrée', 'Puissance fiscale', 'Transmission', 'Énergie', 'Age']]
 
 # Initialize LabelEncoder for categorical columns
 lab = LabelEncoder()
 
 # Apply LabelEncoder to categorical columns
 features.loc[:, 'Brand'] = lab.fit_transform(features['Brand'])
-features.loc[:, 'Core_Model'] = lab.fit_transform(features['Core_Model'])
-features.loc[:, 'Fuel'] = lab.fit_transform(features['Fuel'])
+features.loc[:, 'Model'] = lab.fit_transform(features['Model'])
+features.loc[:, 'Carrosserie'] = lab.fit_transform(features['Carrosserie'])
+features.loc[:, 'Boite vitesse'] = lab.fit_transform(features['Boite vitesse'])
+features.loc[:, 'Transmission'] = lab.fit_transform(features['Transmission'])
+features.loc[:, 'Énergie'] = lab.fit_transform(features['Énergie'])
 
 # Now we can scale the numeric columns
 scaler = StandardScaler()
@@ -32,9 +35,9 @@ def plot_clusters(k_values, scaled_features, data):
         data['Cluster'] = kmeans.fit_predict(scaled_features)
 
         plt.subplot(1, len(k_values), k_values.index(k) + 1)
-        plt.scatter(data['Mileage'], data['Price'], c=data['Cluster'], cmap='viridis', s=50)
+        plt.scatter(data['Kilométrage'], data['Price'], c=data['Cluster'], cmap='viridis', s=50)
         plt.title(f'K-means Clustering: k={k}')
-        plt.xlabel('Mileage')
+        plt.xlabel('Kilométrage')
         plt.ylabel('Price')
         plt.colorbar(label='Cluster')
 

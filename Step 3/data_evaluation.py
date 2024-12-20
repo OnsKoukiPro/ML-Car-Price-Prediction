@@ -2,10 +2,8 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
 
-# Load the dataset (change the path to where your dataset is located)
-# If your dataset is in CSV format, you can load it like this:
-df = pd.read_csv('preset3.csv')
-
+# Load the dataset
+df = pd.read_csv('updated_dataset.csv')
 
 # Step 1: Basic Data Exploration
 
@@ -41,25 +39,25 @@ plt.show()
 
 # 2.2 Price vs. Mileage
 plt.figure(figsize=(10, 6))
-sns.scatterplot(x='Mileage', y='Price', data=df)
+sns.scatterplot(x='Kilométrage', y='Price', data=df)
 plt.title('Price vs Mileage')
 plt.xlabel('Mileage')
 plt.ylabel('Price')
 plt.show()
 
-# 2.3 Price vs. Year
+# 2.3 Price vs. Age (instead of Year)
 plt.figure(figsize=(10, 6))
-sns.scatterplot(x='Year', y='Price', data=df)
-plt.title('Price vs Year')
-plt.xlabel('Year')
+sns.scatterplot(x='Age', y='Price', data=df)
+plt.title('Price vs Age')
+plt.xlabel('Age')
 plt.ylabel('Price')
 plt.show()
 
 # 2.4 Price vs. Fuel type (Box plot)
 plt.figure(figsize=(10, 6))
-sns.boxplot(x='Fuel', y='Price', data=df)
+sns.boxplot(x='Énergie', y='Price', data=df)
 plt.title('Price vs Fuel Type')
-plt.xlabel('Fuel')
+plt.xlabel('Fuel Type')
 plt.ylabel('Price')
 plt.show()
 
@@ -72,7 +70,16 @@ plt.ylabel('Price')
 plt.xticks(rotation=90)
 plt.show()
 
+# 2.6 Price vs. Transmission Type (Box plot)
+plt.figure(figsize=(10, 6))
+sns.boxplot(x='Boite vitesse', y='Price', data=df)
+plt.title('Price vs Transmission Type')
+plt.xlabel('Transmission')
+plt.ylabel('Price')
+plt.show()
+
 # Step 3: Correlation Heatmap
+
 # Select only numeric columns for correlation calculation
 numeric_cols = df.select_dtypes(include=['float64', 'int64']).columns
 
@@ -83,4 +90,8 @@ corr = df[numeric_cols].corr()
 plt.figure(figsize=(10, 8))
 sns.heatmap(corr, annot=True, cmap='coolwarm', fmt='.2f', cbar=True)
 plt.title('Correlation Heatmap')
+plt.show()
+
+
+df.hist(bins=25,figsize=(15,10),color='peru')
 plt.show()
