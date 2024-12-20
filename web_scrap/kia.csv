@@ -1,0 +1,134 @@
+Boite vitesse,Brand,Car ID,Carrosserie,Couleur extérieure,Couleur intérieure,Cylindrée,Date de l'annonce,Gouvernorat,Génération,Kilométrage,Marque,Mise en circulation,Model,Modèle,Moteur,Nombre de places,Nombre de portes,Price,Puissance,Puissance cumulée,Puissance fiscale,Puissance thermique,Sellerie,Transmission,Énergie
+Manuelle,kia,109441,Berline,Noir,Noir,1598cm³,20.12.2024,Ariana,,189 000km,KIA,12.2015,cerato,Cerato,,5,4,42 000DT,,,7cv,,Tissu,Traction,Essence
+Manuelle,kia,109438,Citadine,Gris anthracite,Noir,1198cm³,20.12.2024,Ben Arous,IV Phase 209/2020 - Aujourd'hui,112 000km,KIA,07.2022,rio-5p,Rio 5p,1.2 i-CVVT 16V ISG,5,5,49 500DT,84ch dyn,,5cv,,Tissu,Traction,Essence
+Automatique,kia,109224,Citadine,Blanc,Noir,1198cm³,20.12.2024,Ben Arous,(TA) 5 Portes05/2011 - 01/2015,100 000km,KIA,07.2013,picanto,Picanto,,5,4,32 500DT,,,5cv,,Tissu,Traction,Essence
+Automatique,kia,109221,SUV/4x4,Blanc,Noir,2198cm³,20.12.2024,Ben Arous,II Phase 209/2012 - 12/2014,273 000km,KIA,07.2013,sorento,Sorento,,5,4,58 000DT,,,12cv,,Similicuir,Traction,Diesel
+Automatique,kia,109146,SUV/4x4,Noir,Noir,1598cm³,20.12.2024,Ben Arous,IV Phase 207/2018 - 12/2021,79 000km,KIA,06.2020,sportage,Sportage,,5,4,120 000DT,,,7cv,,Similicuir,Traction,Diesel
+Automatique,kia,108747,Berline,Gris argent,Noir,1998cm³,20.12.2024,Tunis,11/2010 - 07/2015,206 000km,KIA,06.2012,optima,Optima,,5,4,40 000DT,,,10cv,,Similicuir,Traction,Essence
+Manuelle,kia,108746,Berline,Noir,Marron,1198cm³,20.12.2024,Ben Arous,III Sedan02/2012 - 10/2018,87 000km,KIA,12.2017,rio,Rio Berline,,5,4,44 500DT,,,5cv,,Similicuir,Traction,Essence
+Automatique,kia,108618,Citadine,Rouge,Noir,1198cm³,20.12.2024,Tunis,(TA) 5 Portes05/2011 - 01/2015,111 000km,KIA,05.2019,picanto,Picanto,1.2 MPi 16V,5,4,40 900DT,85ch dyn,,5cv,,Similicuir,Traction,Essence
+Automatique,kia,108532,SUV/4x4,Blanc,Gris,1998cm³,20.12.2024,Tunis,IV Phase 109/2015 - 07/2018,143 000km,KIA,12.2016,sportage,Sportage,,5,4,100 000DT,,,10cv,,Similicuir,Traction,Diesel
+Automatique,kia,108129,SUV/4x4,Noir,Gris,1598cm³,20.12.2024,Ben Arous,IV Phase 109/2015 - 07/2018,150 000km,KIA,02.2018,sportage,Sportage,1.6 GDi CVVT 16V 4x2  Boite Auto,5,4,76 000DT,132ch dyn,,8cv,,Similicuir,Traction,Essence
+Automatique,kia,107826,Citadine,Blanc,Noir,1198cm³,20.12.2024,Ben Arous,(JA) Phase 207/2020 - Aujourd'hui,91 000km,KIA,05.2021,picanto,Picanto,,5,4,42 500DT,,,5cv,,Alcantara,Traction,Essence
+Automatique,kia,106607,Berline,Blanc,Noir,1998cm³,20.12.2024,Ariana,11/2010 - 07/2015,176 000km,KIA,05.2014,optima,Optima,,5,4,45 500DT,,,10cv,,Similicuir,Traction,Essence
+Automatique,kia,105926,Berline,Gris anthracite,Gris,1998cm³,20.12.2024,Ben Arous,11/2010 - 07/2015,379 000km,KIA,03.2012,optima,Optima,,5,4,38 000DT,,,10cv,,Similicuir,Traction,Essence
+Automatique,kia,104891,SUV/4x4,Gris argent,Noir,1999cm³,20.12.2024,Ben Arous,III Phase 106/2010 - 12/2013,232 000km,KIA,11.2011,sportage,Sportage,,5,5,47 000DT,,,11cv,,Similicuir,Traction,Essence
+Automatique,kia,104678,Berline,Noir,Noir,1398cm³,20.12.2024,Ben Arous,IV Sedan01/2019 - 12/2022,35 000km,KIA,04.2022,rio,Rio Berline,,5,4,69 900DT,,,6cv,,Alcantara,Traction,Essence
+Automatique,kia,103833,SUV/4x4,Gris anthracite,Noir,2199cm³,20.12.2024,Tunis,III01/2015 - 02/2020,209 000km,KIA,05.2015,sorento,Sorento,,5,5,89 000DT,,,12cv,,Similicuir,Traction,Diesel
+Automatique,kia,102866,SUV/4x4,Noir,Noir,1995cm³,20.12.2024,Ben Arous,III Phase 106/2010 - 12/2013,324 000km,KIA,07.2012,sportage,Sportage,2.0 L Diesel,5,4,54 000DT,177ch dyn,,11cv,,Similicuir,Traction,Diesel
+Automatique,kia,97316,SUV/4x4,Blanc,,1598cm³,20.12.2024,Ben Arous,IV Phase 109/2015 - 07/2018,101 000km,KIA,07.2018,sportage,Sportage,1.6 GDi CVVT 16V 4x2  Boite Auto,,,85 000DT,132ch dyn,,8cv,,,Traction,Essence
+Automatique,kia,96785,SUV/4x4,Noir,,,20.12.2024,Ben Arous,,210 000km,KIA,09.2012,sorento,Sorento,,,,60 000DT,,,12cv,,,Traction,Diesel
+Automatique,kia,94919,Citadine,Blanc,Beige,1999cm³,20.12.2024,Ben Arous,IV Phase 109/2015 - 07/2018,132 000km,KIA,01.2018,sportage,Sportage,2 l Diesel,5,5,110 000DT,178ch dyn,,10cv,,Similicuir,Traction,Diesel
+Automatique,kia,109144,Berline,Marron,Gris,1598cm³,19.12.2024,Tunis,III01/2014 - 12/2017,180 000km,KIA,10.2014,cerato-5p,Cerato 5p,1.6 L,5,5,41 500DT,130ch dyn,,8cv,,Tissu,Traction,Essence
+Manuelle,kia,106266,Berline,Autre,Beige,1399cm³,19.12.2024,Sfax,II Phase 2 Sedan09/2006 - 05/2011,170 000km,KIA,08.2010,rio,Rio Berline,,5,4,29 000DT,,,6cv,,Tissu,Traction,Essence
+Automatique,kia,101396,SUV/4x4,Rouge,Noir,1599cm³,19.12.2024,Nabeul,IV Phase 207/2018 - 12/2021,119 000km,KIA,03.2019,sportage,Sportage,,5,5,98 000DT,,,7cv,,Cuir intégral,Traction,Diesel
+Manuelle,kia,106008,Compacte,Noir,Noir,1200cm³,19.12.2024,Tunis,IV Phase 209/2020 - Aujourd'hui,117 000km,KIA,05.2021,rio-5p,Rio 5p,1.2 i-CVVT 16V ISG,5,5,56 000DT,84ch dyn,,5cv,,Tissu,Traction,Essence
+Manuelle,kia,108222,Citadine,Gris Shark,Noir,1560cm³,19.12.2024,Sfax,IV11/2016 - 09/2020,145 000km,KIA,01.2019,rio-5p,Rio 5p,1.2 i-CVVT 16V,5,5,49 000DT,84ch dyn,,5cv,,Tissu,Traction,Essence
+Automatique,kia,109374,SUV/4x4,Beige,Noir,1600cm³,19.12.2024,Sousse,IV Phase 207/2018 - 12/2021,85 000km,KIA,03.2021,sportage,Sportage,,5,4,112 000DT,,,11cv,,Cuir intégral,Traction,Essence
+Manuelle,kia,109267,Coupé,Gris Shark,Noir,1200cm³,19.12.2024,Ariana,IV11/2016 - 09/2020,80 000km,KIA,10.2018,rio-5p,Rio 5p,1.2 i-CVVT 16V,5,4,52 500DT,84ch dyn,,5cv,,Tissu,Traction,Essence
+Manuelle,kia,108209,Compacte,Gris argent,Noir,1200cm³,19.12.2024,Tunis,(JA) Phase 207/2020 - Aujourd'hui,90 000km,KIA,01.2022,picanto,Picanto,1.2 DPI 16V ISG,5,5,42 900DT,84ch dyn,,5cv,,Tissu,Traction,Essence
+Automatique,kia,107143,SUV/4x4,Gris Shark,Noir,1600cm³,19.12.2024,Tunis,Phase 111/2020 - 12/2024,37 000km,KIA,06.2021,seltos,Seltos,1.4 T-GDI  boite auto,5,4,95 000DT,140ch dyn,,8cv,,Tissu,Traction,Essence
+Automatique,kia,106929,SUV/4x4,Noir,Noir,1600cm³,19.12.2024,Tunis,V12/2021 - Aujourd'hui,39 000km,KIA,06.2022,sportage,Sportage,1.6 T-GDI 16V Mhev 4x2 DCT7,5,4,148 600DT,150ch dyn,,10cv,,Cuir intégral,Intégrale,Essence
+Automatique,kia,106745,SUV/4x4,Blanc,Gris,2000cm³,19.12.2024,Tunis,IV Phase 109/2015 - 07/2018,140 000km,KIA,11.2016,sportage,Sportage,,5,5,97 000DT,,,10cv,,Cuir intégral,Propulsion,Diesel
+Automatique,kia,106741,Berline,Noir,Noir,1400cm³,19.12.2024,Tunis,IV11/2016 - 09/2020,114 000km,KIA,08.2019,rio,Rio Berline,1.4 i-CVVT 16V,5,4,58 000DT,100ch dyn,,6cv,,Tissu,Traction,Essence
+Automatique,kia,109450,SUV/4x4,Blanc,Beige,6000cm³,19.12.2024,Ben Arous,III Phase 106/2010 - 12/2013,220 000km,KIA,12.2010,sportage,Sportage,2.0 GDi CVVT 16V 4x4,5,5,49 000DT,163ch dyn,,11cv,,Tissu,Traction,Essence
+Automatique,kia,106713,SUV/4x4,Gris argent,Noir,1685cm³,19.12.2024,Ariana,IV03/2012 - Aujourd'hui,213 000km,KIA,09.2014,carens,Carens,1.7 CRDi 16V,5,4,45 000DT,136ch dyn,,8cv,,Cuir intégral,Intégrale,Diesel
+Automatique,kia,107724,SUV/4x4,Noir,Noir,1598cm³,19.12.2024,Sousse,IV Phase 207/2018 - 12/2021,55 000km,KIA,01.2021,sportage,Sportage,1.6 CRDi VGT 16V 4x2 DCT7,5,4,114 000DT,136ch dyn,,7cv,,Similicuir,Traction,Diesel
+Automatique,kia,109188,SUV/4x4,Gris anthracite,Gris,1600cm³,19.12.2024,Ariana,V12/2021 - Aujourd'hui,37 400km,KIA,09.2023,sportage-hybride,Sportage Hybride,1.6 T-GDI 16V 230 Hybrid 4x2,5,4,155 000DT,,230ch dyn,10cv,179ch dyn,Cuir partiel,Traction,Hybride essence
+Manuelle,kia,108448,Berline,Marron,Gris,1200cm³,19.12.2024,Ariana,IV11/2016 - 09/2020,68 954km,KIA,01.2019,rio-5p,Rio 5p,1.2 i-CVVT 16V,5,4,54 000DT,84ch dyn,,5cv,,Tissu,Traction,Essence
+Manuelle,kia,107664,Berline,Noir,Noir,1000cm³,19.12.2024,Ariana,(JA) Phase 207/2020 - Aujourd'hui,3 805km,KIA,02.2021,picanto,Picanto,1.0 T-GDi 12V ISG,5,4,43 000DT,100ch dyn,,4cv,,Tissu,Traction,Essence
+Automatique,kia,105623,Berline,Noir,Noir,1200cm³,19.12.2024,Ariana,(JA) Phase 207/2020 - Aujourd'hui,0km,KIA,08.2024,picanto,Picanto,1.2 DPI 16V BVR5 ISG,5,4,61 000DT,84ch dyn,,5cv,,Tissu,Traction,Essence
+Automatique,kia,104705,SUV/4x4,Gris anthracite,Noir,1591cm³,19.12.2024,Tunis,IV Phase 207/2018 - 12/2021,77 000km,KIA,06.2021,sportage,Sportage,,5,5,103 000DT,,,8cv,,Cuir partiel,Traction,Essence
+Automatique,kia,104450,SUV/4x4,Blanc,Beige,1591cm³,19.12.2024,Tunis,IV Phase 207/2018 - 12/2021,123 000km,KIA,04.2019,sportage,Sportage,,5,5,76 000DT,,,8cv,,Cuir partiel,Traction,Essence
+Automatique,kia,109341,Autres,Rouge,Noir,1200cm³,19.12.2024,Tunis,(JA)03/2017 - 07/2020,16 000km,KIA,04.2019,picanto,Picanto,,5,5,47 000DT,,,5cv,,Cuir intégral,Traction,Essence
+Automatique,kia,108496,Autres,Noir,Noir,1200cm³,19.12.2024,Tunis,(JA) Phase 207/2020 - Aujourd'hui,63 000km,KIA,01.2022,picanto,Picanto,1.2 DPI 16V BVR5 ISG,4,4,54 500DT,84ch dyn,,4cv,,Cuir intégral,Traction,Essence
+Manuelle,kia,108020,Citadine,Rouge,Noir,1200cm³,19.12.2024,Tunis,IV11/2016 - 09/2020,70 000km,KIA,09.2020,rio-5p,Rio 5p,1.2 i-CVVT 16V,5,5,57 500DT,84ch dyn,,5cv,,Tissu,Traction,Essence
+Manuelle,kia,107659,Citadine,Blanc,Noir,1200cm³,19.12.2024,Tunis,IV Phase 209/2020 - Aujourd'hui,70 000km,KIA,07.2021,rio-5p,Rio 5p,,5,5,62 000DT,,,5cv,,Tissu,Traction,Essence
+Automatique,kia,107627,SUV/4x4,Blanc,Noir,1999cm³,19.12.2024,Tunis,V12/2021 - Aujourd'hui,15 000km,KIA,05.2024,sportage,Sportage,,5,5,188 000DT,,,7cv,,Cuir intégral,Traction,Hybride diesel
+Manuelle,kia,107575,Citadine,Rouge,Noir,1199cm³,19.12.2024,Tunis,IV Phase 209/2020 - Aujourd'hui,9 000km,KIA,06.2023,rio-5p,Rio 5p,1.2 i-CVVT 16V ISG,5,5,73 000DT,84ch dyn,,5cv,,Tissu,Traction,Essence
+Automatique,kia,106121,SUV/4x4,Gris anthracite,Noir,1599cm³,19.12.2024,Tunis,Phase 111/2020 - 12/2024,130 000km,KIA,04.2021,seltos,Seltos,,5,5,89 000DT,,,8cv,,Tissu,Traction,Essence
+Manuelle,kia,105619,Citadine,Bleu,Noir,1200cm³,19.12.2024,Tunis,IV Phase 209/2020 - Aujourd'hui,60 000km,KIA,09.2021,rio-5p,Rio 5p,1.2 i-CVVT 16V ISG,5,5,65 000DT,84ch dyn,,5cv,,Tissu,Traction,Essence
+Manuelle,kia,105371,Citadine,Gris Shark,Noir,1199cm³,19.12.2024,Tunis,IV Phase 209/2020 - Aujourd'hui,85 000km,KIA,08.2022,rio-5p,Rio 5p,,5,5,59 650DT,,,5cv,,Tissu,Traction,Essence
+Automatique,kia,105291,SUV/4x4,Gris argent,Noir,1599cm³,19.12.2024,Tunis,IV Phase 207/2018 - 12/2021,114 000km,KIA,09.2021,sportage-hybride,Sportage Hybride,,5,5,107 000DT,,,7cv,,Tissu,Traction,Hybride diesel
+Manuelle,kia,105249,SUV/4x4,Gris Shark,Noir,1599cm³,19.12.2024,Tunis,IV Phase 207/2018 - 12/2021,19 000km,KIA,07.2021,sportage,Sportage,1.6 CRDi 16V Eco-Dynamics+ 4x2,5,5,128 000DT,116ch dyn,,7cv,,Cuir intégral,Traction,Diesel
+Automatique,kia,105047,SUV/4x4,Blanc,Beige,2000cm³,19.12.2024,Tunis,IV Phase 109/2015 - 07/2018,140 000km,KIA,01.2017,sportage,Sportage,,5,5,105 000DT,,,10cv,,Cuir intégral,Traction,Diesel
+Manuelle,kia,104750,Citadine,Noir,Noir,1200cm³,19.12.2024,Tunis,IV Phase 209/2020 - Aujourd'hui,64 000km,KIA,12.2021,rio-5p,Rio 5p,1.2 i-CVVT 16V ISG,5,5,64 000DT,84ch dyn,,5cv,,Tissu,Traction,Essence
+Automatique,kia,104723,SUV/4x4,Gris Shark,Noir,1699cm³,19.12.2024,Tunis,IV Phase 207/2018 - 12/2021,127 000km,KIA,08.2019,sportage,Sportage,,5,5,83 500DT,,,8cv,,Cuir intégral,Traction,Essence
+Automatique,kia,104332,SUV/4x4,Blanc,Beige,1599cm³,19.12.2024,Tunis,IV Phase 207/2018 - 12/2021,140 000km,KIA,11.2020,sportage-hybride,Sportage Hybride,,5,5,98 000DT,,,7cv,,Cuir intégral,Traction,Hybride diesel
+Automatique,kia,104303,SUV/4x4,Gris Shark,Noir,1599cm³,19.12.2024,Tunis,IV Phase 207/2018 - 12/2021,125 000km,KIA,08.2019,sportage,Sportage,,5,5,85 000DT,,,8cv,,Cuir intégral,Traction,Essence
+Automatique,kia,103599,SUV/4x4,Bleu,Beige,1599cm³,19.12.2024,Tunis,IV Phase 207/2018 - 12/2021,69 000km,KIA,11.2019,sportage,Sportage,,5,5,95 000DT,,,8cv,,Cuir intégral,Traction,Essence
+Automatique,kia,101751,SUV/4x4,Bleu,Noir,1600cm³,19.12.2024,Tunis,IV Phase 207/2018 - 12/2021,40 000km,KIA,04.2020,sportage,Sportage,,5,5,119 000DT,,,8cv,,Cuir intégral,Traction,Essence
+Automatique,kia,100281,SUV/4x4,Gris anthracite,Noir,1599cm³,19.12.2024,Tunis,V12/2021 - Aujourd'hui,23 000km,KIA,06.2022,sportage,Sportage,,5,5,143 000DT,,,10cv,,Tissu,Traction,Essence
+Automatique,kia,99793,SUV/4x4,Noir,Noir,1599cm³,19.12.2024,Tunis,IV Phase 207/2018 - 12/2021,120 000km,KIA,09.2021,sportage,Sportage,,5,5,119 000DT,,,6cv,,Cuir partiel,Traction,Hybride rechargeable diesel
+Manuelle,kia,109435,Coupé,Noir,Noir,1600cm³,19.12.2024,Tunis,08MY Coupé10/2008 - 04/2013,205 000km,KIA,12.2010,cerato-koup,Cerato KOUP,,5,5,32 500DT,,,7cv,,Tissu,Traction,Essence
+Automatique,kia,108916,Citadine,Noir,Noir,1200cm³,19.12.2024,Tunis,(JA) Phase 207/2020 - Aujourd'hui,28 000km,KIA,12.2021,picanto,Picanto,,5,5,46 500DT,,,4cv,,Tissu,Traction,Essence
+Manuelle,kia,108055,Citadine,Noir,Noir,1200cm³,19.12.2024,Tunis,IV Phase 209/2020 - Aujourd'hui,68 000km,KIA,11.2021,rio-5p,Rio 5p,1.2 i-CVVT 16V ISG,5,5,62 500DT,84ch dyn,,5cv,,Tissu,Traction,Essence
+Automatique,kia,106596,Autres,Gris Shark,Noir,1600cm³,19.12.2024,Tunis,IV Phase 207/2018 - 12/2021,124 000km,KIA,05.2019,sportage,Sportage,,5,5,97 000DT,,,8cv,,Similicuir,Traction,Diesel
+Automatique,kia,105468,SUV/4x4,Autre,Noir,1999cm³,19.12.2024,Tunis,V12/2021 - Aujourd'hui,40 000km,KIA,07.2023,sportage,Sportage,,5,4,149 000DT,,,10cv,,Cuir intégral,Intégrale,Hybride essence
+Automatique,kia,109076,Compacte,Blanc,Noir,1000cm³,19.12.2024,Tunis,V12/2021 - Aujourd'hui,30 000km,KIA,03.2022,sportage,Sportage,1.6 T-GDI 16V Mhev 4x2 DCT7,4,4,122 000DT,150ch dyn,,10cv,,Tissu,Traction,Essence
+Manuelle,kia,107288,Compacte,Gris anthracite,Noir,1198cm³,19.12.2024,Tunis,IV Phase 209/2020 - Aujourd'hui,84 000km,KIA,08.2021,rio-5p,Rio 5p,1.2 i-CVVT 16V ISG,5,5,51 500DT,84ch dyn,,5cv,,Tissu,Traction,Essence
+Manuelle,kia,106747,Compacte,Noir,Gris,1398cm³,19.12.2024,Tunis,,178 000km,KIA,01.2019,ceed,Cee'd,,5,5,52 000DT,,,6cv,,Tissu,Traction,Essence
+Manuelle,kia,108510,Compacte,Bleu,Noir,1198cm³,19.12.2024,Tunis,IV Phase 209/2020 - Aujourd'hui,124 000km,KIA,09.2021,rio-5p,Rio 5p,1.2 i-CVVT 16V ISG,5,5,49 800DT,84ch dyn,,5cv,,Tissu,Traction,Essence
+Automatique,kia,108188,SUV/4x4,Gris Shark,Noir,2200cm³,19.12.2024,Tunis,III01/2015 - 02/2020,352 000km,KIA,05.2015,sorento,Sorento,2.2 CRDi AWD 16V 5p,5,5,72 000DT,200ch dyn,,12cv,,Cuir intégral,Traction,Diesel
+Manuelle,kia,108686,Compacte,Blanc,Noir,1198cm³,19.12.2024,Tunis,IV Phase 209/2020 - Aujourd'hui,72 000km,KIA,08.2021,rio-5p,Rio 5p,1.2 i-CVVT 16V ISG,5,5,65 000DT,84ch dyn,,5cv,,Cuir partiel,Traction,Essence
+Automatique,kia,107365,SUV/4x4,Blanc,Marron,1600cm³,19.12.2024,Tunis,IV Phase 109/2015 - 07/2018,96 000km,KIA,06.2018,sportage,Sportage,1.6 T-GDi 16V 4x4 DCT7,5,5,75 000DT,177ch dyn,,8cv,,Cuir partiel,Traction,Essence
+Automatique,kia,109422,Berline,Gris Shark,Gris,1599cm³,18.12.2024,Gabès,,250 000km,KIA,06.2014,cerato,Cerato,,5,5,38 500DT,,,8cv,,Tissu,Intégrale,Essence
+Automatique,kia,108224,SUV/4x4,Blanc,Noir,1685cm³,18.12.2024,Sfax,IV Phase 109/2015 - 07/2018,139 000km,KIA,05.2018,sportage,Sportage,2 l Diesel,5,5,91 000DT,178ch dyn,,7cv,,Cuir partiel,Traction,Diesel
+Automatique,kia,109071,SUV/4x4,Blanc,Marron,2000cm³,18.12.2024,Tunis,IV Phase 109/2015 - 07/2018,155 000km,KIA,01.2017,sportage,Sportage,2.0 CRDi VGT 16V 4x4,5,5,92 000DT,136ch dyn,,10cv,,Similicuir,Traction,Diesel
+Automatique,kia,100885,SUV/4x4,Noir,Noir,2000cm³,18.12.2024,Tunis,IV Phase 109/2015 - 07/2018,140 000km,KIA,01.2018,sportage,Sportage,2.0 CRDi VGT 16V 4x4,5,5,118 000DT,185ch dyn,,10cv,,Similicuir,Traction,Diesel
+Automatique,kia,108102,SUV/4x4,Gris anthracite,Noir,1599cm³,18.12.2024,Ariana,V12/2021 - Aujourd'hui,37 000km,KIA,10.2022,sportage,Sportage,1.6 T-GDI 16V Mhev 4x4 DCT7,5,5,139 000DT,150ch dyn,,10cv,,Cuir intégral,Intégrale,Essence
+Automatique,kia,109278,Berline,Gris argent,Gris,1200cm³,17.12.2024,Ariana,(TA) 5 Portes05/2011 - 01/2015,73 000km,KIA,05.2012,picanto,Picanto,1.2 MPi 16V,5,5,31 500DT,85ch dyn,,5cv,,Velours,Traction,Essence
+Automatique,kia,108727,SUV/4x4,Gris Shark,Noir,2000cm³,17.12.2024,Ben Arous,IV Phase 207/2018 - 12/2021,110 000km,KIA,12.2020,sportage,Sportage,,5,4,108 000DT,,,11cv,,Cuir intégral,Intégrale,Essence
+Manuelle,kia,108390,Compacte,Blanc,Noir,1200cm³,17.12.2024,Ben Arous,IV Phase 209/2020 - Aujourd'hui,107 000km,KIA,05.2021,rio-5p,Rio 5p,1.2 i-CVVT 16V ISG,5,4,62 500DT,84ch dyn,,5cv,,Similicuir,Traction,Essence
+Manuelle,kia,107190,SUV/4x4,Gris Shark,Noir,1700cm³,17.12.2024,Ben Arous,III Phase 201/2014 - 12/2015,379 000km,KIA,03.2015,sportage,Sportage,,5,4,55 000DT,,,7cv,,Similicuir,Traction,Diesel
+Manuelle,kia,108898,Coupé,Gris Shark,Noir,1200cm³,17.12.2024,Ben Arous,IV Phase 209/2020 - Aujourd'hui,130 000km,KIA,02.2021,rio-5p,Rio 5p,,5,4,49 000DT,,,5cv,,Tissu,Propulsion,Essence
+Manuelle,kia,109303,Berline,Bleu,Noir,1200cm³,17.12.2024,Ben Arous,III Sedan02/2012 - 10/2018,126 000km,KIA,01.2018,rio,Rio Berline,,5,4,37 500DT,,,5cv,,Tissu,Traction,Essence
+Automatique,kia,109363,Citadine,Blanc,Beige,1248cm³,16.12.2024,Nabeul,(TA) 5 Portes05/2011 - 01/2015,167 000km,KIA,04.2018,picanto,Picanto,1.2 MPi 16V,5,4,41 000DT,85ch dyn,,4cv,,Cuir intégral,Traction,Essence
+Automatique,kia,109179,Citadine,Gris argent,Gris,1400cm³,16.12.2024,Sfax,(JA)03/2017 - 07/2020,109 000km,KIA,05.2018,picanto,Picanto,,5,5,39 900DT,,,5cv,,Cuir intégral,Traction,Essence
+Manuelle,kia,109325,Citadine,Noir,Noir,998cm³,15.12.2024,Tunis,09/2017 - 07/2020,90 000km,KIA,01.2020,stonic,Stonic,,5,5,66 000DT,,,6cv,,Cuir partiel,Intégrale,Essence
+Manuelle,kia,109173,Citadine,Noir,Noir,1200cm³,15.12.2024,Tunis,IV Phase 209/2020 - Aujourd'hui,51 000km,KIA,05.2021,rio-5p,Rio 5p,1.2 i-CVVT 16V ISG,5,5,62 000DT,84ch dyn,,5cv,,Similicuir,Traction,Essence
+Automatique,kia,107100,SUV/4x4,Noir,Noir,1598cm³,14.12.2024,Tunis,V12/2021 - Aujourd'hui,3 583km,KIA,04.2024,sportage-hybride,Sportage Hybride,1.6 T-GDI 16V 230 Hybrid 4x2,5,5,160 000DT,,230ch dyn,10cv,179ch dyn,Cuir intégral,Traction,Hybride essence
+Manuelle,kia,109277,Citadine,Gris argent,Noir,1199cm³,14.12.2024,Bizerte,IV Phase 209/2020 - Aujourd'hui,40 000km,KIA,02.2021,rio-5p,Rio 5p,,5,5,59 000DT,,,5cv,,Tissu,Traction,Essence
+Manuelle,kia,109059,Coupé,Noir,Noir,1248cm³,13.12.2024,Sfax,IV11/2016 - 09/2020,110 000km,KIA,06.2020,rio-5p,Rio 5p,1.2 i-CVVT 16V,5,5,53 750DT,84ch dyn,,5cv,,Tissu,Traction,Essence
+Manuelle,kia,107619,Citadine,Gris Shark,Noir,1197cm³,12.12.2024,Tunis,IV11/2016 - 09/2020,69 000km,KIA,12.2019,rio-5p,Rio 5p,1.2 i-CVVT 16V,5,5,47 000DT,84ch dyn,,5cv,,Tissu,Traction,Essence
+Manuelle,kia,107860,Citadine,Rouge,Noir,1199cm³,12.12.2024,Tunis,IV11/2016 - 09/2020,103 000km,KIA,11.2018,rio-5p,Rio 5p,1.2 i-CVVT 16V,5,5,49 900DT,84ch dyn,,5cv,,Tissu,Traction,Essence
+Automatique,kia,108415,Berline,Noir,Beige,3778cm³,11.12.2024,La Manouba,01/2012 - 12/2017,134 000km,KIA,12.2014,quoris,Quoris,3.8 L V6,5,5,95 000DT,294ch dyn,,20cv,,Cuir intégral,Propulsion,Essence
+Manuelle,kia,108259,Coupé,Noir,Noir,1591cm³,10.12.2024,Ariana,08MY Coupé10/2008 - 04/2013,204 000km,KIA,12.2010,cerato-koup,Cerato KOUP,1.6 L 124 ch,5,3,30 000DT,124ch dyn,,7cv,,Tissu,Traction,Essence
+Manuelle,kia,108929,Berline,Bleu,Autre,1193cm³,10.12.2024,Sfax,IV Sedan01/2019 - 12/2022,90 500km,KIA,01.2020,rio,Rio Berline,1.4 i-CVVT 16V,5,4,52 000DT,109ch dyn,,6cv,,Tissu,Traction,Essence
+Automatique,kia,109162,Compacte,Gris argent,Gris,1000cm³,10.12.2024,Tunis,(TA) 5 Portes05/2011 - 01/2015,107 000km,KIA,06.2014,picanto,Picanto,,5,4,35 000DT,,,5cv,,Tissu,Traction,Essence
+Manuelle,kia,108068,SUV/4x4,Noir,Noir,1600cm³,10.12.2024,Ben Arous,IV Phase 207/2018 - 12/2021,105 000km,KIA,12.2018,sportage,Sportage,,5,5,89 000DT,,,6cv,,Tissu,Traction,Diesel
+Automatique,kia,109090,Citadine,Noir,Noir,1197cm³,07.12.2024,Ariana,(JA) Phase 207/2020 - Aujourd'hui,86 000km,KIA,09.2021,picanto,Picanto,,5,5,46 900DT,,,4cv,,Cuir intégral,Traction,Essence
+Manuelle,kia,108989,Citadine,Gris anthracite,Noir,1200cm³,05.12.2024,Monastir,III 5 portes06/2011 - 08/2014,176 600km,KIA,07.2013,rio-5p,Rio 5p,1.2 i-CVVT 16V,5,5,36 500DT,85ch dyn,,5cv,,Tissu,Traction,Essence
+Automatique,kia,107516,SUV/4x4,Gris Shark,Noir,1600cm³,05.12.2024,Ariana,IV Phase 207/2018 - 12/2021,50 000km,KIA,07.2021,sportage,Sportage,,5,5,112 000DT,,,11cv,,Cuir intégral,Intégrale,Essence
+Automatique,kia,107318,SUV/4x4,Blanc,Noir,1600cm³,05.12.2024,Ariana,IV Phase 207/2018 - 12/2021,124 000km,KIA,07.2020,sportage,Sportage,,5,5,89 000DT,,,8cv,,Cuir intégral,Traction,Essence
+Automatique,kia,108143,Autres,Bleu,Noir,1353cm³,04.12.2024,Sousse,Phase 111/2020 - 12/2024,14 150km,KIA,04.2023,seltos,Seltos,1.4 T-GDI  boite auto,5,5,115 000DT,140ch dyn,,8cv,,Similicuir,Traction,Essence
+Automatique,kia,108943,Berline,Gris Shark,Noir,1400cm³,03.12.2024,Monastir,IV Sedan01/2019 - 12/2022,77 000km,KIA,01.2020,rio,Rio Berline,1.4 i-CVVT 16V,5,5,68 000DT,100ch dyn,,6cv,,Tissu,Traction,Essence
+Automatique,kia,108906,SUV/4x4,Noir,Beige,1591cm³,02.12.2024,Tunis,IV Phase 109/2015 - 07/2018,117 000km,KIA,01.2018,sportage,Sportage,1.6 GDi CVVT 16V 4x2  Boite Auto,5,4,78 000DT,132ch dyn,,8cv,,Cuir intégral,Traction,Essence
+Automatique,kia,108876,SUV/4x4,Bleu,Marron,1000cm³,02.12.2024,Nabeul,II Phase 205/2007 - 05/2010,175 000km,KIA,06.2019,sportage,Sportage,2.0 i 16V 4x4,5,5,85 000DT,143ch dyn,,8cv,,Cuir intégral,Intégrale,Essence
+Manuelle,kia,108859,Compacte,Blanc,Noir,999cm³,01.12.2024,Ariana,IV Phase 209/2020 - Aujourd'hui,62 300km,KIA,11.2021,rio-5p,Rio 5p,1.2 i-CVVT 16V ISG,5,5,64 000DT,84ch dyn,,5cv,,Cuir intégral,Traction,Essence
+Manuelle,kia,106054,SUV/4x4,Blanc,Noir,1600cm³,30.11.2024,Médenine,IV Phase 207/2018 - 12/2021,99 000km,KIA,01.2019,sportage,Sportage,1.6 CRDi VGT 16V 4x2,5,5,81 000DT,136ch dyn,,6cv,,Similicuir,Propulsion,Diesel
+Automatique,kia,108728,SUV/4x4,Blanc,Gris,1500cm³,27.11.2024,Tunis,IV Phase 109/2015 - 07/2018,141 000km,KIA,02.2018,sportage,Sportage,,5,5,79 500DT,,,7cv,,Cuir intégral,Traction,Essence
+Manuelle,kia,108725,SUV/4x4,Noir,Noir,1800cm³,27.11.2024,Bizerte,III Phase 106/2010 - 12/2013,230 000km,KIA,08.2010,sportage,Sportage,,5,5,49 000DT,,,10cv,,Cuir partiel,Propulsion,Diesel
+Manuelle,kia,108708,Compacte,Rouge,Noir,1197cm³,26.11.2024,Tunis,IV Phase 209/2020 - Aujourd'hui,86 000km,KIA,05.2022,rio-5p,Rio 5p,1.2 i-CVVT 16V ISG,5,5,63 500DT,84ch dyn,,5cv,,Similicuir,Traction,Essence
+Automatique,kia,108674,SUV/4x4,Noir,Noir,1600cm³,26.11.2024,Ariana,IV Phase 207/2018 - 12/2021,90 000km,KIA,09.2021,sportage,Sportage,1.6 T-GDi 16V 4x4 DCT7,5,5,95 000DT,177ch dyn,,11cv,,Cuir intégral,Intégrale,Essence
+Manuelle,kia,108698,Citadine,Noir,Noir,1136cm³,26.11.2024,Monastir,(JA)03/2017 - 07/2020,60 000km,KIA,05.2020,picanto,Picanto,1.2 MPi 16V,5,5,38 500DT,84ch dyn,,4cv,,Tissu,Traction,Essence
+Automatique,kia,108556,SUV/4x4,Blanc,Noir,1500cm³,25.11.2024,Médenine,Phase 211/2023 - Aujourd'hui,48 000km,KIA,04.2023,xceed,XCeed,1.5 T-GDI 7DCT,5,5,97 500DT,160ch dyn,,9cv,,Cuir partiel,Traction,Essence
+Automatique,kia,108461,SUV/4x4,Bleu,Noir,1600cm³,24.11.2024,Nabeul,IV Phase 109/2015 - 07/2018,99 000km,KIA,10.2017,sportage,Sportage,1.6 GDi CVVT 16V 4x2  Boite Auto,5,5,82 000DT,132ch dyn,,8cv,,Cuir intégral,Propulsion,Essence
+Manuelle,kia,108585,Citadine,Noir,Noir,1200cm³,23.11.2024,Sfax,(JA) Phase 207/2020 - Aujourd'hui,29 000km,KIA,10.2021,picanto,Picanto,1.2 DPI 16V ISG,5,5,47 500DT,84ch dyn,,5cv,,Similicuir,Traction,Essence
+Automatique,kia,108576,SUV/4x4,Gris Shark,Noir,1685cm³,22.11.2024,Kasserine,IV Phase 109/2015 - 07/2018,200 000km,KIA,04.2017,sportage,Sportage,1.7 CRDi VGT 16V 4x2 DCT7,5,5,82 000DT,141ch dyn,,7cv,,Cuir intégral,Intégrale,Diesel
+Automatique,kia,108557,Autres,Blanc,Noir,1685cm³,22.11.2024,Monastir,IV03/2012 - Aujourd'hui,240 000km,KIA,11.2014,carens,Carens,1.7 CRDi 16V,5,5,47 000DT,136ch dyn,,8cv,,Cuir intégral,Intégrale,Diesel
+Manuelle,kia,108541,Citadine,Noir,Noir,1591cm³,21.11.2024,Tunis,08MY Sedan10/2008 - 04/2013,290 000km,KIA,07.2013,cerato,Cerato,,5,4,38 000DT,,,7cv,,Cuir partiel,Traction,Essence
+Manuelle,kia,108488,Compacte,Gris argent,Noir,906cm³,20.11.2024,Médenine,(JA)03/2017 - 07/2020,133 000km,KIA,07.2019,picanto,Picanto,,5,5,39 000DT,,,4cv,,Tissu,Traction,Essence
+Manuelle,kia,108463,Citadine,Blanc,Noir,1468cm³,19.11.2024,Bizerte,III 5 portes06/2011 - 08/2014,103 000km,KIA,06.2014,rio-5p,Rio 5p,,5,2,37 500DT,,,5cv,,Tissu,Intégrale,Essence
+Automatique,kia,108029,SUV/4x4,Noir,Noir,1600cm³,19.11.2024,Ariana,IV Phase 109/2015 - 07/2018,111 000km,KIA,01.2019,sportage,Sportage,1.6 GDi CVVT 16V 4x2  Boite Auto,5,5,75 000DT,132ch dyn,,8cv,,Cuir intégral,Traction,Essence
+Automatique,kia,107742,Citadine,Noir,Noir,1200cm³,18.11.2024,Tunis,(TA) 5 Portes05/2011 - 01/2015,74 000km,KIA,05.2019,picanto,Picanto,1.2 MPi 16V,5,5,45 800DT,85ch dyn,,5cv,,Similicuir,Propulsion,Essence
+Automatique,kia,108428,SUV/4x4,Gris anthracite,Noir,1482cm³,18.11.2024,Ben Arous,Phase 104/2022 - 10/2023,35 000km,KIA,05.2023,xceed,XCeed,,5,5,110 000DT,,,9cv,,Tissu,Traction,Essence
+Manuelle,kia,108406,Coupé,Noir,Noir,1598cm³,18.11.2024,Ariana,III01/2014 - 12/2017,114 000km,KIA,09.2014,cerato-5p,Cerato 5p,1.6 L BVM,5,5,43 000DT,130ch dyn,,7cv,,Tissu,Traction,Essence
+Manuelle,kia,108378,Berline,Noir,Noir,1200cm³,17.11.2024,Sfax,III Phase 2 3 Portes09/2014 - 10/2016,93 000km,KIA,12.2014,rio,Rio Berline,1.2 i-CVVT 16V,5,4,35 000DT,85ch dyn,,6cv,,Tissu,Traction,Essence
+Manuelle,kia,108111,Citadine,Blanc,Noir,1197cm³,14.11.2024,Ariana,IV Phase 209/2020 - Aujourd'hui,40 500km,KIA,11.2021,rio-5p,Rio 5p,,5,4,65 900DT,,,5cv,,Similicuir,Traction,Essence
+Manuelle,kia,108269,Compacte,Noir,Gris,1197cm³,14.11.2024,Sfax,IV Phase 209/2020 - Aujourd'hui,65 000km,KIA,11.2021,rio-5p,Rio 5p,1.2 i-CVVT 16V ISG,5,5,64 000DT,84ch dyn,,5cv,,Cuir intégral,Traction,Essence
+Manuelle,kia,108262,Berline,Gris argent,Gris,1399cm³,13.11.2024,Nabeul,II Phase 2 Sedan09/2006 - 05/2011,156 900km,KIA,05.2011,rio-5p,Rio 5p,,5,4,30 000DT,,,6cv,,Tissu,Traction,Essence
+Manuelle,kia,105724,Citadine,Noir,Noir,1197cm³,12.11.2024,Médenine,IV11/2016 - 09/2020,98 000km,KIA,06.2018,rio-5p,Rio 5p,1.2 i-CVVT 16V,5,5,49 000DT,84ch dyn,,5cv,,Tissu,Traction,Essence
+Automatique,kia,103219,Citadine,Noir,Noir,1200cm³,19.12.2024,Tunis,(JA) Phase 207/2020 - Aujourd'hui,27 000km,KIA,11.2022,picanto,Picanto,,5,5,51 500DT,,,5cv,,Cuir partiel,Traction,Essence
+Automatique,kia,109348,Autres,Gris Shark,Noir,1453cm³,16.12.2024,Ben Arous,Phase 111/2020 - 12/2024,60 000km,KIA,06.2021,seltos,Seltos,1.4 T-GDI  boite auto,5,5,95 000DT,140ch dyn,,8cv,,Tissu,Intégrale,Essence
+Manuelle,kia,107935,Berline,Bleu,Gris,1240cm³,16.11.2024,Ariana,III Phase 2 5 Portes09/2014 - 10/2016,150 000km,KIA,03.2016,rio,Rio Berline,1.2 i-CVVT 16V,5,4,37 500DT,85ch dyn,,5cv,,Tissu,Intégrale,Essence

@@ -1,0 +1,136 @@
+Boite vitesse,Brand,Car ID,Carrosserie,Couleur extérieure,Couleur intérieure,Cylindrée,Date de l'annonce,Gouvernorat,Génération,Kilométrage,Marque,Mise en circulation,Model,Modèle,Moteur,Nombre de places,Nombre de portes,Price,Puissance,Puissance fiscale,Sellerie,Transmission,Énergie
+Manuelle,peugeot,109353,Citadine,Noir,Noir,1198cm³,20.12.2024,Ben Arous,I Phase 2 5 Portes04/2015 - 10/2019,122 000km,Peugeot,11.2017,208,208,,5,4,27 900DT,,5cv,Tissu,Traction,Essence
+Manuelle,peugeot,109085,Citadine,Noir,Noir,1198cm³,20.12.2024,Ariana,(A94) 5HB04/2013 - 10/2019,141 000km,Peugeot,05.2014,2008,2008,,5,4,31 500DT,,5cv,Tissu,Traction,Essence
+Manuelle,peugeot,108571,Berline,Gris anthracite,Noir,1198cm³,20.12.2024,Ariana,phase 201/2017 - Aujourd'hui,195 000km,Peugeot,10.2018,301,301,,5,4,25 500DT,,5cv,Tissu,Traction,Essence
+Manuelle,peugeot,108570,Citadine,Blanc,Noir,999cm³,20.12.2024,Ben Arous,II (P21) 5 Portes10/2019 - 03/2024,11 000km,Peugeot,11.2020,208,208,,5,4,39 000DT,,4cv,Tissu,Traction,Essence
+Manuelle,peugeot,108534,Citadine,Blanc,Noir,1198cm³,20.12.2024,Ben Arous,II (P21) 5 Portes10/2019 - 03/2024,37 000km,Peugeot,06.2022,208,208,,5,4,43 500DT,,4cv,Similicuir,Traction,Essence
+Manuelle,peugeot,108292,Coupé,Blanc,Noir,1389cm³,20.12.2024,Ben Arous,3 portes03/2006 - 12/2012,290 000km,Peugeot,07.2011,207,207,,4,2,27 500DT,,6cv,Tissu,Traction,Diesel
+Manuelle,peugeot,107522,SUV/4x4,Noir,Noir,1198cm³,20.12.2024,Ben Arous,II07/2016 - 08/2020,131 000km,Peugeot,04.2017,3008,3008,,5,4,62 000DT,,7cv,Similicuir,Traction,Essence
+Manuelle,peugeot,107332,Berline,Gris anthracite,Noir,1198cm³,20.12.2024,Tunis,11/2012 - 01/2017,93 000km,Peugeot,04.2014,301,301,,5,4,26 000DT,,5cv,Tissu,Traction,Essence
+Manuelle,peugeot,106917,SUV/4x4,Gris Shark,Noir,1198cm³,20.12.2024,Ariana,(A94) 5HB04/2013 - 10/2019,60 000km,Peugeot,11.2016,2008,2008,1.2 VTi 12V,5,4,45 000DT,82ch dyn,5cv,Tissu,Traction,Essence
+Manuelle,peugeot,106654,Utilitaire,Noir,Noir,1198cm³,20.12.2024,Ben Arous,(B9) Utilitaire Phase 204/2015 - 10/2018,113 000km,Peugeot,09.2018,partner,Partner,,2,3,39 500DT,,5cv,Tissu,Traction,Diesel
+Manuelle,peugeot,105927,Utilitaire,Blanc,Noir,1198cm³,20.12.2024,Ben Arous,06/2018 - Aujourd'hui,67 000km,Peugeot,12.2019,rifter,Rifter,,5,4,69 000DT,,6cv,Tissu,Traction,Essence
+Manuelle,peugeot,105865,Monospace,Beige,Noir,1198cm³,20.12.2024,Tunis,I Phase 2 3 Portes04/2015 - 08/2018,104 000km,Peugeot,02.2017,208-3p,208 3P,,4,2,32 900DT,,5cv,Similicuir,Traction,Essence
+Manuelle,peugeot,104927,Pick up,Gris anthracite,Noir,1898cm³,20.12.2024,Ben Arous,03/2021 - Aujourd'hui,34 000km,Peugeot,11.2022,landtrek-double-cabine,Landtrek Double Cabine,,5,4,95 000DT,,6cv,Tissu,Traction,Diesel
+,peugeot,104285,,,,,,,,,,,3008,,,,,N/A,,,,,
+Manuelle,peugeot,103724,Monospace,Blanc,Noir,1199cm³,20.12.2024,Tunis,I Phase 2 3 Portes04/2015 - 08/2018,74 000km,Peugeot,08.2016,208-3p,208 3P,,2,2,38 500DT,,5cv,Tissu,Traction,Essence
+Manuelle,peugeot,100630,Citadine,Noir,Noir,1599cm³,20.12.2024,Ben Arous,I03/2009 - 09/2013,230 000km,Peugeot,10.2010,3008,3008,,5,4,33 000DT,,7cv,Similicuir,Traction,Essence
+Automatique,peugeot,100350,SUV/4x4,Noir,Noir,1598cm³,20.12.2024,Ben Arous,II07/2016 - 08/2020,132 000km,Peugeot,06.2018,3008,3008,,5,5,84 900DT,,9cv,Similicuir,Traction,Essence
+Automatique,peugeot,98065,SUV/4x4,Noir,,,20.12.2024,Ben Arous,II07/2016 - 08/2020,169 000km,Peugeot,05.2020,3008,3008,,,,80 000DT,,7cv,,Traction,Essence
+Manuelle,peugeot,109465,Berline,Noir,Noir,1199cm³,19.12.2024,Ariana,II (T9) Phase II09/2017 - 07/2021,64 000km,Peugeot,12.2020,308,308,1.2 THP Puretech 12V,5,5,49 000DT,110ch dyn,6cv,Tissu,Traction,Essence
+Manuelle,peugeot,106118,Citadine,Gris Shark,Gris,1200cm³,19.12.2024,Monastir,II (T9) Phase II09/2017 - 07/2021,102 000km,Peugeot,01.2020,308,308,,5,5,50 000DT,,5cv,Tissu,Traction,Essence
+Manuelle,peugeot,109400,Monospace,Blanc,Noir,1499cm³,19.12.2024,Nabeul,(K9)10/2018 - 05/2024,148 000km,Peugeot,10.2020,partner,Partner,,2,2,46 000DT,,5cv,Tissu,Traction,Diesel
+Manuelle,peugeot,109398,Citadine,Noir,Noir,1499cm³,19.12.2024,Nabeul,II (P21) 5 Portes10/2019 - 03/2024,88 000km,Peugeot,02.2021,208,208,Affaire 1.5 Blue HDi 16V S&S,5,5,46 500DT,100ch dyn,5cv,Tissu,Traction,Diesel
+Manuelle,peugeot,107205,Citadine,Blanc,Noir,1499cm³,19.12.2024,Nabeul,II (P21) 5 Portes10/2019 - 03/2024,108 000km,Peugeot,02.2021,208,208,,5,5,45 500DT,,5cv,Tissu,Traction,Diesel
+Automatique,peugeot,106072,SUV/4x4,Noir,Noir,1489cm³,19.12.2024,Nabeul,II07/2016 - 08/2020,148 000km,Peugeot,03.2020,3008,3008,,5,5,79 000DT,,6cv,Tissu,Traction,Diesel
+Manuelle,peugeot,107426,Autres,Autre,Noir,1199cm³,19.12.2024,Sousse,II01/2017 - 08/2020,160 000km,Peugeot,12.2019,5008,5008,,7,5,78 000DT,,7cv,Cuir intégral,Traction,Essence
+Manuelle,peugeot,109429,Utilitaire,Bleu,Noir,1600cm³,19.12.2024,Tozeur,(K9)10/2018 - 05/2024,90 000km,Peugeot,03.2022,partner,Partner,L1 1.6 BlueHDi 8V FAP,2,3,54 500DT,100ch dyn,5cv,Tissu,Traction,Diesel
+Automatique,peugeot,109427,Berline,Noir,Gris,2000cm³,19.12.2024,Tunis,Berline04/2004 - 05/2011,130 000km,Peugeot,05.2007,407,407,2.0 i 16V,5,4,26 500DT,138ch dyn,9cv,Velours,Traction,Essence
+Manuelle,peugeot,108953,Berline,Blanc,Noir,1198cm³,19.12.2024,Tunis,phase 201/2017 - Aujourd'hui,73 000km,Peugeot,08.2021,301,301,1.2 VTi 12V,5,4,33 000DT,82ch dyn,5cv,Tissu,Traction,Essence
+Manuelle,peugeot,108228,Utilitaire,Blanc,Noir,1559cm³,19.12.2024,Sfax,(K9)10/2018 - 05/2024,73 000km,Peugeot,05.2019,partner-origin-utilitaire,Partner Origin Utilitaire,L1 HD 1.2 THP 12V S&S,2,2,56 000DT,110ch dyn,5cv,Tissu,Traction,Diesel
+Manuelle,peugeot,107928,SUV/4x4,Noir,Noir,1200cm³,19.12.2024,Ariana,II07/2016 - 08/2020,130 000km,Peugeot,04.2017,3008,3008,1.2 THP Puretech 12V S&S,5,4,65 000DT,130ch dyn,7cv,Cuir intégral,Intégrale,Essence
+Manuelle,peugeot,107865,SUV/4x4,Gris Shark,Noir,1200cm³,19.12.2024,Ariana,(A94) 5HB04/2013 - 10/2019,100 000km,Peugeot,03.2017,2008,2008,,5,4,43 000DT,,6cv,Tissu,Intégrale,Essence
+Manuelle,peugeot,109021,Compacte,Noir,Noir,999cm³,19.12.2024,Sousse,II (T9) Phase II09/2017 - 07/2021,96 000km,Peugeot,12.2019,308,308,,5,4,54 000DT,,4cv,Tissu,Traction,Diesel
+Automatique,peugeot,109046,Citadine,Bleu,Noir,1598cm³,19.12.2024,Sousse,II07/2022 - Aujourd'hui,15 000km,Peugeot,05.2024,408,408,1.2 THP Puretech 12V EAT8 S&S,5,4,150 000DT,131ch dyn,13cv,Cuir intégral,Traction,Essence
+Automatique,peugeot,109284,SUV/4x4,Blanc,Noir,1600cm³,19.12.2024,Tunis,II07/2016 - 08/2020,110 000km,Peugeot,08.2017,3008,3008,,5,5,77 000DT,,9cv,Cuir intégral,Propulsion,Essence
+Automatique,peugeot,108007,SUV/4x4,Rouge,Noir,1200cm³,19.12.2024,Tunis,(A94) 5HB04/2013 - 10/2019,61 000km,Peugeot,08.2018,2008,2008,1.2 THP Puretech 12V EAT6 S&S,5,5,49 000DT,110ch dyn,6cv,Tissu,Intégrale,Essence
+Automatique,peugeot,106856,SUV/4x4,Autre,Noir,1200cm³,19.12.2024,Tunis,II07/2016 - 08/2020,140 000km,Peugeot,09.2018,3008,3008,,5,5,82 000DT,,7cv,Alcantara,Traction,Essence
+Manuelle,peugeot,109448,Utilitaire,Gris anthracite,Noir,1560cm³,19.12.2024,Tunis,(K9)10/2018 - 05/2024,62 000km,Peugeot,02.2023,partner,Partner,L1 1.5 BlueHDi 16V FAP,2,2,57 000DT,100ch dyn,5cv,Tissu,Traction,Diesel
+Manuelle,peugeot,107931,Utilitaire,Blanc,Gris,1999cm³,19.12.2024,Sfax,(K9)10/2018 - 05/2024,87 261km,Peugeot,01.2020,partner,Partner,,3,2,59 000DT,,5cv,Tissu,Propulsion,Diesel
+Manuelle,peugeot,104288,Autres,Blanc,Gris,1560cm³,19.12.2024,Sfax,(K9)10/2018 - 05/2024,144 790km,Peugeot,03.2019,partner,Partner,,2,2,55 000DT,,5cv,Tissu,Propulsion,Diesel
+Automatique,peugeot,109444,SUV/4x4,Autre,Noir,1199cm³,19.12.2024,Sfax,II Phase 209/2020 - Aujourd'hui,117 000km,Peugeot,03.2021,3008,3008,1.2 THP Puretech 12V GPF EAT8 S&S,5,5,88 000DT,130ch dyn,7cv,Similicuir,Traction,Essence
+Automatique,peugeot,107781,SUV/4x4,Rouge,Noir,1200cm³,19.12.2024,La Manouba,II07/2016 - 08/2020,55 000km,Peugeot,06.2020,3008,3008,1.2 THP Puretech 12V EAT6 S&S,5,5,92 000DT,130ch dyn,7cv,Cuir partiel,Traction,Essence
+Manuelle,peugeot,108963,Berline,Gris anthracite,Gris,1200cm³,19.12.2024,Ariana,III (P5)08/2021 - Aujourd'hui,36 765km,Peugeot,11.2021,308,308,1.2 THP Puretech 12V S&S,5,4,53 000DT,110ch dyn,5cv,Tissu,Traction,Essence
+Automatique,peugeot,106492,Berline,Vert,Noir,1500cm³,19.12.2024,Ariana,III (P5) SW07/2021 - Aujourd'hui,48 000km,Peugeot,06.2023,308,308,1.5 BlueHDi 16V EAT8 S&S,5,4,126 000DT,130ch dyn,7cv,Tissu,Traction,Diesel
+Manuelle,peugeot,106132,Utilitaire,Blanc,Noir,1500cm³,19.12.2024,Ariana,III Combi05/2016 - Aujourd'hui,139 199km,Peugeot,11.2019,expert,Expert,Compact 1.5 Blue HDi 16V S&S,3,4,59 000DT,120ch dyn,6cv,Tissu,Traction,Diesel
+Automatique,peugeot,100501,SUV/4x4,Blanc,Noir,1200cm³,19.12.2024,Ariana,II (P24E) 5HB10/2019 - Aujourd'hui,125 000km,Peugeot,05.2018,2008,2008,1.2 THP Puretech 12V EAT8,5,4,55 000DT,155ch dyn,6cv,Cuir intégral,Traction,Essence
+Manuelle,peugeot,108786,Autres,Gris argent,Noir,1910cm³,19.12.2024,Tunis,03/2021 - Aujourd'hui,124 000km,Peugeot,09.2021,landtrek-double-cabine,Landtrek Double Cabine,1.9 d  double cabine 4x2,5,4,64 500DT,150ch dyn,6cv,Tissu,Traction,Diesel
+Automatique,peugeot,107488,SUV/4x4,Bleu,Gris,1199cm³,19.12.2024,Tunis,II07/2016 - 08/2020,93 000km,Peugeot,11.2020,3008,3008,,5,5,69 000DT,,7cv,Tissu,Traction,Essence
+Automatique,peugeot,108493,SUV/4x4,Gris Shark,Gris,1200cm³,19.12.2024,Tunis,II07/2016 - 08/2020,87 000km,Peugeot,02.2019,3008,3008,,4,4,82 000DT,,7cv,Cuir partiel,Traction,Essence
+Automatique,peugeot,106381,Berline,Noir,Gris,1600cm³,19.12.2024,Tunis,II Berline10/2018 - Aujourd'hui,137 000km,Peugeot,09.2019,508,508,,5,4,79 000DT,,8cv,Tissu,Traction,Essence
+Automatique,peugeot,108890,SUV/4x4,Blanc,Noir,1399cm³,19.12.2024,Tunis,II07/2016 - 08/2020,38 000km,Peugeot,09.2019,3008,3008,,5,5,88 000DT,,7cv,Tissu,Traction,Essence
+Automatique,peugeot,108833,SUV/4x4,Noir,Noir,1400cm³,19.12.2024,Tunis,II07/2016 - 08/2020,75 000km,Peugeot,07.2020,3008,3008,,5,5,75 000DT,,6cv,Tissu,Traction,Essence
+Automatique,peugeot,107772,Citadine,Bleu,Noir,1699cm³,19.12.2024,Tunis,II07/2022 - Aujourd'hui,10 000km,Peugeot,03.2024,408-gt,408 GT,,5,5,155 000DT,,11cv,Cuir intégral,Traction,Essence
+Automatique,peugeot,107624,SUV/4x4,Noir,Noir,1599cm³,19.12.2024,Tunis,II07/2016 - 08/2020,112 000km,Peugeot,01.2020,3008,3008,,5,5,69 000DT,,7cv,Tissu,Traction,Essence
+Automatique,peugeot,107550,SUV/4x4,Noir,Noir,1599cm³,19.12.2024,Tunis,,125 000km,Peugeot,07.2020,3008-gt-line,3008 GT,,5,5,89 000DT,,6cv,Similicuir,Traction,Essence
+Manuelle,peugeot,106499,Citadine,Noir,Noir,1200cm³,19.12.2024,Tunis,II (T9) Phase II09/2017 - 07/2021,128 000km,Peugeot,06.2020,308,308,,5,5,47 000DT,,6cv,Tissu,Traction,Essence
+Manuelle,peugeot,105372,SUV/4x4,Orange,Noir,1200cm³,19.12.2024,Tunis,II (P24E) 5HB10/2019 - Aujourd'hui,100 000km,Peugeot,12.2021,2008,2008,,5,5,80 000DT,,6cv,Tissu,Traction,Diesel
+Manuelle,peugeot,104957,Compacte,Blanc,Noir,1599cm³,19.12.2024,Tunis,06/2018 - Aujourd'hui,95 000km,Peugeot,11.2020,rifter,Rifter,,5,5,72 000DT,,7cv,Tissu,Traction,Diesel
+Manuelle,peugeot,104924,Compacte,Blanc,Noir,1500cm³,19.12.2024,Tunis,06/2018 - Aujourd'hui,95 000km,Peugeot,11.2020,rifter,Rifter,,5,5,72 000DT,,7cv,Tissu,Traction,Diesel
+Automatique,peugeot,102489,SUV/4x4,Gris Shark,Gris,1399cm³,19.12.2024,Tunis,II (P24E) 5HB10/2019 - Aujourd'hui,34 000km,Peugeot,06.2022,2008,2008,,5,5,97 000DT,,7cv,Tissu,Traction,Essence
+Manuelle,peugeot,101998,Citadine,Gris argent,Noir,1190cm³,19.12.2024,Tunis,II (P21) 5 Portes10/2019 - 03/2024,60 000km,Peugeot,05.2020,208,208,,5,5,35 000DT,,4cv,Cuir partiel,Traction,Essence
+Manuelle,peugeot,99879,SUV/4x4,Gris Shark,Noir,1200cm³,19.12.2024,Tunis,II (P24E) 5HB10/2019 - Aujourd'hui,30 000km,Peugeot,07.2021,2008,2008,1.2 THP Puretech 12V S&S,5,5,92 000DT,130ch dyn,7cv,Tissu,Traction,Essence
+Automatique,peugeot,98421,SUV/4x4,Blanc,,,19.12.2024,Tunis,II07/2016 - 08/2020,260 000km,Peugeot,08.2017,3008,3008,,,,77 000DT,,9cv,,Traction,Essence
+Manuelle,peugeot,91509,Citadine,Noir,,,19.12.2024,Tunis,05/2010 - 12/2015,171 000km,Peugeot,04.2011,rcz,RCZ,,,,40 000DT,,7cv,,Traction,Essence
+Automatique,peugeot,108762,Citadine,Noir,Noir,1600cm³,19.12.2024,Tunis,II Phase 2 (P87)09/2020 - Aujourd'hui,7 000km,Peugeot,04.2023,5008,5008,,5,5,138 000DT,,9cv,Tissu,Traction,Essence
+Manuelle,peugeot,108497,Utilitaire,Blanc,Gris,1600cm³,19.12.2024,Tunis,(B9) Utilitaire05/2008 - 04/2015,218 000km,Peugeot,06.2014,partner,Partner,,2,2,27 000DT,,5cv,Tissu,Traction,Diesel
+Automatique,peugeot,104856,Berline,Rouge,Noir,1600cm³,19.12.2024,Tunis,,115 000km,Peugeot,03.2020,508-gt-line,508 GT Line,,5,4,116 000DT,,9cv,Cuir intégral,Traction,Essence
+Automatique,peugeot,109368,Compacte,Noir,Gris,2000cm³,19.12.2024,Tunis,Berline04/2004 - 05/2011,130 000km,Peugeot,01.2007,407,407,2.0 i 16V,5,4,26 500DT,138ch dyn,9cv,Velours,Traction,Essence
+Manuelle,peugeot,106041,Citadine,Blanc,Noir,1199cm³,18.12.2024,Sousse,II (P21) 5 Portes10/2019 - 03/2024,93 000km,Peugeot,03.2019,208,208,Affaire 1.2 PureTech 12V S&S,5,5,34 000DT,100ch dyn,5cv,Tissu,Traction,Essence
+Automatique,peugeot,106923,Berline,Blanc,Noir,1600cm³,18.12.2024,Tunis,I Phase 2 Berline10/2014 - 09/2018,145 000km,Peugeot,05.2018,508,508,1.6 PureTech EAT8 S&S,5,5,51 000DT,180ch dyn,7cv,Tissu,Traction,Essence
+Manuelle,peugeot,106173,Compacte,Gris argent,Gris,1199cm³,18.12.2024,Ariana,II (T9)07/2013 - 08/2017,99 500km,Peugeot,12.2014,308,308,1.2 VTi 12V,5,5,34 000DT,82ch dyn,5cv,Tissu,Traction,Essence
+Manuelle,peugeot,108633,Coupé,Noir,Noir,4000cm³,18.12.2024,Ben Arous,3 portes03/2006 - 12/2012,290 000km,Peugeot,07.2011,207,207,1.4 HDi 70cv,5,3,27 500DT,70ch dyn,6cv,Tissu,Traction,Diesel
+Automatique,peugeot,109392,SUV/4x4,Vert,Noir,1199cm³,17.12.2024,Tunis,II07/2016 - 08/2020,149 000km,Peugeot,08.2020,3008,3008,1.2 THP Puretech 12V EAT6 S&S,5,5,68 000DT,130ch dyn,7cv,Tissu,Traction,Essence
+Manuelle,peugeot,109388,Berline,Blanc,Noir,1560cm³,17.12.2024,Ariana,I Berline09/2010 - 09/2014,240 000km,Peugeot,06.2012,508,508,1.6 e-HDi FAP Blue Lion BMP6 S&S,5,5,41 500DT,112ch dyn,6cv,Cuir intégral,Traction,Diesel
+Manuelle,peugeot,108391,Utilitaire,Blanc,Noir,1600cm³,17.12.2024,Ben Arous,(K9)10/2018 - 05/2024,95 000km,Peugeot,08.2021,partner,Partner,,2,2,48 000DT,,5cv,Tissu,Traction,Diesel
+Automatique,peugeot,107091,SUV/4x4,Noir,Noir,1600cm³,17.12.2024,Ben Arous,II07/2016 - 08/2020,190 000km,Peugeot,08.2017,3008-gt-line,3008 GT,,5,4,80 000DT,,6cv,Tissu,Traction,Diesel
+Manuelle,peugeot,108433,Citadine,Gris argent,Beige,999cm³,17.12.2024,Sfax,II (P21) 5 Portes10/2019 - 03/2024,28 500km,Peugeot,04.2021,208,208,1.2 PureTech 12V S&S,5,5,49 500DT,75ch dyn,5cv,Tissu,Traction,Essence
+Manuelle,peugeot,109364,SUV/4x4,Gris argent,Noir,1200cm³,16.12.2024,Mahdia,II01/2017 - 08/2020,145 000km,Peugeot,11.2020,5008,5008,1.2 THP Puretech 12V S&S,7,5,95 000DT,130ch dyn,7cv,Tissu,Traction,Essence
+Manuelle,peugeot,109361,Pick up,Gris argent,Noir,1900cm³,16.12.2024,Médenine,03/2021 - Aujourd'hui,30 000km,Peugeot,08.2023,landtrek-double-cabine,Landtrek Double Cabine,1.9 d  double cabine 4x4,5,4,97 000DT,150ch dyn,7cv,Tissu,Intégrale,Diesel
+Manuelle,peugeot,109342,Berline,Gris anthracite,Noir,1600cm³,16.12.2024,Médenine,Berline04/2004 - 05/2011,376 000km,Peugeot,02.2005,407,407,1.6 HDi 16V,5,4,23 000DT,110ch dyn,6cv,Cuir partiel,Traction,Diesel
+Automatique,peugeot,109065,SUV/4x4,Noir,Noir,1600cm³,16.12.2024,Ariana,II07/2016 - 08/2020,112 000km,Peugeot,03.2019,3008,3008,1.6 THP 16V EAT6 S&S,5,4,76 000DT,180ch dyn,9cv,Cuir intégral,Traction,Essence
+Automatique,peugeot,108182,SUV/4x4,Blanc,Noir,1598cm³,16.12.2024,Sousse,II Phase 209/2020 - Aujourd'hui,55 000km,Peugeot,01.2022,3008,3008,1.6 THP 16V EAT8 S&S,4,5,105 000DT,180ch dyn,9cv,Alcantara,Traction,Essence
+Manuelle,peugeot,109326,Citadine,Gris argent,Noir,1199cm³,16.12.2024,Tunis,I Phase 2 5 Portes04/2015 - 10/2019,140 000km,Peugeot,02.2019,208,208,,5,4,32 500DT,,5cv,Tissu,Traction,Essence
+Manuelle,peugeot,108468,SUV/4x4,Gris anthracite,Autre,3000cm³,15.12.2024,Ariana,II (P24E) 5HB10/2019 - Aujourd'hui,110 000km,Peugeot,12.2020,2008,2008,1.2 THP Puretech 12V,5,5,70 000DT,100ch dyn,6cv,Cuir partiel,Traction,Essence
+Manuelle,peugeot,108295,Berline,Gris Shark,Noir,1200cm³,15.12.2024,Tunis,II (T9) SW Phase II04/2017 - 07/2021,148 500km,Peugeot,05.2019,308,308,1.2 THP Puretech 12V,5,5,47 000DT,110ch dyn,6cv,Tissu,Traction,Essence
+Manuelle,peugeot,108850,SUV/4x4,Noir,Gris,2000cm³,15.12.2024,Tunis,03/2012 - 04/2017,99 000km,Peugeot,02.2014,4008,4008,2.0 i 16V 2WD,5,5,47 900DT,150ch dyn,9cv,Cuir intégral,Traction,Essence
+Manuelle,peugeot,109305,Compacte,Blanc,Noir,1000cm³,15.12.2024,Ariana,(T7) CC03/2009 - 12/2015,150 000km,Peugeot,02.2012,308-cc,308 cc,,5,3,38 000DT,,7cv,Tissu,Traction,Essence
+Automatique,peugeot,104718,SUV/4x4,Rouge,Noir,1600cm³,14.12.2024,Ariana,II07/2016 - 08/2020,30 000km,Peugeot,09.2018,3008,3008,,5,5,95 000DT,,9cv,Cuir intégral,Traction,Essence
+Manuelle,peugeot,109288,Citadine,Noir,Marron,1560cm³,14.12.2024,Gafsa,I Berline09/2010 - 09/2014,174 000km,Peugeot,07.2011,508,508,,5,4,30 000DT,,6cv,Cuir intégral,Traction,Diesel
+Manuelle,peugeot,109276,Citadine,Blanc,Noir,1199cm³,14.12.2024,Sousse,,110 000km,Peugeot,10.2015,208,208,,5,5,29 000DT,,5cv,Tissu,Traction,Essence
+Manuelle,peugeot,109269,Berline,Gris Shark,Gris,1199cm³,13.12.2024,Nabeul,(A94) 5HB04/2013 - 10/2019,229 000km,Peugeot,06.2015,2008,2008,1.2 VTi 12V,5,4,38 500DT,82ch dyn,5cv,Tissu,Traction,Essence
+Manuelle,peugeot,109259,Berline,Gris argent,Noir,1600cm³,13.12.2024,Médenine,Berline04/2004 - 05/2011,308 000km,Peugeot,11.2008,407,407,1.6 HDi 16V,5,4,31 000DT,110ch dyn,6cv,Tissu,Traction,Diesel
+Manuelle,peugeot,106128,Compacte,Noir,Noir,1300cm³,13.12.2024,Tunis,II (T9) Phase II09/2017 - 07/2021,188 000km,Peugeot,12.2017,308,308,1.2 THP Puretech 12V,5,5,39 000DT,130ch dyn,6cv,Tissu,Traction,Essence
+Automatique,peugeot,106958,SUV/4x4,Blanc,Noir,1200cm³,13.12.2024,Ben Arous,II07/2016 - 08/2020,70 000km,Peugeot,01.2020,3008,3008,,5,5,89 000DT,,6cv,Tissu,Traction,Essence
+Manuelle,peugeot,109180,Monospace,Blanc,Beige,1499cm³,13.12.2024,Sfax,06/2018 - Aujourd'hui,123 000km,Peugeot,05.2021,rifter,Rifter,L1 1.5 BlueHDi 16V FAP,5,5,84 000DT,100ch dyn,5cv,Tissu,Propulsion,Diesel
+Manuelle,peugeot,109225,Compacte,Blanc,Noir,998cm³,13.12.2024,Sfax,II (P21) 5 Portes10/2019 - 03/2024,65 000km,Peugeot,06.2020,208,208,,5,5,34 000DT,,4cv,Tissu,Propulsion,Essence
+Manuelle,peugeot,105790,SUV/4x4,Gris Shark,Noir,1199cm³,12.12.2024,Ariana,(A94) 5HB04/2013 - 10/2019,162 000km,Peugeot,03.2014,2008,2008,1.2 VTi 12V,5,5,36 000DT,82ch dyn,5cv,Similicuir,Traction,Essence
+Manuelle,peugeot,107436,Pick up,Blanc,Noir,1910cm³,12.12.2024,Tunis,03/2021 - Aujourd'hui,45 000km,Peugeot,06.2023,landtrek-simple-cabine,Landtrek Simple Cabine,,2,2,78 000DT,,6cv,Similicuir,Propulsion,Diesel
+Manuelle,peugeot,106910,Citadine,Marron,Noir,1199cm³,11.12.2024,Ariana,I 3 Portes03/2012 - 05/2015,110 000km,Peugeot,06.2015,208,208,1.2 Puretech VTi 12V GPL,5,3,29 000DT,82ch dyn,5cv,Tissu,Traction,Essence
+Manuelle,peugeot,106586,SUV/4x4,Blanc,Noir,1199cm³,11.12.2024,Ariana,(A94) 5HB04/2013 - 10/2019,136 000km,Peugeot,09.2014,2008,2008,,5,5,34 000DT,,5cv,Tissu,Traction,Essence
+Manuelle,peugeot,106030,SUV/4x4,Noir,Noir,1200cm³,11.12.2024,Tunis,(A94) 5HB04/2013 - 10/2019,93 000km,Peugeot,07.2017,2008,2008,1.2 THP Puretech 12V S&S,5,5,48 000DT,110ch dyn,5cv,Tissu,Propulsion,Essence
+Manuelle,peugeot,108923,SUV/4x4,Gris Shark,Noir,1000cm³,11.12.2024,Sfax,(A94) 5HB04/2013 - 10/2019,96 000km,Peugeot,03.2015,2008,2008,,5,5,40 000DT,,5cv,Tissu,Traction,Essence
+Automatique,peugeot,108635,Berline,Noir,Noir,1300cm³,11.12.2024,Médenine,II Berline10/2018 - Aujourd'hui,111 000km,Peugeot,11.2019,508,508,1.5 BlueHDI EAT8 S&S,5,5,95 000DT,130ch dyn,7cv,Similicuir,Propulsion,Diesel
+Manuelle,peugeot,109167,Autres,Autre,Noir,1598cm³,10.12.2024,Ariana,I Phase 209/2013 - 06/2016,143 000km,Peugeot,06.2014,3008,3008,,5,5,37 500DT,,7cv,Tissu,Propulsion,Essence
+Automatique,peugeot,101674,Compacte,Blanc,Noir,1000cm³,08.12.2024,Ariana,III (P5)08/2021 - Aujourd'hui,1 000km,Peugeot,02.2023,308,308,,5,5,95 000DT,,7cv,Cuir partiel,Traction,Essence
+Automatique,peugeot,104848,Citadine,Noir,Noir,1199cm³,08.12.2024,Kairouan,(A94) 5HB04/2013 - 10/2019,120 000km,Peugeot,08.2018,2008,2008,,5,5,56 000DT,,6cv,Tissu,Traction,Essence
+Manuelle,peugeot,108663,Berline,Noir,Noir,1599cm³,07.12.2024,Ben Arous,I Berline09/2010 - 09/2014,215 000km,Peugeot,10.2012,508,508,,5,5,28 000DT,,7cv,Tissu,Traction,Essence
+Manuelle,peugeot,109058,Citadine,Gris anthracite,Gris,1199cm³,07.12.2024,Tunis,(A94) 5HB04/2013 - 10/2019,135 000km,Peugeot,10.2016,2008,2008,,5,4,40 000DT,,5cv,Tissu,Traction,Essence
+Manuelle,peugeot,108637,Citadine,Noir,Noir,1124cm³,07.12.2024,Ben Arous,03/2009 - 01/2013,110 000km,Peugeot,11.2012,206-plus,206+,,5,5,22 700DT,,4cv,Similicuir,Traction,Essence
+Manuelle,peugeot,109040,Compacte,Blanc,Noir,1199cm³,06.12.2024,Tunis,II (T9) Phase II09/2017 - 07/2021,89 000km,Peugeot,10.2020,308,308,1.2 THP Puretech 12V,5,5,49 999DT,110ch dyn,6cv,Cuir partiel,Traction,Essence
+Manuelle,peugeot,109025,Citadine,Bleu,Beige,1199cm³,06.12.2024,Ariana,phase 201/2017 - Aujourd'hui,202 000km,Peugeot,04.2018,301,301,1.2 VTi 12V,5,4,24 500DT,82ch dyn,5cv,Similicuir,Traction,Essence
+Manuelle,peugeot,94617,Utilitaire,Blanc,Noir,1219cm³,06.12.2024,Ben Arous,,200 100km,Peugeot,06.2007,boxer,Boxer,,3,2,14 000DT,,7cv,Tissu,Traction,Diesel
+Automatique,peugeot,108984,SUV/4x4,Gris anthracite,Noir,1498cm³,05.12.2024,Monastir,II07/2016 - 08/2020,120 000km,Peugeot,11.2019,3008,3008,1.5 BlueHDi EAT8 S&S,5,4,90 000DT,130ch dyn,7cv,Tissu,Traction,Diesel
+Manuelle,peugeot,108930,Compacte,Marron,Noir,1600cm³,03.12.2024,Tunis,I03/2009 - 09/2013,210 000km,Peugeot,01.2010,3008,3008,,5,5,32 000DT,,7cv,Tissu,Traction,Essence
+Manuelle,peugeot,106636,Cabriolet,Gris Shark,Noir,1599cm³,03.12.2024,Tunis,Restylée CC06/2005 - 06/2009,110 451km,Peugeot,06.2007,307,307,1.6 i 16V 110cv,5,3,25 500DT,110ch dyn,8cv,Tissu,Traction,Essence
+Manuelle,peugeot,108884,Coupé,Beige,Noir,920cm³,02.12.2024,Ben Arous,II (P21) 5 Portes10/2019 - 03/2024,100 000km,Peugeot,09.2020,208,208,,5,5,32 500DT,,4cv,Tissu,Traction,Essence
+Automatique,peugeot,108240,Berline,Blanc,Noir,999cm³,30.11.2024,Monastir,III (P5)08/2021 - Aujourd'hui,170 000km,Peugeot,04.2022,308,308,1.5 BlueHDi 16V EAT8 S&S,5,5,85 000DT,130ch dyn,7cv,Tissu,Intégrale,Diesel
+Manuelle,peugeot,108800,Berline,Noir,Noir,1200cm³,29.11.2024,Tunis,II (T9) Phase II09/2017 - 07/2021,82 500km,Peugeot,12.2020,308,308,1.2 THP Puretech 12V,5,5,53 000DT,110ch dyn,6cv,Tissu,Traction,Essence
+Automatique,peugeot,108779,Compacte,Blanc,Noir,1598cm³,28.11.2024,Ariana,II (T9)07/2013 - 08/2017,164 000km,Peugeot,05.2016,308,308,,5,5,68 000DT,,9cv,Cuir intégral,Traction,Essence
+Manuelle,peugeot,108687,SUV/4x4,Noir,Gris,1191cm³,26.11.2024,Ariana,(A94) 5HB04/2013 - 10/2019,132 000km,Peugeot,04.2014,2008,2008,,5,5,35 000DT,,5cv,Tissu,Traction,Essence
+Manuelle,peugeot,108656,Berline,Gris Shark,Noir,1200cm³,26.11.2024,Nabeul,5 portes03/2006 - 07/2012,260 000km,Peugeot,02.2012,207,207,1.4 e,5,5,26 500DT,75ch dyn,5cv,Tissu,Traction,Essence
+Manuelle,peugeot,108589,Compacte,Noir,Noir,1560cm³,23.11.2024,Monastir,5 portes03/2006 - 07/2012,226 000km,Peugeot,06.2009,207,207,,5,5,27 400DT,,6cv,Cuir intégral,Traction,Diesel
+Manuelle,peugeot,108578,Berline,Vert,Gris,2500cm³,23.11.2024,Béja,Berline05/1979 - 01/1990,350 000km,Peugeot,01.1995,505,505,,5,4,5 000DT,,9cv,Tissu,Traction,Diesel
+Manuelle,peugeot,108530,Autres,Blanc,Gris,2198cm³,21.11.2024,Tunis,,85 000km,Peugeot,06.2022,boxer,Boxer,,3,2,58 000DT,,7cv,Tissu,Traction,Diesel
+Manuelle,peugeot,102736,Berline,Beige,Noir,2080cm³,21.11.2024,Tunis,Berline04/2004 - 05/2011,244 000km,Peugeot,12.2007,407,407,2.0 HDi 16V,5,4,35 000DT,138ch dyn,8cv,Cuir intégral,Traction,Diesel
+Manuelle,peugeot,108504,Utilitaire,Blanc,Noir,1560cm³,21.11.2024,Sfax,(K9)10/2018 - 05/2024,122 490km,Peugeot,10.2020,partner,Partner,,2,4,42 500DT,,5cv,Tissu,Traction,Diesel
+Manuelle,peugeot,108482,Berline,Blanc,Autre,1199cm³,20.11.2024,Sfax,II (P21) 5 Portes10/2019 - 03/2024,75 000km,Peugeot,03.2022,208,208,1.2 PureTech 12V S&S,4,5,42 000DT,75ch dyn,4cv,Tissu,Propulsion,Essence
+Manuelle,peugeot,108407,Utilitaire,Blanc,Gris,1560cm³,18.11.2024,Ariana,(K9)10/2018 - 05/2024,114 000km,Peugeot,12.2020,partner,Partner,,2,4,47 000DT,,5cv,Tissu,Traction,Diesel
+Manuelle,peugeot,101971,SUV/4x4,Noir,Gris,1199cm³,18.11.2024,Tunis,(A94) 5HB04/2013 - 10/2019,40 000km,Peugeot,10.2018,2008,2008,,5,5,54 000DT,,5cv,Tissu,Traction,Essence
+Manuelle,peugeot,108383,Citadine,Gris argent,Noir,1499cm³,17.11.2024,Tunis,I Phase 2 5 Portes04/2015 - 10/2019,104 000km,Peugeot,01.2018,208,208,,5,5,28 000DT,,5cv,Tissu,Traction,Essence
+Manuelle,peugeot,108354,Compacte,Noir,Noir,1199cm³,16.11.2024,Ariana,I Phase 2 5 Portes04/2015 - 10/2019,56 540km,Peugeot,05.2019,208,208,1.2 VTi 12V,5,5,31 500DT,68ch dyn,4cv,Tissu,Propulsion,Essence
+Manuelle,peugeot,108966,Citadine,Blanc,Gris,1199cm³,18.12.2024,Sousse,I Phase 2 5 Portes04/2015 - 10/2019,116 000km,Peugeot,11.2019,208,208,,5,4,28 000DT,,5cv,Tissu,Traction,Essence
+Automatique,peugeot,108599,SUV/4x4,Gris Shark,Noir,1199cm³,08.12.2024,Sousse,II (P24E) 5HB10/2019 - Aujourd'hui,156 000km,Peugeot,02.2021,2008,2008,1.2 THP Puretech 12V EAT6 S&S,5,5,80 000DT,130ch dyn,7cv,Tissu,Traction,Essence
+Manuelle,peugeot,109061,Citadine,Blanc,Noir,899cm³,07.12.2024,Ben Arous,I Phase 2 5 Portes04/2015 - 10/2019,40 000km,Peugeot,08.2020,208,208,1.2 VTi 12V,5,5,36 000DT,82ch dyn,4cv,Similicuir,Traction,Essence
+Manuelle,peugeot,102808,SUV/4x4,Gris argent,Autre,1199cm³,03.12.2024,La Manouba,(A94) 5HB04/2013 - 10/2019,82 000km,Peugeot,11.2016,2008,2008,,5,5,45 000DT,,5cv,Alcantara,Traction,Essence
+Manuelle,peugeot,108629,Citadine,Blanc,Gris,1199cm³,24.11.2024,Ariana,I Phase 2 5 Portes04/2015 - 10/2019,56 000km,Peugeot,06.2016,208,208,1.2 VTi Puretech 12V,4,5,40 000DT,68ch dyn,5cv,Tissu,Traction,Essence

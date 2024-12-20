@@ -77,7 +77,7 @@ def extract_car_data(driver, car_url):
         return {}
 
 
-def save_to_csv(start_page, end_page, filename='mercedes-benz.csv'):
+def save_to_csv(start_page, end_page, filename='mercedes.csv'):
     """Save car data to a CSV file."""
     car_urls = get_car_urls(start_page, end_page)
     car_data_list = []
@@ -112,5 +112,5 @@ def save_to_csv(start_page, end_page, filename='mercedes-benz.csv'):
 # Example usage
 if __name__ == "__main__":
     start_time = time.time()
-    save_to_csv(start_page=1, end_page=28)  # Adjust `end_page` for more pages
+    save_to_csv(start_page=1, end_page=1)  # Adjust `end_page` for more pages
     print(f"Time taken: {time.time() - start_time:.2f} seconds")

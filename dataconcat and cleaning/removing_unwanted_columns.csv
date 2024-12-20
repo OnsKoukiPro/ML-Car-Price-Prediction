@@ -1,0 +1,971 @@
+Car ID,Brand,Model,Price,Kilométrage,Mise en circulation,Carrosserie,Boite vitesse,Cylindrée,Nombre de portes,Puissance fiscale,Transmission,Énergie
+108609,audi,q2,99 500DT,78 000km,12.2018,SUV/4x4,Automatique,999cm³,4.0,7cv,Traction,Essence
+107671,audi,a6,99 500DT,117 000km,10.2015,Berline,Automatique,1798cm³,4.0,10cv,Traction,Essence
+107646,audi,a4,85 000DT,141 000km,4.2017,Berline,Automatique,1398cm³,4.0,8cv,Traction,Essence
+107403,audi,q3-sportback,152 000DT,122 000km,3.2021,SUV/4x4,Automatique,1398cm³,4.0,9cv,Traction,Essence
+106393,audi,a5-coupe,48 000DT,201 000km,10.2011,Coupé,Automatique,1998cm³,2.0,10cv,Traction,Essence
+106355,audi,a5-coupe,53 000DT,168 000km,8.2009,Coupé,Automatique,1998cm³,2.0,13cv,Traction,Essence
+104167,audi,a4,46 000DT,233 000km,1.2011,Berline,Manuelle,1798cm³,4.0,7cv,Traction,Essence
+101733,audi,q7,69 000DT,180 000km,4.201,SUV/4x4,Automatique,2967cm³,5.0,16cv,Traction,Diesel
+100354,audi,a4,50 000DT,241 000km,11.2008,Berline,Automatique,1984cm³,4.0,11cv,Traction,Essence
+99061,audi,a4,50 000DT,175 000km,9.2014,Berline,Manuelle,,,7cv,Traction,Essence
+97437,audi,q7,60 000DT,249 000km,6.2006,SUV/4x4,Automatique,,,16cv,Traction,Diesel
+108592,audi,q3-sportback,168 000DT,85 000km,5.2021,Coupé,Automatique,1395cm³,5.0,8cv,Traction,Hybride rechargeable essence
+108978,audi,a1-sportback,112 000DT,15 000km,11.2023,Compacte,Automatique,999cm³,5.0,6cv,Traction,Essence
+107199,audi,q5,78 000DT,270 000km,2.2014,SUV/4x4,Automatique,1998cm³,5.0,10cv,Traction,Diesel
+104059,audi,a3-sportback,69 000DT,128 000km,8.2018,Compacte,Manuelle,1198cm³,5.0,6cv,Traction,Essence
+109166,audi,a3-sportback,128 000DT,14 000km,5.2023,Coupé,Automatique,1333cm³,5.0,6cv,Traction,Essence
+104595,audi,q5,47 000DT,255 000km,7.2009,SUV/4x4,Automatique,2000cm³,5.0,13cv,Traction,Essence
+108459,audi,a3-sportback,78 500DT,125 000km,10.2019,Coupé,Manuelle,1200cm³,5.0,6cv,Traction,Essence
+107031,audi,a3-sportback,69 000DT,210 000km,6.2018,Coupé,Manuelle,1000cm³,5.0,6cv,Traction,Essence
+108282,audi,a3-berline,125 000DT,40 000km,6.2023,Berline,Automatique,1400cm³,4.0,8cv,Intégrale,Essence
+109453,audi,q3,165 000DT,81 602km,11.202,SUV/4x4,Automatique,1498cm³,4.0,8cv,Traction,Hybride essence
+107723,audi,a5-sportback,92 000DT,198 000km,9.2018,Berline,Automatique,1395cm³,4.0,8cv,Traction,Essence
+109014,audi,a4,68 000DT,210 000km,4.2017,Berline,Automatique,1600cm³,5.0,8cv,Propulsion,Essence
+106850,audi,a5-sportback,210 000DT,34 502km,9.2021,Berline,Automatique,1999cm³,4.0,8cv,Traction,Essence
+106588,audi,q3,175 000DT,77 986km,6.2021,SUV/4x4,Automatique,1498cm³,4.0,8cv,Propulsion,Hybride rechargeable essence
+100511,audi,q5,110 000DT,176 000km,1.2015,SUV/4x4,Automatique,2000cm³,4.0,10cv,Traction,Diesel
+108232,audi,a3-sportback,64 500DT,154 000km,12.2016,Compacte,Manuelle,1197cm³,5.0,6cv,Traction,Essence
+107206,audi,a5-sportback,142 000DT,102 000km,1.2021,Berline,Automatique,1984cm³,5.0,8cv,Traction,Essence
+106481,audi,a3-berline,119 000DT,56 000km,7.2022,Berline,Automatique,1395cm³,5.0,8cv,Traction,Essence
+105939,audi,a7-sportback,295 000DT,86 000km,6.2022,Berline,Automatique,2995cm³,5.0,23cv,Intégrale,Essence
+108895,audi,a5-sportback,170 000DT,58 000km,5.2021,Berline,Automatique,2000cm³,4.0,8cv,Traction,Essence
+101884,audi,a5-sportback,147 000DT,85 000km,6.202,Berline,Automatique,1400cm³,4.0,8cv,Traction,Essence
+103838,audi,q3,112 000DT,110 000km,11.2019,SUV/4x4,Automatique,1498cm³,5.0,9cv,Propulsion,Essence
+109024,audi,a3-berline,88 000DT,17 000km,7.202,Berline,Manuelle,1200cm³,5.0,6cv,Traction,Essence
+107799,audi,q3,165 000DT,3 000km,8.2023,Citadine,Automatique,1998cm³,5.0,9cv,Traction,Essence
+105418,audi,a5-sportback,109 000DT,120 000km,8.2019,Berline,Automatique,1799cm³,5.0,8cv,Traction,Essence
+105294,audi,q5,295 000DT,40 000km,5.2021,SUV/4x4,Automatique,2000cm³,5.0,11cv,Traction,Diesel
+104724,audi,a3-berline,85 000DT,50 000km,7.2019,Berline,Automatique,1000cm³,5.0,6cv,Traction,Essence
+104652,audi,q3,95 000DT,95 000km,8.2017,SUV/4x4,Automatique,1599cm³,5.0,7cv,Traction,Essence
+104572,audi,a4,58 000DT,143 000km,1.2016,Berline,Automatique,1799cm³,5.0,7cv,Traction,Essence
+104245,audi,q5,165 000DT,170 000km,4.2019,SUV/4x4,Automatique,2000cm³,5.0,12cv,Traction,Diesel
+103893,audi,q8,398 000DT,16 000km,8.2021,SUV/4x4,Automatique,3000cm³,5.0,23cv,Traction,Essence
+102085,audi,q3,90 000DT,100 000km,11.2017,SUV/4x4,Automatique,1799cm³,5.0,7cv,Traction,Essence
+101947,audi,a5-cabriolet,59 000DT,120 000km,4.201,Cabriolet,Automatique,1999cm³,2.0,10cv,Traction,Essence
+100833,audi,a3-sportback,95 000DT,70 000km,6.2019,Citadine,Automatique,1599cm³,5.0,7cv,Traction,Essence
+100374,audi,a5-cabriolet,59 000DT,120 000km,5.201,Cabriolet,Automatique,1599cm³,2.0,10cv,Traction,Essence
+99089,audi,q3-sportback,188 000DT,10 000km,6.2021,SUV/4x4,Automatique,,,8cv,Traction,Essence
+99068,audi,q5,215 000DT,100 000km,9.2018,SUV/4x4,Automatique,,,11cv,Traction,Diesel
+98074,audi,q3,85 000DT,77 000km,8.2017,SUV/4x4,Automatique,,,7cv,Traction,Essence
+95272,audi,a5-sportback,185 000DT,70 000km,1.2021,Citadine,Automatique,,,8cv,Traction,Essence
+108836,audi,a3-sportback,75 000DT,78 000km,3.2019,Compacte,Manuelle,999cm³,4.0,6cv,Traction,Essence
+108777,audi,q5,70 000DT,369 000km,12.2008,SUV/4x4,Automatique,3000cm³,5.0,15cv,Intégrale,Diesel
+107759,audi,a5-sportback,89 000DT,132 000km,10.2015,Berline,Automatique,1800cm³,5.0,10cv,Traction,Essence
+107758,audi,a4,53 000DT,199 000km,9.2014,Citadine,Manuelle,1800cm³,5.0,7cv,Traction,Essence
+107312,audi,a6,102 000DT,124 000km,12.2016,Berline,Automatique,1800cm³,5.0,10cv,Traction,Essence
+109116,audi,q2,114 000DT,30 000km,8.2021,SUV/4x4,Automatique,1400cm³,5.0,8cv,Traction,Essence
+101862,audi,q3-sportback,175 000DT,50 000km,9.2021,SUV/4x4,Automatique,1999cm³,4.0,8cv,Traction,Hybride essence
+99327,audi,a3-sportback,145 000DT,900km,11.2023,Berline,Automatique,1500cm³,5.0,8cv,Intégrale,Hybride essence
+109050,audi,a4,115 000DT,45 000km,7.2018,Berline,Automatique,1395cm³,5.0,8cv,Traction,Essence
+108299,audi,a5-sportback,115 000DT,80 000km,1.2019,Coupé,Automatique,1400cm³,5.0,8cv,Traction,Essence
+105871,audi,q3,200 000DT,40 000km,10.2023,SUV/4x4,Automatique,1400cm³,5.0,8cv,Traction,Hybride rechargeable essence
+108647,audi,a3-sportback,67 500DT,100 000km,1.2018,Coupé,Manuelle,1197cm³,5.0,6cv,Traction,Essence
+109396,audi,rsq3,335 000DT,20 000km,9.2022,Berline,Automatique,2480cm³,5.0,28cv,Intégrale,Essence
+109393,audi,a3,62 000DT,105 000km,6.2015,Berline,Manuelle,1200cm³,5.0,5cv,Traction,Essence
+107587,audi,q3-sportback,188 000DT,68 000km,9.2021,Berline,Automatique,1498cm³,5.0,8cv,Traction,Essence
+108975,audi,a5-sportback,108 000DT,125 000km,4.2019,Coupé,Automatique,1999cm³,4.0,8cv,Propulsion,Essence
+109045,audi,a3-sportback,79 000DT,151 000km,1.2019,Berline,Automatique,1400cm³,4.0,6cv,Propulsion,Essence
+107076,audi,q5,115 000DT,278 000km,1.2015,SUV/4x4,Automatique,2000cm³,5.0,10cv,Propulsion,Diesel
+107152,audi,q5,115 000DT,278 000km,1.2015,SUV/4x4,Automatique,2000cm³,4.0,10cv,Propulsion,Diesel
+107795,audi,a5-sportback,85 000DT,255 000km,4.2019,Berline,Automatique,1500cm³,5.0,8cv,Traction,Essence
+109358,audi,a3-berline,89 000DT,17 929km,3.202,Berline,Manuelle,900cm³,4.0,6cv,Traction,Essence
+102863,audi,a4,43 000DT,198 000km,7.2012,Berline,Manuelle,1798cm³,5.0,7cv,Propulsion,Essence
+107193,audi,a3-berline,71 000DT,110 000km,12.2017,Berline,Automatique,1200cm³,4.0,7cv,Traction,Essence
+109299,audi,s5,140 000DT,120 000km,7.2011,Coupé,Automatique,4000cm³,3.0,26cv,Traction,Essence
+108456,audi,q5,79 000DT,157 000km,6.2013,SUV/4x4,Automatique,2000cm³,5.0,10cv,Intégrale,Diesel
+106178,audi,q3-sportback,162 000DT,15 000km,8.202,SUV/4x4,Automatique,1400cm³,5.0,8cv,Traction,Essence
+94496,audi,q3,98 000DT,66 000km,11.2017,Autres,Automatique,1400cm³,5.0,8cv,Traction,Essence
+108345,audi,a5-sportback,103 000DT,130 000km,8.2018,Berline,Automatique,1395cm³,5.0,8cv,Traction,Essence
+109042,audi,q5,75 500DT,96 500km,8.2014,SUV/4x4,Automatique,1999cm³,4.0,14cv,Intégrale,Essence
+106920,audi,a5-sportback,105 000DT,120 000km,9.2018,Autres,Automatique,1395cm³,5.0,8cv,Traction,Essence
+109245,audi,q5,245 000DT,90 000km,1.2021,SUV/4x4,Automatique,1984cm³,5.0,15cv,Intégrale,Hybride essence
+109208,audi,a3,28 000DT,414 000km,8.2006,Citadine,Manuelle,1896cm³,4.0,5cv,Traction,Diesel
+108453,audi,a3-berline,65 000DT,122 000km,7.2016,Berline,Automatique,1200cm³,5.0,6cv,Traction,Essence
+109178,audi,q3,63 000DT,237 000km,1.2011,Autres,Automatique,1968cm³,4.0,10cv,Traction,Diesel
+105663,audi,a4,74 000DT,186 000km,9.2018,Berline,Automatique,1398cm³,4.0,8cv,Traction,Essence
+109117,audi,a1-sportback,52 000DT,91 000km,1.2013,Citadine,Manuelle,1197cm³,5.0,5cv,Traction,Essence
+105898,audi,a5-cabriolet,62 000DT,180 000km,2.2011,Cabriolet,Manuelle,1000cm³,3.0,9cv,Traction,Essence
+109103,audi,q3,78 000DT,200 000km,9.2013,SUV/4x4,Automatique,1000cm³,5.0,10cv,Traction,Essence
+107095,audi,a4,45 000DT,248 705km,1.2013,Berline,Manuelle,1798cm³,4.0,7cv,Traction,Essence
+109028,audi,a5-sportback,98 000DT,70 000km,9.2019,Berline,Automatique,2000cm³,4.0,8cv,Traction,Essence
+108251,audi,a5-coupe,75 000DT,109 000km,1.2014,Coupé,Automatique,4000cm³,3.0,9cv,Traction,Essence
+106716,audi,a3-berline,140 000DT,20 000km,6.2022,Berline,Automatique,1400cm³,5.0,8cv,Traction,Essence
+107566,audi,a4,72 000DT,230 000km,11.2018,Berline,Automatique,1400cm³,5.0,8cv,Traction,Essence
+105479,audi,q8,368 000DT,61 000km,5.2021,SUV/4x4,Automatique,3000cm³,5.0,23cv,Intégrale,Essence
+108908,audi,q2,95 000DT,77 000km,2.2019,SUV/4x4,Automatique,999cm³,5.0,6cv,Traction,Essence
+108031,audi,q3-sportback,150 000DT,80 000km,7.2021,SUV/4x4,Automatique,1498cm³,4.0,8cv,Traction,Essence
+105684,audi,q4-e-tron,180 000DT,32 000km,1.2023,SUV/4x4,Automatique,1000cm³,4.0,11cv,Propulsion,Electrique
+108343,audi,a3-sportback,40 000DT,222 000km,5.201,Coupé,Manuelle,1598cm³,5.0,5cv,Traction,Diesel
+108812,audi,q2,125 000DT,75 000km,8.2021,SUV/4x4,Automatique,1498cm³,4.0,8cv,Traction,Essence
+108672,audi,q4-e-tron,169 000DT,24 500km,4.2022,SUV/4x4,Automatique,899cm³,5.0,9cv,Propulsion,Electrique
+108628,audi,rs5,400 000DT,77 000km,12.2017,Coupé,Automatique,1230cm³,2.0,plus de 48cv,Intégrale,Essence
+108141,audi,a5-sportback,90 000DT,200 000km,12.2017,Berline,Automatique,1395cm³,4.0,8cv,Traction,Essence
+106987,audi,a3-berline,52 000DT,130 000km,12.2014,Berline,Manuelle,1197cm³,5.0,5cv,Traction,Essence
+109125,bmw,serie-1-5p,53 000DT,120 000km,4.2012,Citadine,Automatique,1598cm³,4.0,7cv,Traction,Essence
+109084,bmw,serie-3,51 500DT,127 000km,5.2012,Berline,Automatique,1598cm³,4.0,7cv,Traction,Essence
+108742,bmw,serie-5,236 500DT,58 000km,6.2022,Berline,Automatique,1998cm³,4.0,10cv,Traction,Hybride diesel
+108476,bmw,serie-3,61 500DT,139 000km,7.2012,Berline,Automatique,1988cm³,4.0,10cv,Traction,Essence
+108096,bmw,serie-3-coupe,39 900DT,232 000km,9.2009,Coupé,Manuelle,1598cm³,2.0,7cv,Traction,Essence
+107978,bmw,serie-7,155 500DT,200 000km,12.2012,Berline,Automatique,2998cm³,4.0,20cv,Traction,Diesel
+107778,bmw,serie-3,41 000DT,241 000km,11.2008,Berline,Manuelle,1598cm³,4.0,7cv,Traction,Essence
+107560,bmw,serie-5,134 000DT,135 000km,1.2018,Berline,Automatique,1598cm³,4.0,10cv,Traction,Essence
+107460,bmw,x5,68 500DT,283 000km,11.2007,SUV/4x4,Automatique,2998cm³,5.0,15cv,Traction,Diesel
+106756,bmw,serie-5,79 900DT,197 000km,8.2012,Berline,Automatique,1998cm³,4.0,10cv,Traction,Essence
+106399,bmw,x5,86 000DT,159 000km,7.201,SUV/4x4,Automatique,3498cm³,5.0,19cv,Traction,Diesel
+106096,bmw,x1,98 000DT,78 000km,5.202,SUV/4x4,Automatique,1498cm³,4.0,8cv,Traction,Essence
+106013,bmw,x5,65 000DT,295 000km,11.2007,SUV/4x4,Automatique,2998cm³,4.0,16cv,Traction,Diesel
+105519,bmw,serie-3,85 000DT,177 000km,5.2018,Berline,Automatique,1498cm³,4.0,7cv,Traction,Essence
+105377,bmw,serie-5,79 500DT,179 000km,9.2013,Berline,Automatique,1999cm³,4.0,10cv,Traction,Essence
+105376,bmw,serie-4-gran-coupe,115 000DT,99 000km,3.2019,Coupé,Automatique,1498cm³,4.0,7cv,Traction,Essence
+104680,bmw,serie-5,120 000DT,151 000km,10.2016,Berline,Automatique,1598cm³,4.0,9cv,Traction,Essence
+104328,bmw,serie-1-5p,58 000DT,105 000km,1.2016,Citadine,Manuelle,1598cm³,4.0,6cv,Traction,Essence
+104237,bmw,serie-2-gran-coupe,120 000DT,61 000km,11.202,Coupé,Automatique,1498cm³,4.0,8cv,Traction,Essence
+103996,bmw,x2,134 000DT,75 000km,12.202,SUV/4x4,Automatique,1499cm³,5.0,8cv,Traction,Essence
+101464,bmw,x6,335 000DT,85 000km,9.2015,SUV/4x4,Automatique,4398cm³,4.0,34cv,Traction,Essence
+99623,bmw,serie-3,85 000DT,152 000km,5.2016,Berline,Automatique,1499cm³,4.0,7cv,Traction,Essence
+99121,bmw,serie-4-coupe,86 000DT,151 000km,7.2014,Coupé,Automatique,,,10cv,Traction,Essence
+97922,bmw,x3,75 000DT,219 000km,6.2014,SUV/4x4,Automatique,1998cm³,5.0,11cv,Traction,Essence
+95527,bmw,serie-3,69 000DT,201 000km,12.2014,Berline,Automatique,1598cm³,4.0,7cv,Traction,Essence
+95441,bmw,serie-3,80 000DT,167 000km,1.2016,Berline,Automatique,,,7cv,Traction,Essence
+81461,bmw,serie-5,225 000DT,30 000km,7.2019,Berline,Automatique,,,10cv,Traction,Essence
+81959,bmw,serie-4-gran-coupe,115 000DT,120 000km,1.2017,Berline,Automatique,899cm³,5.0,7cv,Propulsion,Essence
+107786,bmw,x5,265 000DT,112 000km,8.202,SUV/4x4,Automatique,3000cm³,4.0,14cv,Traction,Essence
+101321,bmw,serie-5,130 000DT,132 000km,6.2018,Berline,Automatique,1598cm³,4.0,10cv,Propulsion,Essence
+108086,bmw,x2,132 000DT,74 000km,12.202,SUV/4x4,Automatique,1500cm³,5.0,8cv,Traction,Essence
+105849,bmw,serie-1-5p,138 500DT,40 000km,8.2022,Coupé,Automatique,1500cm³,5.0,7cv,Traction,Essence
+106325,bmw,serie-5,75 000DT,182 000km,7.2014,Berline,Automatique,1600cm³,5.0,9cv,Traction,Essence
+106643,bmw,x1,85 000DT,126 000km,4.2016,SUV/4x4,Automatique,1499cm³,5.0,7cv,Traction,Essence
+107896,bmw,serie-7,275 000DT,80 000km,4.2018,Berline,Automatique,2000cm³,4.0,15cv,Intégrale,Essence
+107861,bmw,serie-7,85 000DT,160 000km,11.2008,Berline,Automatique,4400cm³,4.0,31cv,Intégrale,Essence
+107859,bmw,serie-5,147 000DT,70 000km,7.2018,Berline,Automatique,1600cm³,4.0,10cv,Intégrale,Essence
+107858,bmw,serie-3,90 000DT,120 000km,2.2019,Berline,Automatique,1500cm³,4.0,7cv,Intégrale,Essence
+109456,bmw,x4,234 000DT,119 000km,1.2019,SUV/4x4,Automatique,1998cm³,5.0,16cv,Intégrale,Essence
+102960,bmw,serie-7,89 000DT,140 000km,7.2009,Berline,Automatique,2979cm³,4.0,23cv,Traction,Essence
+105014,bmw,serie-4-gran-coupe,100 000DT,48 000km,7.2017,Berline,Automatique,1500cm³,4.0,7cv,Traction,Essence
+107733,bmw,x1,92 000DT,133 000km,5.202,SUV/4x4,Automatique,1499cm³,4.0,8cv,Traction,Essence
+109351,bmw,serie-4-gran-coupe,98 000DT,120 000km,5.2019,Berline,Automatique,1500cm³,5.0,7cv,Propulsion,Essence
+109268,bmw,serie-3,37 500DT,300 000km,6.2,Coupé,Manuelle,2500cm³,2.0,10cv,Traction,Essence
+109266,bmw,serie-3,62 000DT,280 000km,7.2013,Citadine,Automatique,2000cm³,4.0,10cv,Traction,Essence
+109263,bmw,x5,39 000DT,310 000km,9.2003,Citadine,Manuelle,3000cm³,4.0,11cv,Traction,Diesel
+109013,bmw,serie-4-coupe,225 000DT,10 000km,4.2021,Coupé,Automatique,2000cm³,3.0,10cv,Traction,Essence
+108974,bmw,serie-3,65 000DT,170 000km,5.2013,Citadine,Automatique,1600cm³,4.0,7cv,Traction,Essence
+108973,bmw,serie-5,59 000DT,270 000km,5.2011,Citadine,Automatique,2000cm³,4.0,10cv,Traction,Diesel
+108560,bmw,x6,95 000DT,190 000km,3.201,SUV/4x4,Automatique,3000cm³,4.0,15cv,Traction,Diesel
+108524,bmw,serie-7,92 000DT,150 000km,8.2009,Berline,Automatique,5000cm³,4.0,31cv,Traction,Essence
+107635,bmw,serie-5,138 000DT,173 000km,3.2021,Berline,Automatique,1600cm³,5.0,10cv,Traction,Essence
+107173,bmw,serie-3,63 500DT,210 000km,5.2013,Berline,Automatique,1600cm³,5.0,7cv,Propulsion,Essence
+107033,bmw,serie-3,20 900DT,180 000km,5.1988,Berline,Manuelle,2400cm³,5.0,7cv,Propulsion,Diesel
+106941,bmw,serie-5,87 000DT,190 000km,10.2005,Berline,Automatique,3000cm³,5.0,18cv,Propulsion,Diesel
+106932,bmw,x6,98 000DT,200 000km,2.201,SUV/4x4,Automatique,3000cm³,5.0,15cv,Intégrale,Diesel
+106739,bmw,serie-1-5p,62 000DT,115 000km,6.2015,Compacte,Automatique,1600cm³,4.0,9cv,Intégrale,Essence
+109329,bmw,serie-5,81 000DT,200 000km,1.2011,Berline,Automatique,1995cm³,5.0,10cv,Traction,Diesel
+104056,bmw,serie-3-coupe,74 000DT,152 000km,2.2012,Coupé,Manuelle,2000cm³,2.0,10cv,Traction,Essence
+108177,bmw,serie-1-5p,40 000DT,131 766km,4.2009,Berline,Automatique,1600cm³,4.0,7cv,Traction,Essence
+107922,bmw,x3,65 000DT,186 000km,1.2006,SUV/4x4,Automatique,3000cm³,4.0,13cv,Traction,Diesel
+106496,bmw,serie-3-coupe,62 000DT,156 000km,2.201,Coupé,Automatique,2000cm³,2.0,9cv,Traction,Essence
+100618,bmw,serie-3,65 000DT,112 000km,3.2013,Berline,Automatique,1600cm³,4.0,7cv,Traction,Essence
+109066,bmw,serie-3,79 000DT,142 000km,4.2016,Berline,Automatique,1499cm³,5.0,7cv,Traction,Essence
+109064,bmw,serie-3,66 000DT,131 000km,7.2015,Citadine,Manuelle,1598cm³,5.0,7cv,Traction,Essence
+109063,bmw,serie-3,92 000DT,92 000km,7.2016,Berline,Manuelle,1998cm³,5.0,10cv,Traction,Essence
+108412,bmw,serie-1-5p,81 000DT,111 074km,11.2019,Compacte,Automatique,1499cm³,5.0,7cv,Traction,Essence
+108399,bmw,x4,243 000DT,50 000km,9.2019,SUV/4x4,Automatique,1998cm³,5.0,11cv,Intégrale,Essence
+106843,bmw,x1,175 000DT,21 000km,9.2023,SUV/4x4,Automatique,1499cm³,5.0,9cv,Traction,Essence
+106641,bmw,x5,170 000DT,214 000km,1.2018,SUV/4x4,Automatique,1995cm³,5.0,13cv,Intégrale,Diesel
+106640,bmw,x3,220 000DT,69 500km,6.202,SUV/4x4,Automatique,1995cm³,5.0,8cv,Traction,Diesel
+105677,bmw,serie-4-coupe,265 000DT,20 500km,3.2023,Coupé,Automatique,1998cm³,3.0,10cv,Traction,Essence
+104988,bmw,x2,132 000DT,38 000km,11.2018,SUV/4x4,Automatique,1499cm³,5.0,7cv,Propulsion,Essence
+104987,bmw,serie-4-gran-coupe,105 000DT,108 000km,11.2017,Berline,Automatique,1499cm³,5.0,7cv,Traction,Essence
+106989,bmw,serie-3,174 000DT,80 000km,9.2021,Berline,Automatique,1600cm³,5.0,9cv,Traction,Essence
+104668,bmw,serie-5,178 000DT,93 000km,10.202,Berline,Automatique,1600cm³,5.0,10cv,Traction,Essence
+106373,bmw,serie-5,208 000DT,32 000km,10.2021,Berline,Automatique,1600cm³,4.0,10cv,Traction,Essence
+103829,bmw,x6,98 000DT,180 000km,2.2011,SUV/4x4,Automatique,3000cm³,4.0,21cv,Intégrale,Essence
+79830,bmw,serie-4-gran-coupe,145 000DT,90 000km,6.2019,Berline,Automatique,1498cm³,4.0,7cv,Traction,Essence
+109199,bmw,serie-3,89 000DT,89 000km,11.2019,Berline,Automatique,1699cm³,5.0,7cv,Traction,Essence
+108805,bmw,x4,139 000DT,140 000km,6.2018,SUV/4x4,Automatique,2000cm³,5.0,10cv,Traction,Diesel
+108734,bmw,serie-1-5p,75 000DT,165 000km,1.2016,Citadine,Automatique,1699cm³,5.0,7cv,Traction,Essence
+107692,bmw,serie-6,85 000DT,190 000km,1.2009,Coupé,Automatique,2999cm³,3.0,17cv,Traction,Essence
+107513,bmw,serie-4-coupe,87 000DT,180 000km,8.2015,Coupé,Automatique,1999cm³,5.0,10cv,Traction,Essence
+105615,bmw,serie-5,278 000DT,50 000km,1.2021,Berline,Automatique,2500cm³,5.0,10cv,Traction,Hybride essence
+105580,bmw,serie-4-gran-coupe,97 000DT,133 000km,11.2016,Berline,Automatique,1799cm³,5.0,7cv,Traction,Essence
+105092,bmw,x5,455 000DT,19 000km,1.2021,SUV/4x4,Automatique,3000cm³,5.0,15cv,Traction,Hybride rechargeable essence
+105050,bmw,serie-1-5p,75 000DT,200 000km,10.2019,Citadine,Automatique,1499cm³,5.0,7cv,Traction,Essence
+104956,bmw,serie-7,110 000DT,98 000km,4.201,Berline,Automatique,4000cm³,5.0,23cv,Traction,Essence
+104467,bmw,serie-1-5p,135 000DT,40 000km,8.202,SUV/4x4,Automatique,1200cm³,5.0,7cv,Traction,Essence
+104155,bmw,serie-4-coupe,130 000DT,140 000km,1.2021,Coupé,Automatique,1000cm³,5.0,7cv,Traction,Essence
+102963,bmw,serie-5,90 000DT,200 000km,11.2015,Berline,Automatique,1999cm³,5.0,10cv,Traction,Essence
+102650,bmw,serie-1-5p,68 000DT,126 000km,10.2017,Citadine,Manuelle,1499cm³,5.0,7cv,Traction,Essence
+102086,bmw,serie-4-coupe,107 000DT,160 000km,2.2015,Coupé,Automatique,1999cm³,3.0,10cv,Traction,Essence
+101720,bmw,serie-2-gran-coupe,135 000DT,21 000km,8.2022,Berline,Automatique,1200cm³,5.0,8cv,Traction,Essence
+100523,bmw,x6,110 000DT,270 000km,8.2008,SUV/4x4,Automatique,3000cm³,5.0,15cv,Traction,Diesel
+99763,bmw,serie-3,88 000DT,117 000km,8.2017,Berline,Automatique,1499cm³,5.0,7cv,Traction,Essence
+97946,bmw,serie-4-gran-coupe,99 000DT,100 000km,1.2018,Citadine,Automatique,,,7cv,Traction,Essence
+97402,bmw,serie-1-5p,92 000DT,70 000km,1.202,Citadine,Automatique,,,7cv,Traction,Essence
+97252,bmw,serie-4-gran-coupe,125 000DT,110 000km,6.2017,Citadine,Automatique,,,7cv,Traction,Essence
+95106,bmw,serie-7,45 000DT,300 000km,1.2008,Berline,Automatique,,,22cv,Traction,Essence
+91995,bmw,serie-4-coupe,110 000DT,78 000km,3.2017,Coupé,Automatique,,,7cv,Traction,Essence
+78787,bmw,serie-7,55 000DT,220 000km,1.2008,Berline,Automatique,,,22cv,Traction,Essence
+108737,bmw,x2,122 000DT,76 000km,12.202,Citadine,Automatique,1500cm³,5.0,8cv,Traction,Essence
+99452,bmw,serie-5,109 000DT,119 000km,3.2016,Berline,Automatique,1600cm³,5.0,9cv,Traction,Essence
+109209,bmw,serie-5,128 500DT,73 000km,5.2018,Berline,Automatique,1597cm³,4.0,10cv,Propulsion,Essence
+105539,bmw,serie-5,124 500DT,155 000km,5.2017,Berline,Automatique,1600cm³,5.0,10cv,Propulsion,Essence
+99357,bmw,x1,129 000DT,87 000km,7.202,SUV/4x4,Automatique,1499cm³,4.0,8cv,Traction,Essence
+107784,bmw,serie-3,79 000DT,145 000km,6.2016,Berline,Automatique,1500cm³,4.0,7cv,Propulsion,Essence
+102297,bmw,serie-5,65 000DT,280 000km,1.2015,Berline,Automatique,2000cm³,4.0,9cv,Traction,Essence
+109433,bmw,serie-1-5p,125 000DT,17 000km,8.2022,Compacte,Automatique,1500cm³,5.0,6cv,Traction,Essence
+108982,bmw,serie-5,135 000DT,100 000km,9.2019,Berline,Automatique,2000cm³,5.0,10cv,Propulsion,Essence
+108321,bmw,serie-3,55 000DT,188 000km,6.2015,Berline,Manuelle,1598cm³,4.0,7cv,Propulsion,Essence
+108230,bmw,serie-1-5p,55 000DT,144 000km,7.2015,Citadine,Automatique,1598cm³,5.0,7cv,Propulsion,Essence
+108648,bmw,serie-3,52 000DT,150 000km,2.2013,Berline,Automatique,1598cm³,4.0,7cv,Traction,Essence
+103468,bmw,serie-4-gran-coupe,145 000DT,120 000km,2.2016,Berline,Automatique,2000cm³,4.0,10cv,Traction,Essence
+106123,bmw,serie-4-gran-coupe,118 000DT,122 000km,10.2019,Coupé,Automatique,1499cm³,4.0,7cv,Traction,Essence
+106647,bmw,serie-3,67 000DT,210 000km,11.2015,Berline,Automatique,1600cm³,5.0,7cv,Propulsion,Essence
+109095,bmw,serie-3,65 000DT,82 000km,1.2013,Berline,Automatique,1598cm³,5.0,7cv,Propulsion,Essence
+109380,bmw,serie-1-5p,160 000DT,60 000km,4.2022,Berline,Automatique,1995cm³,5.0,8cv,Intégrale,Diesel
+109394,bmw,serie-3,166 500DT,39 000km,5.2019,Berline,Automatique,1995cm³,5.0,15cv,Propulsion,Essence
+109383,bmw,serie-1-5p,127 000DT,79 000km,8.2021,Compacte,Automatique,3000cm³,5.0,6cv,Traction,Essence
+109375,bmw,serie-1-5p,50 000DT,170 500km,7.2013,Compacte,Automatique,1598cm³,5.0,7cv,Traction,Essence
+108154,bmw,serie-3,34 500DT,220 000km,4.2006,Berline,Automatique,2000cm³,4.0,9cv,Traction,Essence
+107074,bmw,serie-3,77 000DT,155 000km,9.2017,Berline,Automatique,1600cm³,5.0,7cv,Propulsion,Essence
+107077,bmw,serie-4-coupe,250 000DT,2 500km,9.2021,Coupé,Automatique,2000cm³,2.0,10cv,Propulsion,Essence
+107434,bmw,serie-3,77 000DT,152 000km,9.2017,Berline,Automatique,1800cm³,4.0,7cv,Propulsion,Essence
+107989,bmw,serie-5,175 000DT,140 000km,1.2021,Berline,Automatique,2000cm³,4.0,10cv,Traction,Essence
+107025,bmw,x6,140 000DT,190 000km,11.2011,SUV/4x4,Automatique,4000cm³,4.0,22cv,Traction,Diesel
+108326,bmw,serie-4-gran-coupe,118 000DT,107 000km,9.202,Berline,Automatique,1800cm³,4.0,7cv,Propulsion,Essence
+109307,bmw,serie-4-gran-coupe,95 000DT,107 000km,1.2017,Berline,Automatique,1800cm³,4.0,7cv,Propulsion,Essence
+108622,bmw,serie-5,105 000DT,102 000km,9.2016,Berline,Automatique,1598cm³,4.0,9cv,Propulsion,Essence
+108100,bmw,serie-3,60 000DT,169 000km,8.2014,Citadine,Manuelle,3160cm³,5.0,7cv,Traction,Essence
+109306,bmw,x5,48 000DT,180 000km,4.2004,SUV/4x4,Automatique,1000cm³,5.0,21cv,Traction,Essence
+109302,bmw,serie-1-5p,58 000DT,120 000km,5.2014,Compacte,Automatique,1000cm³,5.0,9cv,Traction,Essence
+108242,bmw,x5,148 000DT,170 000km,5.2015,SUV/4x4,Automatique,2000cm³,5.0,13cv,Intégrale,Diesel
+107701,bmw,x4,258 000DT,47 000km,1.2021,SUV/4x4,Automatique,3000cm³,5.0,15cv,Traction,Essence
+104087,bmw,x5,168 000DT,102 000km,4.2016,SUV/4x4,Automatique,2000cm³,5.0,13cv,Intégrale,Diesel
+108080,bmw,serie-1-5p,36 500DT,251 000km,2.2012,Coupé,Manuelle,1596cm³,3.0,7cv,Traction,Essence
+109255,bmw,serie-5,69 000DT,250 000km,6.201,Berline,Automatique,2497cm³,5.0,12cv,Propulsion,Essence
+109139,bmw,serie-1-5p,76 000DT,72 000km,12.2018,Berline,Automatique,1499cm³,4.0,7cv,Traction,Essence
+108879,bmw,serie-5,178 000DT,70 000km,9.2021,Berline,Automatique,1600cm³,5.0,10cv,Traction,Essence
+106069,bmw,x2,145 000DT,67 000km,11.2019,SUV/4x4,Automatique,1499cm³,4.0,8cv,Propulsion,Essence
+109192,bmw,serie-4-gran-coupe,115 000DT,83 000km,10.2019,Berline,Automatique,1499cm³,5.0,7cv,Propulsion,Essence
+109191,bmw,serie-3-coupe,49 000DT,250 000km,8.2007,Autres,Automatique,1995cm³,3.0,10cv,Traction,Diesel
+108393,bmw,m3,150 000DT,140 000km,6.2008,Cabriolet,Automatique,4000cm³,2.0,30cv,Propulsion,Essence
+109165,bmw,serie-1-5p,59 000DT,200 000km,11.2014,Coupé,Manuelle,1598cm³,5.0,7cv,Traction,Essence
+108313,bmw,serie-4-gran-coupe,115 000DT,70 000km,12.2019,Berline,Automatique,1499cm³,5.0,7cv,Traction,Essence
+102656,bmw,x5,115 000DT,126 000km,9.201,Autres,Automatique,2993cm³,5.0,10cv,Traction,Diesel
+109135,bmw,serie-1-5p,67 000DT,60 000km,12.2016,Compacte,Automatique,1499cm³,5.0,7cv,Propulsion,Essence
+109073,bmw,serie-3-coupe,44 000DT,178 000km,12.2011,Coupé,Manuelle,1995cm³,2.0,8cv,Propulsion,Essence
+109106,bmw,serie-4-gran-coupe,125 000DT,100 000km,1.2018,Berline,Automatique,1500cm³,5.0,7cv,Propulsion,Essence
+108397,bmw,serie-3,65 000DT,258 000km,7.2013,Berline,Automatique,1995cm³,4.0,7cv,Traction,Diesel
+108376,bmw,serie-3,68 000DT,139 000km,7.2014,Berline,Automatique,1000cm³,5.0,10cv,Traction,Essence
+108374,bmw,serie-3,41 000DT,180 000km,4.2012,Compacte,Manuelle,1000cm³,5.0,7cv,Traction,Essence
+108216,bmw,serie-5,75 000DT,180 000km,5.201,Berline,Automatique,1000cm³,5.0,10cv,Traction,Diesel
+107371,bmw,x3,295 000DT,60 000km,7.2022,SUV/4x4,Automatique,1000cm³,5.0,11cv,Traction,Essence
+105503,bmw,serie-5,170 000DT,40 000km,6.202,Berline,Automatique,1000cm³,5.0,10cv,Traction,Essence
+105502,bmw,x6,175 000DT,90 000km,4.201,SUV/4x4,Automatique,4395cm³,5.0,48cv,Traction,Essence
+100791,bmw,serie-5,148 000DT,100 000km,1.2018,Berline,Automatique,1998cm³,5.0,10cv,Traction,Essence
+107855,bmw,serie-5,120 000DT,97 000km,12.2017,Berline,Automatique,1597cm³,4.0,10cv,Propulsion,Essence
+109069,bmw,serie-5,43 000DT,320 000km,4.2008,Berline,Manuelle,2497cm³,5.0,14cv,Propulsion,Essence
+109062,bmw,serie-3,210 000DT,90 000km,10.2019,Berline,Automatique,1998cm³,5.0,10cv,Propulsion,Hybride rechargeable essence
+108992,bmw,ix1,114 000DT,104 000km,12.202,SUV/4x4,Automatique,1499cm³,5.0,6cv,Traction,Hybride rechargeable essence
+108988,bmw,serie-1-5p,125 000DT,94 000km,6.202,Citadine,Automatique,1500cm³,5.0,8cv,Traction,Essence
+106474,bmw,x6,68 000DT,140 000km,6.2009,SUV/4x4,Automatique,3500cm³,5.0,19cv,Intégrale,Essence
+105290,bmw,serie-3,79 000DT,117 000km,1.2017,Berline,Automatique,1600cm³,4.0,7cv,Traction,Essence
+104722,bmw,x1,79 000DT,105 000km,7.2018,SUV/4x4,Automatique,1500cm³,5.0,7cv,Traction,Essence
+108980,bmw,x5,62 000DT,154 000km,8.2008,SUV/4x4,Automatique,2993cm³,4.0,19cv,Intégrale,Essence
+101989,bmw,serie-4-coupe,150 000DT,85 000km,3.2019,Coupé,Automatique,2000cm³,2.0,11cv,Propulsion,Essence
+108942,bmw,serie-5,73 000DT,170 000km,10.201,Berline,Automatique,1995cm³,4.0,10cv,Intégrale,Diesel
+105814,bmw,serie-4-gran-coupe,100 000DT,121 000km,5.2019,Berline,Automatique,1499cm³,5.0,7cv,Traction,Essence
+108920,bmw,serie-1-5p,115 000DT,110km,12.202,Citadine,Automatique,1499cm³,5.0,8cv,Traction,Essence
+108839,bmw,serie-1-5p,51 000DT,172 000km,9.2013,Coupé,Manuelle,900cm³,2.0,6cv,Traction,Essence
+107676,bmw,x2,183 000DT,600km,9.2024,SUV/4x4,Automatique,1499cm³,4.0,8cv,Traction,Essence
+108655,bmw,x4,243 000DT,51 000km,9.2019,SUV/4x4,Automatique,1998cm³,5.0,11cv,Intégrale,Essence
+108697,bmw,x1,75 000DT,107 000km,9.2016,SUV/4x4,Automatique,1499cm³,5.0,7cv,Traction,Essence
+108584,bmw,serie-1-5p,40 000DT,182 000km,6.2009,Coupé,Manuelle,1596cm³,4.0,7cv,Traction,Essence
+108677,bmw,serie-4-gran-coupe,280 000DT,80 000km,12.2022,Coupé,Automatique,1995cm³,5.0,10cv,Intégrale,Diesel
+108675,bmw,serie-3,55 000DT,242 500km,6.2012,Berline,Manuelle,1999cm³,4.0,10cv,Propulsion,Essence
+108645,bmw,serie-1-5p,90 000DT,134 000km,9.202,Berline,Manuelle,3000cm³,4.0,6cv,Traction,Diesel
+108639,bmw,x1,121 000DT,108 000km,1.202,SUV/4x4,Automatique,1500cm³,5.0,8cv,Traction,Essence
+107568,bmw,serie-3-coupe,49 000DT,160 000km,9.2011,Coupé,Manuelle,1599cm³,2.0,7cv,Propulsion,Essence
+108492,bmw,serie-1-5p,50 000DT,208 000km,12.201,Compacte,Manuelle,1995cm³,4.0,9cv,Propulsion,Diesel
+106461,bmw,serie-5,109 000DT,107 000km,4.2017,Berline,Automatique,1699cm³,4.0,9cv,Traction,Essence
+107335,bmw,serie-3,60 000DT,260 000km,9.2013,Berline,Automatique,1600cm³,5.0,7cv,Traction,Essence
+108268,bmw,x1,200 000DT,12 235km,1.2024,SUV/4x4,Automatique,1499cm³,5.0,8cv,Intégrale,Hybride rechargeable essence
+106263,bmw,x2,140 000DT,62 190km,8.202,SUV/4x4,Automatique,1998cm³,5.0,11cv,Traction,Essence
+106236,bmw,serie-3,158 000DT,64 327km,8.202,Berline,Automatique,1998cm³,4.0,10cv,Propulsion,Essence
+108410,bmw,serie-4-gran-coupe,120 000DT,86 000km,1.202,Berline,Automatique,1499cm³,5.0,7cv,Propulsion,Essence
+106706,bmw,serie-3,51 000DT,238 000km,5.2014,Berline,Automatique,1598cm³,5.0,7cv,Traction,Essence
+108305,bmw,serie-3-gt,89 000DT,176 000km,10.2014,Autres,Manuelle,2000cm³,5.0,7cv,Traction,Diesel
+108212,bmw,serie-4-gran-coupe,110 000DT,180 000km,1.2017,Coupé,Automatique,2000cm³,4.0,10cv,Propulsion,Essence
+109469,hyundai,grand-i10,47 500DT,56 000km,11.2022,Citadine,Automatique,999cm³,4.0,4cv,Traction,Essence
+109248,hyundai,grand-i10,50 500DT,62 000km,9.2021,Citadine,Automatique,1198cm³,4.0,5cv,Traction,Essence
+108865,hyundai,h-1,18 000DT,999 999km,9.2006,Autres,Manuelle,2198cm³,3.0,10cv,Traction,Essence
+108863,hyundai,i20,79 000DT,21 000km,8.2023,Citadine,Automatique,999cm³,4.0,5cv,Traction,Essence
+108796,hyundai,grand-i10,42 000DT,82 000km,8.2022,Citadine,Manuelle,999cm³,4.0,4cv,Traction,Essence
+108703,hyundai,tucson-hybride,120 000DT,109 000km,10.2021,SUV/4x4,Automatique,1598cm³,4.0,7cv,Traction,Hybride diesel
+108535,hyundai,h-1,23 000DT,224 000km,3.2002,Autres,Manuelle,2198cm³,2.0,8cv,Traction,Diesel
+108434,hyundai,autre,72 000DT,26 000km,11.2021,Autres,Manuelle,2498cm³,3.0,8cv,Traction,Diesel
+108130,hyundai,grand-i10,41 500DT,97 000km,2.202,Citadine,Automatique,999cm³,4.0,4cv,Traction,Essence
+107219,hyundai,grand-i10,41 900DT,43 000km,2.2021,Citadine,Manuelle,999cm³,4.0,4cv,Traction,Essence
+106655,hyundai,i20,43 000DT,132 000km,12.2016,Citadine,Manuelle,1198cm³,4.0,5cv,Traction,Essence
+106012,hyundai,grand-i10,49 000DT,34 000km,12.2022,Citadine,Manuelle,1198cm³,4.0,5cv,Traction,Essence
+105059,hyundai,coupe,30 000DT,138 000km,1.2003,Coupé,Manuelle,1598cm³,2.0,7cv,Traction,Essence
+102539,hyundai,tucson-hybride,167 000DT,40 000km,1.2022,SUV/4x4,Automatique,1598cm³,4.0,7cv,Traction,Hybride diesel
+93674,hyundai,veloster,44 900DT,140 000km,8.2016,Citadine,Automatique,,,8cv,Traction,Essence
+109464,hyundai,grand-i10,38 500DT,79 500km,5.2021,Citadine,Manuelle,998cm³,5.0,4cv,Traction,Essence
+108969,hyundai,tucson,117 000DT,115 000km,7.2021,SUV/4x4,Automatique,1598cm³,5.0,7cv,Traction,Hybride diesel
+108001,hyundai,tucson,212 000DT,0km,9.2024,SUV/4x4,Automatique,1600cm³,4.0,7cv,Intégrale,Hybride diesel
+109451,hyundai,grand-i10,33 800DT,159 000km,5.2017,Citadine,Manuelle,1200cm³,5.0,5cv,Traction,Essence
+108935,hyundai,grand-i10-sedan,34 900DT,90 000km,2.2019,Berline,Manuelle,1200cm³,5.0,5cv,Traction,Essence
+108336,hyundai,grand-i10,44 500DT,19 000km,3.2022,Compacte,Manuelle,1000cm³,5.0,4cv,Traction,Essence
+105293,hyundai,tucson,120 000DT,82 648km,7.202,Autres,Automatique,1598cm³,4.0,7cv,Propulsion,Hybride diesel
+109187,hyundai,ix35,55 000DT,324 765km,1.2013,SUV/4x4,Automatique,2000cm³,4.0,11cv,Intégrale,Diesel
+108400,hyundai,creta,74 000DT,90 500km,2.202,SUV/4x4,Automatique,1497cm³,5.0,6cv,Traction,Essence
+105425,hyundai,tucson,142 000DT,11 500km,5.2023,SUV/4x4,Automatique,1600cm³,5.0,10cv,Intégrale,Essence
+108705,hyundai,tucson,147 000DT,40 000km,11.2022,SUV/4x4,Automatique,1599cm³,5.0,10cv,Intégrale,Essence
+107314,hyundai,tucson,129 000DT,19 000km,6.2023,SUV/4x4,Automatique,1599cm³,5.0,9cv,Traction,Essence
+105051,hyundai,tucson-hybride,138 000DT,120 000km,1.2022,SUV/4x4,Automatique,2000cm³,5.0,10cv,Traction,Hybride essence
+104302,hyundai,tucson-hybride,137 000DT,80 000km,8.2021,SUV/4x4,Automatique,1599cm³,5.0,7cv,Traction,Hybride diesel
+100062,hyundai,kona,79 000DT,30 000km,10.2021,SUV/4x4,Manuelle,1599cm³,5.0,6cv,Traction,Hybride essence
+99925,hyundai,grand-i10,53 000DT,30 000km,8.2022,Citadine,Manuelle,1199cm³,5.0,5cv,Traction,Essence
+99645,hyundai,grand-i10,53 000DT,54 000km,4.2021,Citadine,Automatique,1199cm³,5.0,5cv,Traction,Essence
+97904,hyundai,tucson,161 000DT,24 000km,7.2023,SUV/4x4,Automatique,1599cm³,5.0,10cv,Traction,Essence
+97901,hyundai,tucson,87 000DT,120 000km,1.202,SUV/4x4,Automatique,,,8cv,Traction,Essence
+107911,hyundai,creta,74 000DT,76 000km,1.2019,Citadine,Manuelle,1600cm³,5.0,7cv,Traction,Essence
+104720,hyundai,veloster,112 000DT,87 000km,9.2019,Coupé,Automatique,1600cm³,4.0,11cv,Traction,Essence
+99439,hyundai,tucson-hybride,145 000DT,51 000km,11.2021,SUV/4x4,Automatique,1600cm³,5.0,7cv,Traction,Hybride diesel
+108851,hyundai,ix35,66 500DT,160 000km,12.2016,SUV/4x4,Automatique,1699cm³,4.0,11cv,Traction,Diesel
+108683,hyundai,i20,64 000DT,54 000km,6.2022,Compacte,Manuelle,1198cm³,5.0,5cv,Traction,Essence
+108950,hyundai,i20,53 500DT,76 000km,6.2022,Compacte,Manuelle,1198cm³,5.0,5cv,Traction,Essence
+108508,hyundai,grand-i10,48 500DT,47 000km,4.2023,Compacte,Manuelle,1198cm³,5.0,5cv,Traction,Essence
+108298,hyundai,tucson,100 000DT,81 000km,3.2018,SUV/4x4,Automatique,2000cm³,5.0,10cv,Traction,Diesel
+107956,hyundai,tucson-hybride,178 000DT,16 000km,2.2023,SUV/4x4,Automatique,1600cm³,5.0,7cv,Traction,Diesel
+108442,hyundai,grand-i10,51 000DT,69 000km,9.2021,Monospace,Automatique,1200cm³,5.0,5cv,Traction,Essence
+109389,hyundai,i20,64 000DT,55 500km,3.2022,Citadine,Manuelle,1197cm³,5.0,5cv,Traction,Essence
+109316,hyundai,kona,89 000DT,22 000km,6.202,SUV/4x4,Automatique,1600cm³,5.0,5cv,Intégrale,Hybride essence
+109378,hyundai,i20,45 000DT,163 000km,9.2019,Citadine,Manuelle,1200cm³,5.0,5cv,Traction,Essence
+103544,hyundai,kona,100 000DT,20 000km,5.2023,SUV/4x4,Automatique,1600cm³,5.0,11cv,Intégrale,Essence
+108272,hyundai,tucson,145 000DT,37 000km,7.2022,SUV/4x4,Automatique,1600cm³,5.0,10cv,Intégrale,Essence
+109331,hyundai,i20,41 500DT,123 500km,10.2017,Citadine,Manuelle,1197cm³,4.0,5cv,Traction,Essence
+109321,hyundai,creta,82 500DT,52 000km,10.202,SUV/4x4,Automatique,1500cm³,5.0,7cv,Traction,Essence
+108048,hyundai,tucson,98 000DT,80 000km,1.202,SUV/4x4,Automatique,1600cm³,5.0,7cv,Traction,Diesel
+109018,hyundai,grand-i10,37 000DT,134 000km,10.2017,Berline,Manuelle,1200cm³,5.0,5cv,Traction,Essence
+109194,hyundai,i20,64 500DT,26 100km,4.2022,Citadine,Manuelle,1200cm³,5.0,5cv,Traction,Essence
+109161,hyundai,grand-i10,32 000DT,208 000km,3.2015,Citadine,Manuelle,1248cm³,5.0,5cv,Traction,Essence
+108945,hyundai,elantra,63 500DT,65 000km,3.2017,Berline,Manuelle,1593cm³,4.0,7cv,Traction,Essence
+107714,hyundai,i30-fastback,85 000DT,19 000km,5.2022,Berline,Automatique,1000cm³,5.0,8cv,Traction,Essence
+109127,hyundai,grand-i10,46 000DT,85 000km,12.2022,Citadine,Manuelle,900cm³,4.0,4cv,Traction,Essence
+108110,hyundai,grand-i10,40 500DT,80 000km,4.2022,Citadine,Manuelle,998cm³,4.0,4cv,Traction,Essence
+101672,hyundai,veloster,49 000DT,100 000km,2.2013,Compacte,Automatique,1000cm³,5.0,11cv,Traction,Essence
+105905,hyundai,grand-i10-sedan,45 000DT,15 000km,6.2019,Berline,Manuelle,1198cm³,5.0,5cv,Traction,Essence
+108720,hyundai,i20,65 000DT,56 000km,2.2022,Citadine,Manuelle,1200cm³,5.0,5cv,Traction,Essence
+109008,hyundai,tucson,90 000DT,130 000km,10.202,Monospace,Automatique,1600cm³,4.0,8cv,Traction,Essence
+103809,hyundai,tucson,162 000DT,24 000km,7.2022,SUV/4x4,Automatique,1600cm³,5.0,10cv,Intégrale,Essence
+107883,hyundai,grand-i10-sedan,30 000DT,150 000km,10.2017,Citadine,Manuelle,1198cm³,5.0,5cv,Traction,Essence
+108733,hyundai,grand-i10,39 800DT,57 000km,5.2021,Coupé,Manuelle,1000cm³,5.0,4cv,Traction,Essence
+108897,hyundai,i20,60 000DT,47 000km,5.2022,Compacte,Manuelle,3000cm³,4.0,5cv,Traction,Essence
+108869,hyundai,i20,45 000DT,150 000km,1.2019,Citadine,Manuelle,1197cm³,5.0,5cv,Traction,Essence
+108852,hyundai,tucson,84 000DT,215 000km,11.2015,SUV/4x4,Automatique,1999cm³,4.0,11cv,Intégrale,Essence
+108429,hyundai,i20,32 000DT,245 000km,12.2015,Compacte,Manuelle,1197cm³,5.0,4cv,Traction,Essence
+108307,hyundai,grand-i10,52 000DT,24 000km,8.2021,Coupé,Automatique,1197cm³,4.0,5cv,Traction,Essence
+108666,hyundai,tucson,168 000DT,0km,1.2024,SUV/4x4,Automatique,1598cm³,5.0,10cv,Traction,Essence
+108661,hyundai,veloster,45 000DT,80 000km,12.2012,Autres,Automatique,1591cm³,3.0,8cv,Traction,Essence
+108543,hyundai,creta,80 000DT,90 500km,2.2019,SUV/4x4,Automatique,1591cm³,5.0,7cv,Traction,Essence
+108521,hyundai,grand-i10-sedan,37 000DT,194 000km,9.2017,Berline,Manuelle,1197cm³,5.0,5cv,Traction,Essence
+107688,hyundai,tucson-hybride,105 000DT,120 000km,10.202,SUV/4x4,Automatique,5555cm³,5.0,7cv,Traction,Hybride diesel
+107194,hyundai,grand-i10,40 000DT,116 000km,3.202,Citadine,Automatique,1200cm³,5.0,5cv,Traction,Essence
+109441,kia,cerato,42 000DT,189 000km,12.2015,Berline,Manuelle,1598cm³,4.0,7cv,Traction,Essence
+109438,kia,rio-5p,49 500DT,112 000km,7.2022,Citadine,Manuelle,1198cm³,5.0,5cv,Traction,Essence
+109224,kia,picanto,32 500DT,100 000km,7.2013,Citadine,Automatique,1198cm³,4.0,5cv,Traction,Essence
+109221,kia,sorento,58 000DT,273 000km,7.2013,SUV/4x4,Automatique,2198cm³,4.0,12cv,Traction,Diesel
+109146,kia,sportage,120 000DT,79 000km,6.202,SUV/4x4,Automatique,1598cm³,4.0,7cv,Traction,Diesel
+108747,kia,optima,40 000DT,206 000km,6.2012,Berline,Automatique,1998cm³,4.0,10cv,Traction,Essence
+108746,kia,rio,44 500DT,87 000km,12.2017,Berline,Manuelle,1198cm³,4.0,5cv,Traction,Essence
+108618,kia,picanto,40 900DT,111 000km,5.2019,Citadine,Automatique,1198cm³,4.0,5cv,Traction,Essence
+108532,kia,sportage,100 000DT,143 000km,12.2016,SUV/4x4,Automatique,1998cm³,4.0,10cv,Traction,Diesel
+108129,kia,sportage,76 000DT,150 000km,2.2018,SUV/4x4,Automatique,1598cm³,4.0,8cv,Traction,Essence
+107826,kia,picanto,42 500DT,91 000km,5.2021,Citadine,Automatique,1198cm³,4.0,5cv,Traction,Essence
+106607,kia,optima,45 500DT,176 000km,5.2014,Berline,Automatique,1998cm³,4.0,10cv,Traction,Essence
+105926,kia,optima,38 000DT,379 000km,3.2012,Berline,Automatique,1998cm³,4.0,10cv,Traction,Essence
+104891,kia,sportage,47 000DT,232 000km,11.2011,SUV/4x4,Automatique,1999cm³,5.0,11cv,Traction,Essence
+104678,kia,rio,69 900DT,35 000km,4.2022,Berline,Automatique,1398cm³,4.0,6cv,Traction,Essence
+103833,kia,sorento,89 000DT,209 000km,5.2015,SUV/4x4,Automatique,2199cm³,5.0,12cv,Traction,Diesel
+102866,kia,sportage,54 000DT,324 000km,7.2012,SUV/4x4,Automatique,1995cm³,4.0,11cv,Traction,Diesel
+97316,kia,sportage,85 000DT,101 000km,7.2018,SUV/4x4,Automatique,1598cm³,,8cv,Traction,Essence
+96785,kia,sorento,60 000DT,210 000km,9.2012,SUV/4x4,Automatique,,,12cv,Traction,Diesel
+94919,kia,sportage,110 000DT,132 000km,1.2018,Citadine,Automatique,1999cm³,5.0,10cv,Traction,Diesel
+109144,kia,cerato-5p,41 500DT,180 000km,10.2014,Berline,Automatique,1598cm³,5.0,8cv,Traction,Essence
+106266,kia,rio,29 000DT,170 000km,8.201,Berline,Manuelle,1399cm³,4.0,6cv,Traction,Essence
+101396,kia,sportage,98 000DT,119 000km,3.2019,SUV/4x4,Automatique,1599cm³,5.0,7cv,Traction,Diesel
+106008,kia,rio-5p,56 000DT,117 000km,5.2021,Compacte,Manuelle,1200cm³,5.0,5cv,Traction,Essence
+108222,kia,rio-5p,49 000DT,145 000km,1.2019,Citadine,Manuelle,1560cm³,5.0,5cv,Traction,Essence
+109374,kia,sportage,112 000DT,85 000km,3.2021,SUV/4x4,Automatique,1600cm³,4.0,11cv,Traction,Essence
+109267,kia,rio-5p,52 500DT,80 000km,10.2018,Coupé,Manuelle,1200cm³,4.0,5cv,Traction,Essence
+108209,kia,picanto,42 900DT,90 000km,1.2022,Compacte,Manuelle,1200cm³,5.0,5cv,Traction,Essence
+107143,kia,seltos,95 000DT,37 000km,6.2021,SUV/4x4,Automatique,1600cm³,4.0,8cv,Traction,Essence
+106929,kia,sportage,148 600DT,39 000km,6.2022,SUV/4x4,Automatique,1600cm³,4.0,10cv,Intégrale,Essence
+106745,kia,sportage,97 000DT,140 000km,11.2016,SUV/4x4,Automatique,2000cm³,5.0,10cv,Propulsion,Diesel
+106741,kia,rio,58 000DT,114 000km,8.2019,Berline,Automatique,1400cm³,4.0,6cv,Traction,Essence
+109450,kia,sportage,49 000DT,220 000km,12.201,SUV/4x4,Automatique,6000cm³,5.0,11cv,Traction,Essence
+106713,kia,carens,45 000DT,213 000km,9.2014,SUV/4x4,Automatique,1685cm³,4.0,8cv,Intégrale,Diesel
+107724,kia,sportage,114 000DT,55 000km,1.2021,SUV/4x4,Automatique,1598cm³,4.0,7cv,Traction,Diesel
+109188,kia,sportage-hybride,155 000DT,37 400km,9.2023,SUV/4x4,Automatique,1600cm³,4.0,10cv,Traction,Hybride essence
+108448,kia,rio-5p,54 000DT,68 954km,1.2019,Berline,Manuelle,1200cm³,4.0,5cv,Traction,Essence
+107664,kia,picanto,43 000DT,3 805km,2.2021,Berline,Manuelle,1000cm³,4.0,4cv,Traction,Essence
+105623,kia,picanto,61 000DT,0km,8.2024,Berline,Automatique,1200cm³,4.0,5cv,Traction,Essence
+104705,kia,sportage,103 000DT,77 000km,6.2021,SUV/4x4,Automatique,1591cm³,5.0,8cv,Traction,Essence
+104450,kia,sportage,76 000DT,123 000km,4.2019,SUV/4x4,Automatique,1591cm³,5.0,8cv,Traction,Essence
+109341,kia,picanto,47 000DT,16 000km,4.2019,Autres,Automatique,1200cm³,5.0,5cv,Traction,Essence
+108496,kia,picanto,54 500DT,63 000km,1.2022,Autres,Automatique,1200cm³,4.0,4cv,Traction,Essence
+108020,kia,rio-5p,57 500DT,70 000km,9.202,Citadine,Manuelle,1200cm³,5.0,5cv,Traction,Essence
+107659,kia,rio-5p,62 000DT,70 000km,7.2021,Citadine,Manuelle,1200cm³,5.0,5cv,Traction,Essence
+107627,kia,sportage,188 000DT,15 000km,5.2024,SUV/4x4,Automatique,1999cm³,5.0,7cv,Traction,Hybride diesel
+107575,kia,rio-5p,73 000DT,9 000km,6.2023,Citadine,Manuelle,1199cm³,5.0,5cv,Traction,Essence
+106121,kia,seltos,89 000DT,130 000km,4.2021,SUV/4x4,Automatique,1599cm³,5.0,8cv,Traction,Essence
+105619,kia,rio-5p,65 000DT,60 000km,9.2021,Citadine,Manuelle,1200cm³,5.0,5cv,Traction,Essence
+105371,kia,rio-5p,59 650DT,85 000km,8.2022,Citadine,Manuelle,1199cm³,5.0,5cv,Traction,Essence
+105291,kia,sportage-hybride,107 000DT,114 000km,9.2021,SUV/4x4,Automatique,1599cm³,5.0,7cv,Traction,Hybride diesel
+105249,kia,sportage,128 000DT,19 000km,7.2021,SUV/4x4,Manuelle,1599cm³,5.0,7cv,Traction,Diesel
+105047,kia,sportage,105 000DT,140 000km,1.2017,SUV/4x4,Automatique,2000cm³,5.0,10cv,Traction,Diesel
+104750,kia,rio-5p,64 000DT,64 000km,12.2021,Citadine,Manuelle,1200cm³,5.0,5cv,Traction,Essence
+104723,kia,sportage,83 500DT,127 000km,8.2019,SUV/4x4,Automatique,1699cm³,5.0,8cv,Traction,Essence
+104332,kia,sportage-hybride,98 000DT,140 000km,11.202,SUV/4x4,Automatique,1599cm³,5.0,7cv,Traction,Hybride diesel
+104303,kia,sportage,85 000DT,125 000km,8.2019,SUV/4x4,Automatique,1599cm³,5.0,8cv,Traction,Essence
+103599,kia,sportage,95 000DT,69 000km,11.2019,SUV/4x4,Automatique,1599cm³,5.0,8cv,Traction,Essence
+101751,kia,sportage,119 000DT,40 000km,4.202,SUV/4x4,Automatique,1600cm³,5.0,8cv,Traction,Essence
+100281,kia,sportage,143 000DT,23 000km,6.2022,SUV/4x4,Automatique,1599cm³,5.0,10cv,Traction,Essence
+99793,kia,sportage,119 000DT,120 000km,9.2021,SUV/4x4,Automatique,1599cm³,5.0,6cv,Traction,Hybride rechargeable diesel
+109435,kia,cerato-koup,32 500DT,205 000km,12.201,Coupé,Manuelle,1600cm³,5.0,7cv,Traction,Essence
+108916,kia,picanto,46 500DT,28 000km,12.2021,Citadine,Automatique,1200cm³,5.0,4cv,Traction,Essence
+108055,kia,rio-5p,62 500DT,68 000km,11.2021,Citadine,Manuelle,1200cm³,5.0,5cv,Traction,Essence
+106596,kia,sportage,97 000DT,124 000km,5.2019,Autres,Automatique,1600cm³,5.0,8cv,Traction,Diesel
+105468,kia,sportage,149 000DT,40 000km,7.2023,SUV/4x4,Automatique,1999cm³,4.0,10cv,Intégrale,Hybride essence
+109076,kia,sportage,122 000DT,30 000km,3.2022,Compacte,Automatique,1000cm³,4.0,10cv,Traction,Essence
+107288,kia,rio-5p,51 500DT,84 000km,8.2021,Compacte,Manuelle,1198cm³,5.0,5cv,Traction,Essence
+106747,kia,ceed,52 000DT,178 000km,1.2019,Compacte,Manuelle,1398cm³,5.0,6cv,Traction,Essence
+108510,kia,rio-5p,49 800DT,124 000km,9.2021,Compacte,Manuelle,1198cm³,5.0,5cv,Traction,Essence
+108188,kia,sorento,72 000DT,352 000km,5.2015,SUV/4x4,Automatique,2200cm³,5.0,12cv,Traction,Diesel
+108686,kia,rio-5p,65 000DT,72 000km,8.2021,Compacte,Manuelle,1198cm³,5.0,5cv,Traction,Essence
+107365,kia,sportage,75 000DT,96 000km,6.2018,SUV/4x4,Automatique,1600cm³,5.0,8cv,Traction,Essence
+109422,kia,cerato,38 500DT,250 000km,6.2014,Berline,Automatique,1599cm³,5.0,8cv,Intégrale,Essence
+108224,kia,sportage,91 000DT,139 000km,5.2018,SUV/4x4,Automatique,1685cm³,5.0,7cv,Traction,Diesel
+109071,kia,sportage,92 000DT,155 000km,1.2017,SUV/4x4,Automatique,2000cm³,5.0,10cv,Traction,Diesel
+100885,kia,sportage,118 000DT,140 000km,1.2018,SUV/4x4,Automatique,2000cm³,5.0,10cv,Traction,Diesel
+108102,kia,sportage,139 000DT,37 000km,10.2022,SUV/4x4,Automatique,1599cm³,5.0,10cv,Intégrale,Essence
+109278,kia,picanto,31 500DT,73 000km,5.2012,Berline,Automatique,1200cm³,5.0,5cv,Traction,Essence
+108727,kia,sportage,108 000DT,110 000km,12.202,SUV/4x4,Automatique,2000cm³,4.0,11cv,Intégrale,Essence
+108390,kia,rio-5p,62 500DT,107 000km,5.2021,Compacte,Manuelle,1200cm³,4.0,5cv,Traction,Essence
+107190,kia,sportage,55 000DT,379 000km,3.2015,SUV/4x4,Manuelle,1700cm³,4.0,7cv,Traction,Diesel
+108898,kia,rio-5p,49 000DT,130 000km,2.2021,Coupé,Manuelle,1200cm³,4.0,5cv,Propulsion,Essence
+109303,kia,rio,37 500DT,126 000km,1.2018,Berline,Manuelle,1200cm³,4.0,5cv,Traction,Essence
+109363,kia,picanto,41 000DT,167 000km,4.2018,Citadine,Automatique,1248cm³,4.0,4cv,Traction,Essence
+109179,kia,picanto,39 900DT,109 000km,5.2018,Citadine,Automatique,1400cm³,5.0,5cv,Traction,Essence
+109325,kia,stonic,66 000DT,90 000km,1.202,Citadine,Manuelle,998cm³,5.0,6cv,Intégrale,Essence
+109173,kia,rio-5p,62 000DT,51 000km,5.2021,Citadine,Manuelle,1200cm³,5.0,5cv,Traction,Essence
+107100,kia,sportage-hybride,160 000DT,3 583km,4.2024,SUV/4x4,Automatique,1598cm³,5.0,10cv,Traction,Hybride essence
+109277,kia,rio-5p,59 000DT,40 000km,2.2021,Citadine,Manuelle,1199cm³,5.0,5cv,Traction,Essence
+109059,kia,rio-5p,53 750DT,110 000km,6.202,Coupé,Manuelle,1248cm³,5.0,5cv,Traction,Essence
+107619,kia,rio-5p,47 000DT,69 000km,12.2019,Citadine,Manuelle,1197cm³,5.0,5cv,Traction,Essence
+107860,kia,rio-5p,49 900DT,103 000km,11.2018,Citadine,Manuelle,1199cm³,5.0,5cv,Traction,Essence
+108415,kia,quoris,95 000DT,134 000km,12.2014,Berline,Automatique,3778cm³,5.0,20cv,Propulsion,Essence
+108259,kia,cerato-koup,30 000DT,204 000km,12.201,Coupé,Manuelle,1591cm³,3.0,7cv,Traction,Essence
+108929,kia,rio,52 000DT,90 500km,1.202,Berline,Manuelle,1193cm³,4.0,6cv,Traction,Essence
+109162,kia,picanto,35 000DT,107 000km,6.2014,Compacte,Automatique,1000cm³,4.0,5cv,Traction,Essence
+108068,kia,sportage,89 000DT,105 000km,12.2018,SUV/4x4,Manuelle,1600cm³,5.0,6cv,Traction,Diesel
+109090,kia,picanto,46 900DT,86 000km,9.2021,Citadine,Automatique,1197cm³,5.0,4cv,Traction,Essence
+108989,kia,rio-5p,36 500DT,176 600km,7.2013,Citadine,Manuelle,1200cm³,5.0,5cv,Traction,Essence
+107516,kia,sportage,112 000DT,50 000km,7.2021,SUV/4x4,Automatique,1600cm³,5.0,11cv,Intégrale,Essence
+107318,kia,sportage,89 000DT,124 000km,7.202,SUV/4x4,Automatique,1600cm³,5.0,8cv,Traction,Essence
+108143,kia,seltos,115 000DT,14 150km,4.2023,Autres,Automatique,1353cm³,5.0,8cv,Traction,Essence
+108943,kia,rio,68 000DT,77 000km,1.202,Berline,Automatique,1400cm³,5.0,6cv,Traction,Essence
+108906,kia,sportage,78 000DT,117 000km,1.2018,SUV/4x4,Automatique,1591cm³,4.0,8cv,Traction,Essence
+108876,kia,sportage,85 000DT,175 000km,6.2019,SUV/4x4,Automatique,1000cm³,5.0,8cv,Intégrale,Essence
+108859,kia,rio-5p,64 000DT,62 300km,11.2021,Compacte,Manuelle,999cm³,5.0,5cv,Traction,Essence
+106054,kia,sportage,81 000DT,99 000km,1.2019,SUV/4x4,Manuelle,1600cm³,5.0,6cv,Propulsion,Diesel
+108728,kia,sportage,79 500DT,141 000km,2.2018,SUV/4x4,Automatique,1500cm³,5.0,7cv,Traction,Essence
+108725,kia,sportage,49 000DT,230 000km,8.201,SUV/4x4,Manuelle,1800cm³,5.0,10cv,Propulsion,Diesel
+108708,kia,rio-5p,63 500DT,86 000km,5.2022,Compacte,Manuelle,1197cm³,5.0,5cv,Traction,Essence
+108674,kia,sportage,95 000DT,90 000km,9.2021,SUV/4x4,Automatique,1600cm³,5.0,11cv,Intégrale,Essence
+108698,kia,picanto,38 500DT,60 000km,5.202,Citadine,Manuelle,1136cm³,5.0,4cv,Traction,Essence
+108556,kia,xceed,97 500DT,48 000km,4.2023,SUV/4x4,Automatique,1500cm³,5.0,9cv,Traction,Essence
+108461,kia,sportage,82 000DT,99 000km,10.2017,SUV/4x4,Automatique,1600cm³,5.0,8cv,Propulsion,Essence
+108585,kia,picanto,47 500DT,29 000km,10.2021,Citadine,Manuelle,1200cm³,5.0,5cv,Traction,Essence
+108576,kia,sportage,82 000DT,200 000km,4.2017,SUV/4x4,Automatique,1685cm³,5.0,7cv,Intégrale,Diesel
+108557,kia,carens,47 000DT,240 000km,11.2014,Autres,Automatique,1685cm³,5.0,8cv,Intégrale,Diesel
+108541,kia,cerato,38 000DT,290 000km,7.2013,Citadine,Manuelle,1591cm³,4.0,7cv,Traction,Essence
+108488,kia,picanto,39 000DT,133 000km,7.2019,Compacte,Manuelle,906cm³,5.0,4cv,Traction,Essence
+108463,kia,rio-5p,37 500DT,103 000km,6.2014,Citadine,Manuelle,1468cm³,2.0,5cv,Intégrale,Essence
+108029,kia,sportage,75 000DT,111 000km,1.2019,SUV/4x4,Automatique,1600cm³,5.0,8cv,Traction,Essence
+107742,kia,picanto,45 800DT,74 000km,5.2019,Citadine,Automatique,1200cm³,5.0,5cv,Propulsion,Essence
+108428,kia,xceed,110 000DT,35 000km,5.2023,SUV/4x4,Automatique,1482cm³,5.0,9cv,Traction,Essence
+108406,kia,cerato-5p,43 000DT,114 000km,9.2014,Coupé,Manuelle,1598cm³,5.0,7cv,Traction,Essence
+108378,kia,rio,35 000DT,93 000km,12.2014,Berline,Manuelle,1200cm³,4.0,6cv,Traction,Essence
+108111,kia,rio-5p,65 900DT,40 500km,11.2021,Citadine,Manuelle,1197cm³,4.0,5cv,Traction,Essence
+108269,kia,rio-5p,64 000DT,65 000km,11.2021,Compacte,Manuelle,1197cm³,5.0,5cv,Traction,Essence
+108262,kia,rio-5p,30 000DT,156 900km,5.2011,Berline,Manuelle,1399cm³,4.0,6cv,Traction,Essence
+105724,kia,rio-5p,49 000DT,98 000km,6.2018,Citadine,Manuelle,1197cm³,5.0,5cv,Traction,Essence
+103219,kia,picanto,51 500DT,27 000km,11.2022,Citadine,Automatique,1200cm³,5.0,5cv,Traction,Essence
+109348,kia,seltos,95 000DT,60 000km,6.2021,Autres,Automatique,1453cm³,5.0,8cv,Intégrale,Essence
+107935,kia,rio,37 500DT,150 000km,3.2016,Berline,Manuelle,1240cm³,4.0,5cv,Intégrale,Essence
+109439,mercedes-benz,cla,59 900DT,316 000km,10.2015,Berline,Manuelle,1598cm³,4.0,8cv,Traction,Essence
+109386,mercedes-benz,classe-c,53 000DT,190 000km,11.2011,Berline,Automatique,1798cm³,4.0,11cv,Traction,Essence
+108899,mercedes-benz,cla,144 900DT,100 000km,9.202,Berline,Automatique,1298cm³,4.0,7cv,Traction,Essence
+108748,mercedes-benz,classe-c,105 000DT,172 000km,12.2018,Berline,Automatique,1598cm³,4.0,8cv,Traction,Essence
+108533,mercedes-benz,ml,80 000DT,240 000km,6.2009,SUV/4x4,Automatique,2987cm³,4.0,15cv,Traction,Diesel
+108367,mercedes-benz,ml,38 000DT,283 000km,7.2006,SUV/4x4,Automatique,2987cm³,4.0,15cv,Traction,Diesel
+108289,mercedes-benz,classe-a,56 000DT,174 000km,5.2014,Citadine,Manuelle,1598cm³,4.0,6cv,Traction,Essence
+108035,mercedes-benz,classe-e,110 000DT,252 000km,10.2017,Berline,Automatique,1598cm³,4.0,9cv,Traction,Essence
+107973,mercedes-benz,ml,56 000DT,237 000km,1.2006,SUV/4x4,Automatique,2998cm³,4.0,15cv,Traction,Diesel
+107754,mercedes-benz,classe-c,119 000DT,146 000km,3.2017,Berline,Automatique,1595cm³,4.0,8cv,Traction,Essence
+107711,mercedes-benz,classe-e,260 000DT,37 000km,11.2021,Berline,Automatique,1998cm³,4.0,10cv,Traction,Hybride essence
+107606,mercedes-benz,classe-s,78 000DT,112 000km,7.2007,Berline,Automatique,3498cm³,4.0,19cv,Traction,Essence
+107559,mercedes-benz,classe-e-coupe,49 500DT,194 000km,10.2009,Coupé,Automatique,1798cm³,2.0,12cv,Traction,Essence
+107404,mercedes-benz,classe-e,63 900DT,189 000km,11.2009,Berline,Automatique,2198cm³,4.0,11cv,Traction,Diesel
+107285,mercedes-benz,cla,77 500DT,191 000km,12.2013,Berline,Automatique,1598cm³,4.0,8cv,Traction,Essence
+106865,mercedes-benz,cla,185 370DT,36 000km,9.2022,Berline,Automatique,1332cm³,4.0,7cv,Traction,Essence
+106153,mercedes-benz,classe-e,57 000DT,160 000km,4.2009,Berline,Automatique,2198cm³,4.0,12cv,Traction,Diesel
+106098,mercedes-benz,classe-c,125 000DT,157 000km,6.2016,Berline,Automatique,1598cm³,4.0,6cv,Traction,Diesel
+106095,mercedes-benz,classe-e,248 000DT,15 000km,2.2022,Berline,Automatique,1498cm³,4.0,9cv,Traction,Essence
+105864,mercedes-benz,classe-c,49 500DT,185 000km,9.2009,Berline,Automatique,1598cm³,4.0,9cv,Traction,Essence
+105656,mercedes-benz,gla,92 000DT,97 000km,4.2016,Citadine,Automatique,1598cm³,4.0,8cv,Traction,Essence
+105520,mercedes-benz,classe-c,135 000DT,113 000km,11.2017,Berline,Automatique,1598cm³,4.0,8cv,Traction,Essence
+105240,mercedes-benz,classe-a,129 000DT,101 000km,12.202,Citadine,Automatique,1298cm³,4.0,7cv,Traction,Essence
+105236,mercedes-benz,classe-e,119 000DT,223 000km,5.2017,Berline,Automatique,1598cm³,4.0,9cv,Traction,Essence
+105174,mercedes-benz,classe-c,145 000DT,112 000km,9.2019,Berline,Automatique,1498cm³,4.0,10cv,Traction,Hybride essence
+104102,mercedes-benz,cla,92 000DT,239 000km,5.2017,Berline,Automatique,1598cm³,4.0,7cv,Traction,Essence
+104066,mercedes-benz,classe-e,55 000DT,199 000km,2.201,Berline,Automatique,1789cm³,4.0,11cv,Traction,Essence
+103521,mercedes-benz,cla,149 500DT,70 000km,12.2021,Berline,Automatique,1298cm³,4.0,7cv,Traction,Essence
+103312,mercedes-benz,classe-e,64 500DT,238 000km,8.2009,Berline,Automatique,2143cm³,5.0,9cv,Propulsion,Diesel
+103129,mercedes-benz,classe-a,85 900DT,137 000km,12.2019,Citadine,Automatique,1298cm³,4.0,7cv,Traction,Essence
+102615,mercedes-benz,gla,118 000DT,65 000km,3.2016,Citadine,Automatique,1595cm³,4.0,8cv,Traction,Essence
+102142,mercedes-benz,classe-a,62 000DT,182 000km,3.2013,Citadine,Manuelle,1598cm³,4.0,7cv,Traction,Essence
+101641,mercedes-benz,cla,115 000DT,20 000km,4.2018,Berline,Automatique,1598cm³,4.0,7cv,Traction,Essence
+100742,mercedes-benz,classe-s,95 000DT,151 000km,8.2008,Berline,Automatique,3499cm³,4.0,19cv,Traction,Essence
+99747,mercedes-benz,cla,134 900DT,59 000km,12.2019,Berline,Automatique,1299cm³,4.0,7cv,Traction,Essence
+98425,mercedes-benz,classe-e,32 000DT,276 000km,12.2003,Berline,Automatique,1998cm³,4.0,10cv,Traction,Essence
+92747,mercedes-benz,cls,55 500DT,178 000km,3.2009,Berline,Automatique,2897cm³,4.0,15cv,Propulsion,Essence
+88712,mercedes-benz,classe-c,119 000DT,143 000km,7.2018,Berline,Automatique,1598cm³,4.0,9cv,Traction,Essence
+108682,mercedes-benz,ml,80 000DT,160 000km,7.201,Berline,Automatique,3500cm³,5.0,15cv,Intégrale,Diesel
+108340,mercedes-benz,cla,170 000DT,25 000km,8.2021,Berline,Automatique,1399cm³,4.0,8cv,Traction,Hybride essence
+106120,mercedes-benz,classe-a,130 000DT,35 000km,8.202,Citadine,Automatique,1500cm³,5.0,8cv,Traction,Hybride rechargeable essence
+109001,mercedes-benz,classe-e,228 000DT,98 000km,2.2021,Berline,Automatique,1998cm³,5.0,11cv,Traction,Hybride rechargeable diesel
+105972,mercedes-benz,cla,145 000DT,138 000km,6.202,Berline,Automatique,1499cm³,5.0,6cv,Traction,Diesel
+87599,mercedes-benz,classe-e-coupe,62 000DT,160 000km,12.2011,Coupé,Automatique,899cm³,3.0,11cv,Propulsion,Essence
+108909,mercedes-benz,glc,197 000DT,130 000km,9.2018,Autres,Automatique,1991cm³,5.0,10cv,Traction,Hybride rechargeable essence
+107366,mercedes-benz,classe-e,168 000DT,158 000km,8.202,Berline,Automatique,1597cm³,5.0,8cv,Traction,Diesel
+109424,mercedes-benz,cla,166 000DT,65 000km,1.2022,Berline,Automatique,1300cm³,4.0,8cv,Traction,Essence
+103889,mercedes-benz,glc-coupe,256 000DT,29 000km,1.2021,SUV/4x4,Automatique,1998cm³,5.0,12cv,Propulsion,Hybride rechargeable essence
+109215,mercedes-benz,classe-a,125 000DT,35 000km,4.2019,Citadine,Automatique,1332cm³,5.0,8cv,Traction,Essence
+106625,mercedes-benz,classe-e,138 000DT,132 000km,9.2017,Berline,Automatique,1600cm³,5.0,9cv,Traction,Essence
+107439,mercedes-benz,classe-c,55 500DT,235 000km,8.2013,Berline,Manuelle,1600cm³,5.0,9cv,Traction,Essence
+106289,mercedes-benz,classe-c,89 000DT,164 000km,7.2014,Berline,Automatique,1600cm³,5.0,9cv,Traction,Essence
+109019,mercedes-benz,glc-hybride,285 000DT,46 000km,10.2021,SUV/4x4,Automatique,1999cm³,5.0,10cv,Traction,Hybride rechargeable essence
+108443,mercedes-benz,classe-c,150 000DT,115 000km,3.202,Berline,Automatique,1600cm³,4.0,8cv,Intégrale,Diesel
+108003,mercedes-benz,classe-e,430 000DT,0km,6.2024,Berline,Automatique,2000cm³,4.0,10cv,Intégrale,Essence
+107983,mercedes-benz,gle-coupe,420 000DT,30 000km,12.2022,SUV/4x4,Automatique,2000cm³,4.0,8cv,Intégrale,Hybride rechargeable diesel
+107981,mercedes-benz,glc-coupe,440 000DT,0km,4.2024,SUV/4x4,Automatique,2000cm³,4.0,11cv,Intégrale,Hybride rechargeable essence
+107979,mercedes-benz,classe-c,185 000DT,9 000km,6.202,Berline,Automatique,1500cm³,4.0,10cv,Intégrale,Hybride essence
+107959,mercedes-benz,classe-e,110 000DT,60 000km,12.2012,Berline,Automatique,3000cm³,4.0,15cv,Intégrale,Essence
+107941,mercedes-benz,ml,75 000DT,127 000km,9.201,SUV/4x4,Automatique,3500cm³,4.0,19cv,Intégrale,Essence
+107937,mercedes-benz,cla,220 000DT,16 000km,7.2023,Berline,Automatique,1400cm³,4.0,9cv,Intégrale,Hybride rechargeable essence
+109458,mercedes-benz,glc-coupe,250 000DT,24 804km,6.202,SUV/4x4,Automatique,1991cm³,4.0,11cv,Traction,Essence
+102855,mercedes-benz,cl,95 000DT,115 000km,8.2008,Coupé,Automatique,2510cm³,4.0,30cv,Traction,Essence
+108810,mercedes-benz,classe-c,139 000DT,36 000km,7.202,Berline,Automatique,1497cm³,4.0,9cv,Traction,Essence
+106960,mercedes-benz,classe-e-coupe,230 000DT,80 000km,12.2019,Coupé,Automatique,2000cm³,2.0,12cv,Traction,Essence
+109452,mercedes-benz,cla,149 000DT,112 000km,1.202,Berline,Automatique,1332cm³,4.0,8cv,Traction,Essence
+109416,mercedes-benz,ml,70 000DT,195 000km,7.2011,SUV/4x4,Automatique,3500cm³,5.0,19cv,Propulsion,Essence
+108894,mercedes-benz,classe-e,240 000DT,100 000km,6.2021,Berline,Automatique,2000cm³,5.0,11cv,Traction,Hybride rechargeable diesel
+108356,mercedes-benz,cla,78 000DT,160 000km,10.2013,Berline,Automatique,1800cm³,4.0,8cv,Intégrale,Essence
+108194,mercedes-benz,cls,85 000DT,250 000km,9.2011,Citadine,Automatique,3000cm³,4.0,10cv,Traction,Diesel
+107988,mercedes-benz,classe-e,118 000DT,154 000km,7.2018,Berline,Automatique,1600cm³,5.0,9cv,Traction,Essence
+107987,mercedes-benz,classe-e,128 000DT,107 000km,7.2018,Berline,Automatique,1600cm³,5.0,9cv,Traction,Essence
+107946,mercedes-benz,classe-c,110 000DT,120 000km,2.2019,Berline,Automatique,2000cm³,5.0,8cv,Propulsion,Essence
+107888,mercedes-benz,glc,153 000DT,142 000km,6.2017,SUV/4x4,Automatique,2000cm³,5.0,12cv,Traction,Essence
+107641,mercedes-benz,gle-coupe,375 000DT,74 000km,9.2021,SUV/4x4,Automatique,3500cm³,4.0,8cv,Propulsion,Hybride rechargeable diesel
+106928,mercedes-benz,gla,115 000DT,67 000km,8.2016,SUV/4x4,Automatique,2000cm³,4.0,8cv,Intégrale,Essence
+106743,mercedes-benz,classe-e,59 000DT,161 000km,10.2009,Berline,Automatique,2500cm³,4.0,12cv,Propulsion,Diesel
+106728,mercedes-benz,ml,79 000DT,250 000km,7.201,SUV/4x4,Automatique,3200cm³,5.0,15cv,Intégrale,Diesel
+108359,mercedes-benz,classe-c,165 000DT,54 000km,12.2018,Berline,Automatique,1497cm³,5.0,11cv,Intégrale,Hybride essence
+108226,mercedes-benz,classe-a,135 000DT,66 000km,3.2021,Berline,Automatique,1332cm³,5.0,8cv,Traction,Hybride rechargeable essence
+109446,mercedes-benz,classe-e,57 000DT,280 000km,9.2009,Berline,Automatique,3000cm³,5.0,10cv,Intégrale,Diesel
+107892,mercedes-benz,classe-c,225 000DT,32 178km,12.2022,Berline,Automatique,1496cm³,4.0,11cv,Intégrale,Essence
+106788,mercedes-benz,classe-a,175 000DT,72 290km,9.2016,Coupé,Automatique,1991cm³,4.0,26cv,Traction,Essence
+101792,mercedes-benz,glc-coupe,365 000DT,26 997km,7.2023,SUV/4x4,Automatique,1999cm³,4.0,12cv,Intégrale,Hybride essence
+108665,mercedes-benz,glc-coupe,380 000DT,1 000km,5.2024,SUV/4x4,Automatique,1989cm³,4.0,11cv,Propulsion,Essence
+109322,mercedes-benz,classe-e,64 000DT,150 000km,8.2009,Berline,Automatique,2996cm³,5.0,15cv,Traction,Essence
+109189,mercedes-benz,glc-coupe,260 000DT,41 765km,10.2021,SUV/4x4,Automatique,2000cm³,4.0,12cv,Traction,Hybride rechargeable essence
+108962,mercedes-benz,classe-e,240 000DT,100 756km,10.2021,Berline,Automatique,2000cm³,4.0,11cv,Traction,Hybride rechargeable diesel
+108928,mercedes-benz,glc-coupe,260 000DT,47 000km,7.2021,SUV/4x4,Automatique,2000cm³,4.0,12cv,Traction,Hybride rechargeable essence
+108827,mercedes-benz,cla,97 000DT,125 043km,6.2018,Berline,Automatique,1600cm³,4.0,7cv,Traction,Essence
+108175,mercedes-benz,classe-e,165 000DT,55 001km,5.2019,Berline,Automatique,1600cm³,4.0,9cv,Traction,Essence
+108174,mercedes-benz,classe-c,275 000DT,0km,3.2024,Berline,Automatique,1400cm³,4.0,9cv,Traction,Essence
+107925,mercedes-benz,gla,230 000DT,10 730km,9.2023,SUV/4x4,Automatique,1400cm³,4.0,8cv,Traction,Hybride rechargeable essence
+107923,mercedes-benz,classe-e,390 000DT,10 776km,10.2023,Berline,Automatique,2000cm³,4.0,11cv,Traction,Essence
+107921,mercedes-benz,classe-c,185 000DT,50 893km,5.2022,Berline,Automatique,1500cm³,4.0,9cv,Traction,Essence
+107654,mercedes-benz,cla,169 900DT,31 235km,7.2021,Coupé,Automatique,1300cm³,4.0,8cv,Traction,Hybride rechargeable essence
+105120,mercedes-benz,glc-coupe,230 000DT,82 415km,9.202,Coupé,Automatique,2000cm³,4.0,10cv,Traction,Hybride rechargeable essence
+104495,mercedes-benz,classe-c,65 000DT,249 000km,6.2011,Berline,Automatique,1800cm³,4.0,9cv,Traction,Essence
+104184,mercedes-benz,classe-c,178 000DT,30 570km,12.2021,Berline,Automatique,1500cm³,4.0,8cv,Traction,Essence
+104176,mercedes-benz,cla,225 000DT,1 000km,1.2024,Berline,Automatique,1400cm³,4.0,8cv,Traction,Hybride essence
+101781,mercedes-benz,cla,185 000DT,18 500km,4.2023,Berline,Automatique,1400cm³,4.0,8cv,Traction,Hybride rechargeable essence
+101219,mercedes-benz,classe-a,135 000DT,68 000km,10.2018,Berline,Automatique,1400cm³,4.0,8cv,Traction,Essence
+100510,mercedes-benz,classe-c,145 000DT,145 000km,3.2019,Berline,Automatique,1600cm³,4.0,6cv,Traction,Diesel
+100493,mercedes-benz,classe-a,119 000DT,141 000km,1.2019,Berline,Automatique,1300cm³,4.0,7cv,Traction,Diesel
+107838,mercedes-benz,glc,220 000DT,39 000km,5.2018,SUV/4x4,Automatique,1950cm³,5.0,9cv,Traction,Diesel
+106621,mercedes-benz,classe-c,90 000DT,176 000km,2.2016,Berline,Automatique,1595cm³,5.0,8cv,Traction,Essence
+106005,mercedes-benz,glc-coupe,245 000DT,70 000km,3.202,SUV/4x4,Automatique,1991cm³,5.0,12cv,Traction,Hybride rechargeable essence
+105794,mercedes-benz,classe-a,137 000DT,37 000km,3.2021,Compacte,Automatique,1332cm³,5.0,8cv,Traction,Hybride rechargeable essence
+105009,mercedes-benz,gla,182 000DT,91 000km,7.2021,SUV/4x4,Automatique,1332cm³,5.0,9cv,Traction,Essence
+104423,mercedes-benz,classe-c,215 000DT,35 000km,2.2022,Berline,Automatique,1496cm³,5.0,9cv,Traction,Essence
+103250,mercedes-benz,glb,175 000DT,50 000km,6.2022,SUV/4x4,Automatique,1332cm³,4.0,9cv,Traction,Essence
+101146,mercedes-benz,glc-coupe,360 000DT,6 600km,10.2023,SUV/4x4,Automatique,2000cm³,4.0,12cv,Intégrale,Essence
+104375,mercedes-benz,cla,174 000DT,69 000km,11.2021,Autres,Automatique,1300cm³,4.0,8cv,Traction,Hybride rechargeable essence
+107549,mercedes-benz,glc-coupe,400 000DT,0km,3.2024,SUV/4x4,Automatique,2000cm³,4.0,12cv,Intégrale,Essence
+108063,mercedes-benz,classe-s,450 000DT,40 000km,8.202,Autres,Automatique,3000cm³,4.0,32cv,Intégrale,Hybride essence
+103319,mercedes-benz,classe-e,245 000DT,9 000km,7.2022,Berline,Automatique,1600cm³,4.0,9cv,Traction,Essence
+104380,mercedes-benz,classe-g,350 000DT,168 000km,10.201,SUV/4x4,Automatique,3000cm³,5.0,16cv,Intégrale,Diesel
+104471,mercedes-benz,cla,148 000DT,93 000km,6.202,Autres,Automatique,1500cm³,4.0,6cv,Traction,Diesel
+103002,mercedes-benz,classe-e-coupe,340 000DT,86 000km,11.2018,Berline,Automatique,3000cm³,5.0,33cv,Traction,Hybride essence
+100070,mercedes-benz,ml,88 000DT,231 000km,6.201,SUV/4x4,Automatique,3000cm³,4.0,12cv,Intégrale,Diesel
+106238,mercedes-benz,classe-g,630 000DT,30 000km,7.2015,SUV/4x4,Automatique,5500cm³,4.0,47cv,Intégrale,Essence
+103212,mercedes-benz,classe-s,195 000DT,79 000km,1.2015,Berline,Automatique,2200cm³,5.0,11cv,Traction,Hybride diesel
+109043,mercedes-benz,classe-e,155 000DT,95 000km,6.2018,Berline,Automatique,1598cm³,4.0,9cv,Traction,Essence
+107932,mercedes-benz,gla,189 000DT,20 000km,6.2023,SUV/4x4,Automatique,1498cm³,4.0,7cv,Traction,Essence
+86048,mercedes-benz,classe-c,161 290DT,135 000km,6.2019,Berline,Automatique,1598cm³,5.0,8cv,Traction,Essence
+107829,mercedes-benz,classe-c-coupe,178 000DT,86 000km,5.2019,Coupé,Automatique,1498cm³,2.0,10cv,Traction,Hybride essence
+103089,mercedes-benz,classe-s,122 000DT,165 000km,4.201,Berline,Automatique,3498cm³,4.0,18cv,Traction,Essence
+94013,mercedes-benz,classe-s,98 000DT,147 000km,1.2009,Berline,Automatique,,,19cv,Traction,Essence
+108889,mercedes-benz,classe-c,159 000DT,27 000km,1.2022,Berline,Automatique,1599cm³,5.0,8cv,Traction,Essence
+108668,mercedes-benz,classe-x,205 000DT,68 000km,8.202,Pick up,Automatique,2000cm³,5.0,8cv,Traction,Diesel
+108350,mercedes-benz,classe-c,255 100DT,20 000km,1.2023,Berline,Automatique,1599cm³,5.0,9cv,Traction,Essence
+108347,mercedes-benz,cla,129 000DT,150 000km,8.202,Citadine,Manuelle,1799cm³,5.0,9cv,Traction,Essence
+107626,mercedes-benz,gla,225 000DT,26 000km,4.2023,SUV/4x4,Automatique,1999cm³,5.0,8cv,Traction,Hybride rechargeable essence
+107556,mercedes-benz,classe-c,152 000DT,120 000km,7.2019,Berline,Automatique,1599cm³,5.0,10cv,Traction,Hybride essence
+107534,mercedes-benz,gla,173 000DT,90 000km,8.2021,SUV/4x4,Automatique,1999cm³,5.0,9cv,Traction,Essence
+107421,mercedes-benz,cla,83 000DT,124 000km,1.2014,Berline,Automatique,1599cm³,5.0,9cv,Traction,Essence
+107358,mercedes-benz,classe-c-coupe,63 000DT,200 000km,8.2012,Coupé,Automatique,1599cm³,3.0,9cv,Traction,Essence
+106990,mercedes-benz,classe-c,152 000DT,120 000km,7.2019,Berline,Automatique,1497cm³,5.0,10cv,Traction,Hybride essence
+106370,mercedes-benz,classe-c-coupe,167 000DT,130 000km,10.2018,Coupé,Automatique,1599cm³,3.0,8cv,Traction,Essence
+105149,mercedes-benz,classe-s,630 000DT,3 000km,7.2022,Berline,Automatique,2999cm³,5.0,16cv,Traction,Hybride essence
+104969,mercedes-benz,classe-c,235 000DT,50 000km,1.2023,Berline,Automatique,1800cm³,5.0,9cv,Traction,Essence
+104729,mercedes-benz,glc,169 000DT,115 000km,10.2017,SUV/4x4,Automatique,2499cm³,5.0,12cv,Traction,Essence
+104653,mercedes-benz,gla,235 000DT,12 000km,8.2023,SUV/4x4,Automatique,2000cm³,5.0,11cv,Traction,Essence
+104590,mercedes-benz,glb,210 000DT,111 000km,1.2021,SUV/4x4,Automatique,2000cm³,5.0,9cv,Traction,Diesel
+104154,mercedes-benz,classe-b,48 000DT,100 000km,8.2014,SUV/4x4,Manuelle,1600cm³,5.0,7cv,Traction,Essence
+103862,mercedes-benz,classe-c-coupe,173 000DT,50 000km,9.2019,Coupé,Automatique,1599cm³,3.0,9cv,Traction,Essence
+103543,mercedes-benz,cls,119 000DT,160 000km,9.2011,Berline,Automatique,2500cm³,5.0,11cv,Traction,Diesel
+103541,mercedes-benz,gla,185 000DT,40 000km,3.2022,SUV/4x4,Automatique,1599cm³,5.0,7cv,Traction,Essence
+103333,mercedes-benz,glc-coupe,189 000DT,190 000km,4.2017,SUV/4x4,Automatique,2143cm³,5.0,9cv,Traction,Diesel
+103316,mercedes-benz,classe-c,89 000DT,170 000km,1.2016,Berline,Automatique,1599cm³,5.0,8cv,Traction,Essence
+103286,mercedes-benz,glc-coupe,278 000DT,69 000km,8.202,SUV/4x4,Automatique,2000cm³,5.0,12cv,Traction,Hybride rechargeable essence
+103275,mercedes-benz,classe-e,135 000DT,90 000km,8.2018,Berline,Automatique,1599cm³,5.0,9cv,Traction,Essence
+102697,mercedes-benz,classe-e,291 800DT,8 000km,10.2022,Berline,Automatique,1599cm³,5.0,9cv,Traction,Essence
+102360,mercedes-benz,classe-a,158 000DT,20 000km,9.2022,Citadine,Automatique,1599cm³,5.0,8cv,Traction,Essence
+102252,mercedes-benz,classe-c,99 000DT,160 000km,10.2014,Berline,Automatique,1599cm³,5.0,9cv,Traction,Essence
+101206,mercedes-benz,classe-e,51 000DT,330 000km,3.201,Berline,Automatique,1999cm³,5.0,10cv,Traction,Essence
+101205,mercedes-benz,classe-e,77 000DT,330 000km,6.2011,Berline,Automatique,2199cm³,5.0,9cv,Traction,Diesel
+101152,mercedes-benz,classe-c,240 000DT,16 000km,1.2023,Berline,Automatique,1599cm³,5.0,9cv,Traction,Essence
+101148,mercedes-benz,cla,81 000DT,163 000km,7.2014,Citadine,Automatique,1599cm³,5.0,7cv,Traction,Essence
+100970,mercedes-benz,cla,169 000DT,30 000km,12.2021,Citadine,Automatique,1599cm³,5.0,7cv,Traction,Essence
+100960,mercedes-benz,classe-a,98 000DT,50 000km,7.2019,Citadine,Automatique,1599cm³,5.0,6cv,Traction,Diesel
+100773,mercedes-benz,classe-c,205 000DT,40 000km,8.2022,Berline,Automatique,1600cm³,5.0,9cv,Traction,Essence
+100604,mercedes-benz,classe-c,264 200DT,50 000km,7.2022,Berline,Automatique,1399cm³,5.0,9cv,Traction,Essence
+100524,mercedes-benz,cla,79 000DT,240 000km,7.2013,Citadine,Automatique,2143cm³,5.0,9cv,Traction,Diesel
+100182,mercedes-benz,classe-s,78 000DT,170 000km,7.2008,Berline,Automatique,3450cm³,5.0,19cv,Traction,Essence
+99834,mercedes-benz,classe-c-coupe,179 000DT,40 000km,9.2019,Coupé,Automatique,1599cm³,3.0,9cv,Traction,Essence
+99646,mercedes-benz,classe-c,208 000DT,40 000km,2.2022,Berline,Automatique,1500cm³,5.0,9cv,Traction,Essence
+99497,mercedes-benz,cla,169 000DT,20 000km,10.202,Citadine,Automatique,1599cm³,5.0,7cv,Traction,Essence
+99369,mercedes-benz,gla,113 000DT,74 000km,1.2016,SUV/4x4,Automatique,1595cm³,5.0,8cv,Traction,Essence
+99259,mercedes-benz,classe-c,115 000DT,170 000km,8.2014,Berline,Automatique,1599cm³,5.0,9cv,Traction,Essence
+98044,mercedes-benz,classe-c,205 000DT,35 000km,1.202,Berline,Automatique,1998cm³,4.0,6cv,Propulsion,Hybride rechargeable essence
+97161,mercedes-benz,classe-e,77 000DT,135 000km,7.2011,Citadine,Automatique,1800cm³,5.0,10cv,Traction,Essence
+97159,mercedes-benz,classe-c,215 000DT,80 000km,6.2022,Citadine,Automatique,1599cm³,5.0,9cv,Traction,Essence
+96178,mercedes-benz,classe-a,172 000DT,15 000km,1.2022,Citadine,Automatique,,,8cv,Traction,Essence
+96177,mercedes-benz,classe-c,148 000DT,80 000km,7.2019,Citadine,Automatique,,,9cv,Traction,Diesel
+109350,mercedes-benz,classe-c,59 500DT,226 000km,5.2013,Berline,Automatique,1600cm³,5.0,9cv,Propulsion,Essence
+108927,mercedes-benz,classe-e,64 500DT,197 000km,11.201,Berline,Automatique,1800cm³,5.0,11cv,Propulsion,Essence
+108808,mercedes-benz,classe-a,108 000DT,100 000km,6.202,Citadine,Automatique,1400cm³,5.0,7cv,Traction,Essence
+106592,mercedes-benz,classe-e,248 000DT,15 000km,2.2022,Berline,Automatique,1499cm³,5.0,9cv,Propulsion,Essence
+104319,mercedes-benz,classe-c,115 000DT,137 000km,9.2017,Berline,Automatique,1600cm³,5.0,8cv,Propulsion,Essence
+103138,mercedes-benz,classe-c,228 000DT,29 000km,2.2022,Berline,Automatique,1500cm³,5.0,9cv,Propulsion,Essence
+101279,mercedes-benz,gla,118 000DT,65 000km,3.2016,Compacte,Automatique,1600cm³,5.0,8cv,Traction,Essence
+109119,mercedes-benz,classe-c-coupe,158 000DT,80 000km,7.2021,Coupé,Automatique,1600cm³,3.0,8cv,Propulsion,Essence
+109118,mercedes-benz,gla,169 000DT,49 000km,7.2021,SUV/4x4,Automatique,1400cm³,5.0,8cv,Traction,Hybride rechargeable essence
+107448,mercedes-benz,gla,124 000DT,30 000km,5.2018,Berline,Automatique,1600cm³,5.0,7cv,Traction,Essence
+107350,mercedes-benz,glc-coupe,259 000DT,50 000km,5.2021,SUV/4x4,Automatique,2000cm³,5.0,12cv,Intégrale,Hybride essence
+107242,mercedes-benz,classe-c,169 000DT,60 000km,4.2021,Berline,Automatique,1600cm³,5.0,10cv,Intégrale,Essence
+107168,mercedes-benz,classe-c,197 000DT,32 000km,6.2022,Berline,Automatique,1999cm³,4.0,12cv,Propulsion,Essence
+107164,mercedes-benz,classe-c,248 000DT,11 000km,2.2024,Berline,Automatique,1999cm³,4.0,9cv,Propulsion,Hybride essence
+106486,mercedes-benz,classe-e-coupe,68 000DT,180 000km,7.201,Coupé,Automatique,3000cm³,3.0,19cv,Traction,Essence
+106484,mercedes-benz,classe-c,99 500DT,180 000km,2.2016,Berline,Automatique,1600cm³,5.0,8cv,Propulsion,Essence
+105622,mercedes-benz,classe-c,105 000DT,175 000km,1.2016,Berline,Automatique,1600cm³,5.0,8cv,Propulsion,Essence
+105469,mercedes-benz,classe-a,169 000DT,8 000km,6.2024,Berline,Automatique,1599cm³,4.0,8cv,Traction,Hybride essence
+103232,mercedes-benz,cla,188 000DT,30 000km,1.2023,Berline,Automatique,1300cm³,5.0,7cv,Traction,Essence
+109003,mercedes-benz,classe-e-coupe,164 000DT,90 000km,7.2018,Coupé,Automatique,1991cm³,2.0,11cv,Traction,Essence
+108806,mercedes-benz,classe-c,88 000DT,56 000km,1.2013,Compacte,Automatique,1000cm³,4.0,9cv,Traction,Essence
+106663,mercedes-benz,classe-c,230 000DT,7 300km,11.2022,Berline,Automatique,1500cm³,5.0,9cv,Propulsion,Essence
+108104,mercedes-benz,classe-a,68 500DT,180 000km,7.2014,Citadine,Automatique,1595cm³,4.0,6cv,Traction,Essence
+105342,mercedes-benz,gla,179 000DT,57 000km,5.2021,Compacte,Automatique,2000cm³,5.0,8cv,Traction,Hybride rechargeable essence
+106549,mercedes-benz,classe-a,144 000DT,63 000km,1.202,Compacte,Automatique,1300cm³,5.0,9cv,Traction,Essence
+106204,mercedes-benz,classe-c,80 500DT,201 000km,3.2013,Autres,Automatique,1600cm³,4.0,9cv,Intégrale,Essence
+108981,mercedes-benz,cla,139 000DT,76 000km,1.202,Berline,Automatique,1611cm³,5.0,7cv,Propulsion,Diesel
+109371,mercedes-benz,cla,170 000DT,20 000km,7.202,Coupé,Automatique,1400cm³,4.0,9cv,Traction,Essence
+108229,mercedes-benz,gle-coupe,420 000DT,54 000km,5.202,SUV/4x4,Automatique,2925cm³,5.0,18cv,Intégrale,Diesel
+108227,mercedes-benz,classe-c,135 000DT,146 000km,10.2015,Berline,Automatique,1595cm³,5.0,8cv,Propulsion,Essence
+109324,mercedes-benz,classe-a-berline,127 000DT,80 000km,12.2021,Berline,Automatique,1400cm³,5.0,8cv,Propulsion,Hybride rechargeable essence
+109210,mercedes-benz,classe-e,72 000DT,300 000km,2.201,Berline,Manuelle,2143cm³,4.0,7cv,Propulsion,Diesel
+108754,mercedes-benz,glc-coupe,420 000DT,0km,8.2024,SUV/4x4,Automatique,2000cm³,4.0,15cv,Intégrale,Essence
+108753,mercedes-benz,classe-c,105 000DT,200 000km,10.2014,Berline,Automatique,1600cm³,4.0,8cv,Traction,Essence
+106953,mercedes-benz,classe-a-berline,132 000DT,100 000km,3.202,Citadine,Automatique,1500cm³,4.0,6cv,Traction,Essence
+106141,mercedes-benz,cla,220 000DT,0km,1.2024,Berline,Automatique,2000cm³,4.0,8cv,Traction,Essence
+105609,mercedes-benz,gle-coupe,450 000DT,30 000km,3.2022,SUV/4x4,Automatique,3000cm³,4.0,12cv,Traction,Hybride rechargeable essence
+105511,mercedes-benz,classe-e,260 000DT,70 000km,1.202,Berline,Automatique,2000cm³,4.0,12cv,Traction,Hybride rechargeable essence
+103856,mercedes-benz,glc-coupe,270 000DT,80 000km,1.2021,SUV/4x4,Automatique,2000cm³,4.0,11cv,Intégrale,Hybride rechargeable essence
+101024,mercedes-benz,cla,115 000DT,130 000km,2.2017,Berline,Automatique,1600cm³,4.0,6cv,Traction,Diesel
+109411,mercedes-benz,classe-c,46 500DT,287 000km,10.2009,Berline,Automatique,1597cm³,4.0,9cv,Propulsion,Essence
+109231,mercedes-benz,cla,98 000DT,48 700km,1.2017,Coupé,Automatique,1599cm³,4.0,7cv,Traction,Essence
+108478,mercedes-benz,classe-a,115 000DT,60 000km,9.2021,Coupé,Automatique,1300cm³,5.0,7cv,Traction,Essence
+107958,mercedes-benz,classe-a,110 000DT,90 000km,10.2021,Coupé,Automatique,1600cm³,5.0,7cv,Traction,Essence
+106650,mercedes-benz,classe-c-coupe,145 000DT,120 000km,3.2019,Coupé,Automatique,1600cm³,3.0,8cv,Propulsion,Essence
+106301,mercedes-benz,classe-c,66 000DT,180 000km,5.2013,Berline,Automatique,1600cm³,5.0,9cv,Propulsion,Essence
+99991,mercedes-benz,classe-a,69 000DT,123 000km,8.2015,Berline,Automatique,1595cm³,5.0,6cv,Traction,Essence
+108206,mercedes-benz,classe-c,99 000DT,125 000km,2.2019,Berline,Automatique,1595cm³,5.0,8cv,Propulsion,Essence
+101427,mercedes-benz,classe-e,47 500DT,295 000km,8.2006,Berline,Automatique,2200cm³,5.0,10cv,Propulsion,Diesel
+105834,mercedes-benz,glc-coupe,258 000DT,68 000km,4.202,SUV/4x4,Automatique,1999cm³,5.0,12cv,Traction,Hybride essence
+105755,mercedes-benz,glc-coupe,240 000DT,52 000km,12.202,SUV/4x4,Automatique,2000cm³,5.0,11cv,Intégrale,Diesel
+107071,mercedes-benz,cla,170 000DT,30 000km,9.2022,Berline,Automatique,1800cm³,5.0,7cv,Propulsion,Essence
+107433,mercedes-benz,classe-c,26 000DT,345 000km,6.2,Compacte,Manuelle,2000cm³,4.0,11cv,Propulsion,Essence
+107072,mercedes-benz,classe-a,75 000DT,134 000km,1.2017,Compacte,Manuelle,1800cm³,5.0,6cv,Propulsion,Essence
+109023,mercedes-benz,classe-c-coupe,77 000DT,168 000km,3.2012,Coupé,Automatique,1796cm³,3.0,9cv,Propulsion,Essence
+109079,mercedes-benz,classe-e-coupe,77 000DT,134 000km,9.2012,Coupé,Automatique,1800cm³,3.0,10cv,Propulsion,Essence
+109238,mercedes-benz,classe-b,62 000DT,217 000km,7.2012,Citadine,Automatique,1595cm³,5.0,9cv,Propulsion,Essence
+103801,mercedes-benz,classe-c,71 000DT,200 000km,7.2011,Utilitaire,Automatique,1796cm³,4.0,9cv,Traction,Essence
+105930,mercedes-benz,classe-c,150 000DT,80 000km,1.2019,Berline,Automatique,1497cm³,5.0,11cv,Intégrale,Hybride essence
+108788,mercedes-benz,classe-c,74 000DT,160 000km,11.2012,Berline,Automatique,1600cm³,4.0,9cv,Propulsion,Essence
+105316,mercedes-benz,classe-a-berline,149 500DT,58 000km,8.202,Berline,Automatique,1332cm³,4.0,8cv,Traction,Hybride rechargeable essence
+108300,mercedes-benz,gle,340 000DT,50 000km,11.2021,SUV/4x4,Automatique,4000cm³,5.0,12cv,Intégrale,Hybride rechargeable essence
+103048,mercedes-benz,gle-coupe,358 000DT,71 000km,5.2021,SUV/4x4,Automatique,2000cm³,5.0,8cv,Propulsion,Hybride diesel
+106523,mercedes-benz,cla,148 000DT,117 000km,1.202,Berline,Automatique,1500cm³,4.0,6cv,Traction,Diesel
+106388,mercedes-benz,classe-a,108 000DT,161 000km,8.202,Compacte,Automatique,1500cm³,5.0,6cv,Traction,Diesel
+105480,mercedes-benz,classe-a,148 000DT,44 000km,3.2022,Autres,Automatique,1300cm³,5.0,6cv,Traction,Hybride rechargeable essence
+108987,mercedes-benz,classe-c,195 000DT,71 000km,1.2022,Berline,Automatique,1500cm³,4.0,9cv,Propulsion,Hybride essence
+109286,mercedes-benz,classe-c,62 000DT,270 000km,7.201,Berline,Automatique,1597cm³,5.0,9cv,Intégrale,Essence
+109282,mercedes-benz,classe-c,33 000DT,190 000km,3.2003,Citadine,Manuelle,2200cm³,4.0,8cv,Traction,Diesel
+109279,mercedes-benz,cla,79 000DT,138 000km,7.2013,Berline,Automatique,1595cm³,5.0,8cv,Traction,Essence
+109261,mercedes-benz,classe-e,150 000DT,230 000km,3.2016,Berline,Automatique,1950cm³,5.0,8cv,Traction,Diesel
+109022,mercedes-benz,classe-c-coupe,175 000DT,75 000km,1.2019,Coupé,Automatique,2000cm³,2.0,10cv,Propulsion,Essence
+108964,mercedes-benz,classe-c,85 000DT,114 123km,9.2016,Compacte,Manuelle,1595cm³,4.0,8cv,Traction,Essence
+109243,mercedes-benz,cla,76 000DT,174 000km,7.2013,Berline,Automatique,1595cm³,4.0,7cv,Traction,Essence
+109005,mercedes-benz,cla,205 000DT,39 000km,9.2023,Coupé,Automatique,1332cm³,4.0,8cv,Traction,Hybride rechargeable essence
+109252,mercedes-benz,cla,81 000DT,112 000km,5.2015,Berline,Automatique,2143cm³,5.0,7cv,Traction,Essence
+109251,mercedes-benz,classe-c-coupe,152 000DT,167 000km,4.2019,Coupé,Automatique,1595cm³,2.0,8cv,Propulsion,Essence
+109219,mercedes-benz,classe-c,120 000DT,48 000km,4.2014,Berline,Automatique,1580cm³,4.0,8cv,Propulsion,Essence
+109217,mercedes-benz,gla,105 000DT,150 000km,6.2016,Coupé,Automatique,1595cm³,4.0,8cv,Propulsion,Essence
+103887,mercedes-benz,classe-c,135 000DT,67 000km,11.2019,Berline,Automatique,1597cm³,4.0,6cv,Propulsion,Diesel
+109196,mercedes-benz,classe-c,55 000DT,185 000km,6.2008,Berline,Automatique,2200cm³,5.0,10cv,Traction,Diesel
+108740,mercedes-benz,classe-c,78 000DT,207 000km,8.2014,Berline,Automatique,1800cm³,4.0,8cv,Propulsion,Essence
+109154,mercedes-benz,classe-a-berline,169 999DT,22 000km,10.2022,Citadine,Automatique,1300cm³,4.0,8cv,Intégrale,Hybride rechargeable essence
+108918,mercedes-benz,cla,220 000DT,6 000km,3.2024,Coupé,Automatique,1332cm³,5.0,8cv,Traction,Hybride rechargeable essence
+109137,mercedes-benz,classe-b,45 000DT,183 000km,12.2012,Monospace,Manuelle,1595cm³,5.0,7cv,Traction,Essence
+109057,mercedes-benz,classe-c,98 000DT,180 000km,1.2016,Citadine,Automatique,6999cm³,4.0,7cv,Traction,Diesel
+106764,mercedes-benz,classe-c,65 000DT,219 000km,6.2012,Berline,Automatique,2987cm³,5.0,16cv,Propulsion,Diesel
+109092,mercedes-benz,classe-c,320 000DT,49 000km,11.202,Coupé,Automatique,3000cm³,3.0,28cv,Intégrale,Essence
+106653,mercedes-benz,gle-coupe,390 000DT,40 000km,9.2017,SUV/4x4,Automatique,2996cm³,5.0,26cv,Intégrale,Essence
+108377,mercedes-benz,glk,80 000DT,200 000km,3.2009,Compacte,Automatique,1000cm³,5.0,9cv,Traction,Diesel
+107740,mercedes-benz,classe-e,79 000DT,170 000km,3.2012,Berline,Automatique,1000cm³,5.0,10cv,Traction,Diesel
+107090,mercedes-benz,classe-c,140 000DT,120 000km,4.2017,Coupé,Automatique,1000cm³,3.0,8cv,Traction,Essence
+101675,mercedes-benz,ml,85 000DT,180 000km,5.2009,SUV/4x4,Automatique,1000cm³,5.0,15cv,Traction,Diesel
+108700,mercedes-benz,classe-s,380 000DT,250 000km,12.2017,Berline,Automatique,4999cm³,5.0,plus de 48cv,Traction,Essence
+107710,mercedes-benz,classe-c,116 000DT,125 000km,8.2018,Berline,Automatique,1598cm³,5.0,8cv,Traction,Essence
+107581,mercedes-benz,classe-e,115 000DT,180 000km,8.2016,Berline,Automatique,1998cm³,5.0,10cv,Traction,Essence
+109080,mercedes-benz,classe-a,126 000DT,118 000km,11.2019,Autres,Automatique,1300cm³,4.0,9cv,Traction,Essence
+109047,mercedes-benz,gla,185 000DT,32 000km,6.2022,SUV/4x4,Automatique,1950cm³,4.0,8cv,Traction,Diesel
+106714,mercedes-benz,classe-c,220 000DT,2 800km,10.2022,Berline,Automatique,1496cm³,4.0,9cv,Propulsion,Essence
+106642,mercedes-benz,classe-a,50 000DT,200 000km,3.2015,Citadine,Manuelle,1595cm³,4.0,6cv,Intégrale,Essence
+108763,mercedes-benz,classe-c,85 000DT,179 000km,6.2014,Berline,Automatique,1595cm³,5.0,8cv,Propulsion,Essence
+107579,mercedes-benz,classe-c,89 000DT,73 000km,6.2016,Berline,Automatique,1600cm³,4.0,8cv,Traction,Essence
+106774,mercedes-benz,ml,75 000DT,212 000km,4.2009,SUV/4x4,Automatique,3000cm³,5.0,15cv,Intégrale,Diesel
+106387,mercedes-benz,glb,178 000DT,83 000km,5.2022,SUV/4x4,Automatique,1500cm³,5.0,8cv,Traction,Essence
+105798,mercedes-benz,gla,128 000DT,45 000km,1.2019,SUV/4x4,Automatique,1600cm³,5.0,7cv,Traction,Essence
+105285,mercedes-benz,classe-a,28 000DT,181 000km,7.2009,Compacte,Manuelle,1500cm³,3.0,6cv,Traction,Essence
+105085,mercedes-benz,gla,192 000DT,37 000km,1.2022,SUV/4x4,Automatique,1500cm³,5.0,8cv,Traction,Hybride rechargeable essence
+104719,mercedes-benz,classe-a,128 000DT,66 000km,1.202,Compacte,Automatique,1600cm³,5.0,8cv,Traction,Essence
+103985,mercedes-benz,classe-c,225 000DT,28 000km,2.2022,Berline,Automatique,1500cm³,5.0,9cv,Propulsion,Essence
+101037,mercedes-benz,classe-c,139 000DT,63 000km,10.202,Citadine,Automatique,1600cm³,4.0,8cv,Traction,Essence
+108983,mercedes-benz,classe-s,80 000DT,215 000km,6.2006,Berline,Automatique,5461cm³,4.0,29cv,Propulsion,Essence
+107773,mercedes-benz,glc-coupe,259 000DT,32 000km,10.202,Coupé,Automatique,1998cm³,4.0,12cv,Intégrale,Hybride rechargeable essence
+108977,mercedes-benz,classe-gl,95 000DT,185 000km,1.2007,SUV/4x4,Automatique,3997cm³,5.0,23cv,Intégrale,Diesel
+108099,mercedes-benz,classe-a,118 000DT,96 000km,11.2019,Citadine,Automatique,1559cm³,5.0,6cv,Traction,Diesel
+108917,mercedes-benz,classe-a,78 000DT,131 000km,12.2013,Citadine,Automatique,1595cm³,5.0,6cv,Traction,Essence
+108883,mercedes-benz,classe-e,90 000DT,210 000km,4.2014,Berline,Automatique,2143cm³,4.0,7cv,Propulsion,Diesel
+108877,mercedes-benz,classe-e,139 000DT,78 000km,3.2018,Berline,Automatique,1595cm³,4.0,9cv,Propulsion,Essence
+108855,mercedes-benz,gla,168 000DT,105 000km,9.2021,SUV/4x4,Automatique,1400cm³,5.0,9cv,Traction,Essence
+107976,mercedes-benz,cla,78 000DT,130 000km,12.2015,Berline,Manuelle,1590cm³,5.0,6cv,Traction,Essence
+108844,mercedes-benz,classe-a,71 000DT,167 000km,11.2014,Citadine,Automatique,1500cm³,4.0,6cv,Traction,Diesel
+108843,mercedes-benz,classe-c,48 500DT,181 400km,12.2009,Berline,Automatique,1796cm³,5.0,9cv,Propulsion,Essence
+108799,mercedes-benz,classe-c,68 000DT,200 003km,1.2011,Berline,Automatique,900cm³,4.0,8cv,Traction,Diesel
+108739,mercedes-benz,cla,159 900DT,60 000km,7.2022,Coupé,Automatique,1332cm³,5.0,8cv,Traction,Hybride rechargeable essence
+106217,mercedes-benz,glc,199 000DT,84 000km,9.202,SUV/4x4,Automatique,1991cm³,4.0,12cv,Propulsion,Hybride rechargeable essence
+108712,mercedes-benz,cla,66 000DT,200 000km,4.2015,Berline,Automatique,1595cm³,4.0,7cv,Propulsion,Essence
+108261,mercedes-benz,classe-c,57 000DT,195 210km,12.2009,Berline,Automatique,1796cm³,5.0,9cv,Intégrale,Essence
+108699,mercedes-benz,classe-c,68 000DT,220 000km,1.2012,Berline,Manuelle,2143cm³,5.0,7cv,Traction,Diesel
+107306,mercedes-benz,eqa,149 000DT,98 000km,2.2022,SUV/4x4,Automatique,899cm³,5.0,7cv,Traction,Electrique
+107683,mercedes-benz,glc-coupe,263 000DT,49 500km,5.2021,SUV/4x4,Automatique,2000cm³,5.0,12cv,Intégrale,Hybride rechargeable essence
+107380,mercedes-benz,classe-c,60 000DT,120 000km,2.2013,Berline,Manuelle,1595cm³,4.0,9cv,Traction,Essence
+108603,mercedes-benz,classe-c,80 000DT,168 350km,3.2012,Berline,Automatique,1597cm³,4.0,9cv,Propulsion,Essence
+108602,mercedes-benz,classe-g,289 000DT,26 000km,3.201,SUV/4x4,Automatique,2987cm³,5.0,16cv,Intégrale,Diesel
+105922,mercedes-benz,classe-e,70 000DT,250 000km,7.2012,Berline,Automatique,2200cm³,5.0,10cv,Propulsion,Diesel
+95056,mercedes-benz,classe-a,135 000DT,45 000km,1.2019,Compacte,Automatique,1300cm³,4.0,8cv,Traction,Essence
+108559,mercedes-benz,glc,145 000DT,40 000km,2.2017,SUV/4x4,Automatique,2000cm³,5.0,12cv,Intégrale,Essence
+105674,mercedes-benz,ml,90 000DT,200 000km,12.2009,SUV/4x4,Automatique,3996cm³,4.0,23cv,Propulsion,Diesel
+108546,mercedes-benz,classe-e,95 000DT,197 000km,12.2013,Berline,Automatique,2143cm³,5.0,9cv,Traction,Diesel
+108260,mercedes-benz,cls,93 000DT,265 000km,1.2013,Berline,Automatique,2143cm³,4.0,11cv,Traction,Diesel
+108536,mercedes-benz,classe-c,120 000DT,172 000km,12.2018,Berline,Automatique,1595cm³,5.0,8cv,Intégrale,Essence
+108342,mercedes-benz,cls,150 000DT,61 000km,3.2016,Coupé,Automatique,2143cm³,4.0,11cv,Traction,Diesel
+108426,mercedes-benz,classe-e,125 000DT,125 000km,5.2017,Berline,Automatique,1800cm³,4.0,9cv,Traction,Essence
+107389,mercedes-benz,glc-coupe,220 000DT,39 000km,5.2018,SUV/4x4,Automatique,2143cm³,5.0,9cv,Intégrale,Diesel
+108402,mercedes-benz,classe-c,54 000DT,276 000km,9.2009,Berline,Automatique,1597cm³,4.0,9cv,Propulsion,Essence
+108381,mercedes-benz,ml,68 000DT,230 000km,10.201,SUV/4x4,Automatique,6000cm³,5.0,14cv,Intégrale,Diesel
+108334,mercedes-benz,cla,154 000DT,50 450km,2.202,Berline,Automatique,1322cm³,4.0,7cv,Traction,Essence
+108331,mercedes-benz,classe-c,46 000DT,225 000km,1.2011,Berline,Manuelle,2143cm³,5.0,6cv,Intégrale,Diesel
+107832,mercedes-benz,classe-e,110 000DT,110 000km,10.2014,Compacte,Automatique,3000cm³,4.0,15cv,Intégrale,Diesel
+108021,mercedes-benz,classe-a,54 000DT,254 000km,2.2013,Citadine,Manuelle,1600cm³,5.0,6cv,Intégrale,Essence
+108264,mercedes-benz,classe-c,53 000DT,149 000km,9.2009,Berline,Automatique,1796cm³,5.0,11cv,Propulsion,Essence
+108246,mercedes-benz,classe-e,275 000DT,30 000km,9.2021,Berline,Automatique,1999cm³,5.0,10cv,Propulsion,Diesel
+106814,mercedes-benz,glc,145 000DT,247 000km,11.2017,SUV/4x4,Automatique,1991cm³,5.0,12cv,Intégrale,Essence
+108185,mercedes-benz,classe-a,129 000DT,90 000km,1.202,Compacte,Automatique,2000cm³,4.0,9cv,Traction,Essence
+108991,mercedes-benz,gle,390 000DT,71 772km,12.2022,SUV/4x4,Automatique,1991cm³,4.0,12cv,Propulsion,Hybride rechargeable essence
+107370,mercedes-benz,classe-c-coupe,145 000DT,130 000km,10.2018,Coupé,Automatique,1999cm³,2.0,8cv,Intégrale,Essence
+109353,peugeot,208,27 900DT,122 000km,11.2017,Citadine,Manuelle,1198cm³,4.0,5cv,Traction,Essence
+109085,peugeot,2008,31 500DT,141 000km,5.2014,Citadine,Manuelle,1198cm³,4.0,5cv,Traction,Essence
+108571,peugeot,301,25 500DT,195 000km,10.2018,Berline,Manuelle,1198cm³,4.0,5cv,Traction,Essence
+108570,peugeot,208,39 000DT,11 000km,11.202,Citadine,Manuelle,999cm³,4.0,4cv,Traction,Essence
+108534,peugeot,208,43 500DT,37 000km,6.2022,Citadine,Manuelle,1198cm³,4.0,4cv,Traction,Essence
+108292,peugeot,207,27 500DT,290 000km,7.2011,Coupé,Manuelle,1389cm³,2.0,6cv,Traction,Diesel
+107522,peugeot,3008,62 000DT,131 000km,4.2017,SUV/4x4,Manuelle,1198cm³,4.0,7cv,Traction,Essence
+107332,peugeot,301,26 000DT,93 000km,4.2014,Berline,Manuelle,1198cm³,4.0,5cv,Traction,Essence
+106917,peugeot,2008,45 000DT,60 000km,11.2016,SUV/4x4,Manuelle,1198cm³,4.0,5cv,Traction,Essence
+106654,peugeot,partner,39 500DT,113 000km,9.2018,Utilitaire,Manuelle,1198cm³,3.0,5cv,Traction,Diesel
+105927,peugeot,rifter,69 000DT,67 000km,12.2019,Utilitaire,Manuelle,1198cm³,4.0,6cv,Traction,Essence
+105865,peugeot,208-3p,32 900DT,104 000km,2.2017,Monospace,Manuelle,1198cm³,2.0,5cv,Traction,Essence
+104927,peugeot,landtrek-double-cabine,95 000DT,34 000km,11.2022,Pick up,Manuelle,1898cm³,4.0,6cv,Traction,Diesel
+104285,peugeot,3008,,,,,,,,,,
+103724,peugeot,208-3p,38 500DT,74 000km,8.2016,Monospace,Manuelle,1199cm³,2.0,5cv,Traction,Essence
+100630,peugeot,3008,33 000DT,230 000km,10.201,Citadine,Manuelle,1599cm³,4.0,7cv,Traction,Essence
+100350,peugeot,3008,84 900DT,132 000km,6.2018,SUV/4x4,Automatique,1598cm³,5.0,9cv,Traction,Essence
+98065,peugeot,3008,80 000DT,169 000km,5.202,SUV/4x4,Automatique,,,7cv,Traction,Essence
+109465,peugeot,308,49 000DT,64 000km,12.202,Berline,Manuelle,1199cm³,5.0,6cv,Traction,Essence
+106118,peugeot,308,50 000DT,102 000km,1.202,Citadine,Manuelle,1200cm³,5.0,5cv,Traction,Essence
+109400,peugeot,partner,46 000DT,148 000km,10.202,Monospace,Manuelle,1499cm³,2.0,5cv,Traction,Diesel
+109398,peugeot,208,46 500DT,88 000km,2.2021,Citadine,Manuelle,1499cm³,5.0,5cv,Traction,Diesel
+107205,peugeot,208,45 500DT,108 000km,2.2021,Citadine,Manuelle,1499cm³,5.0,5cv,Traction,Diesel
+106072,peugeot,3008,79 000DT,148 000km,3.202,SUV/4x4,Automatique,1489cm³,5.0,6cv,Traction,Diesel
+107426,peugeot,5008,78 000DT,160 000km,12.2019,Autres,Manuelle,1199cm³,5.0,7cv,Traction,Essence
+109429,peugeot,partner,54 500DT,90 000km,3.2022,Utilitaire,Manuelle,1600cm³,3.0,5cv,Traction,Diesel
+109427,peugeot,407,26 500DT,130 000km,5.2007,Berline,Automatique,2000cm³,4.0,9cv,Traction,Essence
+108953,peugeot,301,33 000DT,73 000km,8.2021,Berline,Manuelle,1198cm³,4.0,5cv,Traction,Essence
+108228,peugeot,partner-origin-utilitaire,56 000DT,73 000km,5.2019,Utilitaire,Manuelle,1559cm³,2.0,5cv,Traction,Diesel
+107928,peugeot,3008,65 000DT,130 000km,4.2017,SUV/4x4,Manuelle,1200cm³,4.0,7cv,Intégrale,Essence
+107865,peugeot,2008,43 000DT,100 000km,3.2017,SUV/4x4,Manuelle,1200cm³,4.0,6cv,Intégrale,Essence
+109021,peugeot,308,54 000DT,96 000km,12.2019,Compacte,Manuelle,999cm³,4.0,4cv,Traction,Diesel
+109046,peugeot,408,150 000DT,15 000km,5.2024,Citadine,Automatique,1598cm³,4.0,13cv,Traction,Essence
+109284,peugeot,3008,77 000DT,110 000km,8.2017,SUV/4x4,Automatique,1600cm³,5.0,9cv,Propulsion,Essence
+108007,peugeot,2008,49 000DT,61 000km,8.2018,SUV/4x4,Automatique,1200cm³,5.0,6cv,Intégrale,Essence
+106856,peugeot,3008,82 000DT,140 000km,9.2018,SUV/4x4,Automatique,1200cm³,5.0,7cv,Traction,Essence
+109448,peugeot,partner,57 000DT,62 000km,2.2023,Utilitaire,Manuelle,1560cm³,2.0,5cv,Traction,Diesel
+107931,peugeot,partner,59 000DT,87 261km,1.202,Utilitaire,Manuelle,1999cm³,2.0,5cv,Propulsion,Diesel
+104288,peugeot,partner,55 000DT,144 790km,3.2019,Autres,Manuelle,1560cm³,2.0,5cv,Propulsion,Diesel
+109444,peugeot,3008,88 000DT,117 000km,3.2021,SUV/4x4,Automatique,1199cm³,5.0,7cv,Traction,Essence
+107781,peugeot,3008,92 000DT,55 000km,6.202,SUV/4x4,Automatique,1200cm³,5.0,7cv,Traction,Essence
+108963,peugeot,308,53 000DT,36 765km,11.2021,Berline,Manuelle,1200cm³,4.0,5cv,Traction,Essence
+106492,peugeot,308,126 000DT,48 000km,6.2023,Berline,Automatique,1500cm³,4.0,7cv,Traction,Diesel
+106132,peugeot,expert,59 000DT,139 199km,11.2019,Utilitaire,Manuelle,1500cm³,4.0,6cv,Traction,Diesel
+100501,peugeot,2008,55 000DT,125 000km,5.2018,SUV/4x4,Automatique,1200cm³,4.0,6cv,Traction,Essence
+108786,peugeot,landtrek-double-cabine,64 500DT,124 000km,9.2021,Autres,Manuelle,1910cm³,4.0,6cv,Traction,Diesel
+107488,peugeot,3008,69 000DT,93 000km,11.202,SUV/4x4,Automatique,1199cm³,5.0,7cv,Traction,Essence
+108493,peugeot,3008,82 000DT,87 000km,2.2019,SUV/4x4,Automatique,1200cm³,4.0,7cv,Traction,Essence
+106381,peugeot,508,79 000DT,137 000km,9.2019,Berline,Automatique,1600cm³,4.0,8cv,Traction,Essence
+108890,peugeot,3008,88 000DT,38 000km,9.2019,SUV/4x4,Automatique,1399cm³,5.0,7cv,Traction,Essence
+108833,peugeot,3008,75 000DT,75 000km,7.202,SUV/4x4,Automatique,1400cm³,5.0,6cv,Traction,Essence
+107772,peugeot,408-gt,155 000DT,10 000km,3.2024,Citadine,Automatique,1699cm³,5.0,11cv,Traction,Essence
+107624,peugeot,3008,69 000DT,112 000km,1.202,SUV/4x4,Automatique,1599cm³,5.0,7cv,Traction,Essence
+107550,peugeot,3008-gt-line,89 000DT,125 000km,7.202,SUV/4x4,Automatique,1599cm³,5.0,6cv,Traction,Essence
+106499,peugeot,308,47 000DT,128 000km,6.202,Citadine,Manuelle,1200cm³,5.0,6cv,Traction,Essence
+105372,peugeot,2008,80 000DT,100 000km,12.2021,SUV/4x4,Manuelle,1200cm³,5.0,6cv,Traction,Diesel
+104957,peugeot,rifter,72 000DT,95 000km,11.202,Compacte,Manuelle,1599cm³,5.0,7cv,Traction,Diesel
+104924,peugeot,rifter,72 000DT,95 000km,11.202,Compacte,Manuelle,1500cm³,5.0,7cv,Traction,Diesel
+102489,peugeot,2008,97 000DT,34 000km,6.2022,SUV/4x4,Automatique,1399cm³,5.0,7cv,Traction,Essence
+101998,peugeot,208,35 000DT,60 000km,5.202,Citadine,Manuelle,1190cm³,5.0,4cv,Traction,Essence
+99879,peugeot,2008,92 000DT,30 000km,7.2021,SUV/4x4,Manuelle,1200cm³,5.0,7cv,Traction,Essence
+98421,peugeot,3008,77 000DT,260 000km,8.2017,SUV/4x4,Automatique,,,9cv,Traction,Essence
+91509,peugeot,rcz,40 000DT,171 000km,4.2011,Citadine,Manuelle,,,7cv,Traction,Essence
+108762,peugeot,5008,138 000DT,7 000km,4.2023,Citadine,Automatique,1600cm³,5.0,9cv,Traction,Essence
+108497,peugeot,partner,27 000DT,218 000km,6.2014,Utilitaire,Manuelle,1600cm³,2.0,5cv,Traction,Diesel
+104856,peugeot,508-gt-line,116 000DT,115 000km,3.202,Berline,Automatique,1600cm³,4.0,9cv,Traction,Essence
+109368,peugeot,407,26 500DT,130 000km,1.2007,Compacte,Automatique,2000cm³,4.0,9cv,Traction,Essence
+106041,peugeot,208,34 000DT,93 000km,3.2019,Citadine,Manuelle,1199cm³,5.0,5cv,Traction,Essence
+106923,peugeot,508,51 000DT,145 000km,5.2018,Berline,Automatique,1600cm³,5.0,7cv,Traction,Essence
+106173,peugeot,308,34 000DT,99 500km,12.2014,Compacte,Manuelle,1199cm³,5.0,5cv,Traction,Essence
+108633,peugeot,207,27 500DT,290 000km,7.2011,Coupé,Manuelle,4000cm³,3.0,6cv,Traction,Diesel
+109392,peugeot,3008,68 000DT,149 000km,8.202,SUV/4x4,Automatique,1199cm³,5.0,7cv,Traction,Essence
+109388,peugeot,508,41 500DT,240 000km,6.2012,Berline,Manuelle,1560cm³,5.0,6cv,Traction,Diesel
+108391,peugeot,partner,48 000DT,95 000km,8.2021,Utilitaire,Manuelle,1600cm³,2.0,5cv,Traction,Diesel
+107091,peugeot,3008-gt-line,80 000DT,190 000km,8.2017,SUV/4x4,Automatique,1600cm³,4.0,6cv,Traction,Diesel
+108433,peugeot,208,49 500DT,28 500km,4.2021,Citadine,Manuelle,999cm³,5.0,5cv,Traction,Essence
+109364,peugeot,5008,95 000DT,145 000km,11.202,SUV/4x4,Manuelle,1200cm³,5.0,7cv,Traction,Essence
+109361,peugeot,landtrek-double-cabine,97 000DT,30 000km,8.2023,Pick up,Manuelle,1900cm³,4.0,7cv,Intégrale,Diesel
+109342,peugeot,407,23 000DT,376 000km,2.2005,Berline,Manuelle,1600cm³,4.0,6cv,Traction,Diesel
+109065,peugeot,3008,76 000DT,112 000km,3.2019,SUV/4x4,Automatique,1600cm³,4.0,9cv,Traction,Essence
+108182,peugeot,3008,105 000DT,55 000km,1.2022,SUV/4x4,Automatique,1598cm³,5.0,9cv,Traction,Essence
+109326,peugeot,208,32 500DT,140 000km,2.2019,Citadine,Manuelle,1199cm³,4.0,5cv,Traction,Essence
+108468,peugeot,2008,70 000DT,110 000km,12.202,SUV/4x4,Manuelle,3000cm³,5.0,6cv,Traction,Essence
+108295,peugeot,308,47 000DT,148 500km,5.2019,Berline,Manuelle,1200cm³,5.0,6cv,Traction,Essence
+108850,peugeot,4008,47 900DT,99 000km,2.2014,SUV/4x4,Manuelle,2000cm³,5.0,9cv,Traction,Essence
+109305,peugeot,308-cc,38 000DT,150 000km,2.2012,Compacte,Manuelle,1000cm³,3.0,7cv,Traction,Essence
+104718,peugeot,3008,95 000DT,30 000km,9.2018,SUV/4x4,Automatique,1600cm³,5.0,9cv,Traction,Essence
+109288,peugeot,508,30 000DT,174 000km,7.2011,Citadine,Manuelle,1560cm³,4.0,6cv,Traction,Diesel
+109276,peugeot,208,29 000DT,110 000km,10.2015,Citadine,Manuelle,1199cm³,5.0,5cv,Traction,Essence
+109269,peugeot,2008,38 500DT,229 000km,6.2015,Berline,Manuelle,1199cm³,4.0,5cv,Traction,Essence
+109259,peugeot,407,31 000DT,308 000km,11.2008,Berline,Manuelle,1600cm³,4.0,6cv,Traction,Diesel
+106128,peugeot,308,39 000DT,188 000km,12.2017,Compacte,Manuelle,1300cm³,5.0,6cv,Traction,Essence
+106958,peugeot,3008,89 000DT,70 000km,1.202,SUV/4x4,Automatique,1200cm³,5.0,6cv,Traction,Essence
+109180,peugeot,rifter,84 000DT,123 000km,5.2021,Monospace,Manuelle,1499cm³,5.0,5cv,Propulsion,Diesel
+109225,peugeot,208,34 000DT,65 000km,6.202,Compacte,Manuelle,998cm³,5.0,4cv,Propulsion,Essence
+105790,peugeot,2008,36 000DT,162 000km,3.2014,SUV/4x4,Manuelle,1199cm³,5.0,5cv,Traction,Essence
+107436,peugeot,landtrek-simple-cabine,78 000DT,45 000km,6.2023,Pick up,Manuelle,1910cm³,2.0,6cv,Propulsion,Diesel
+106910,peugeot,208,29 000DT,110 000km,6.2015,Citadine,Manuelle,1199cm³,3.0,5cv,Traction,Essence
+106586,peugeot,2008,34 000DT,136 000km,9.2014,SUV/4x4,Manuelle,1199cm³,5.0,5cv,Traction,Essence
+106030,peugeot,2008,48 000DT,93 000km,7.2017,SUV/4x4,Manuelle,1200cm³,5.0,5cv,Propulsion,Essence
+108923,peugeot,2008,40 000DT,96 000km,3.2015,SUV/4x4,Manuelle,1000cm³,5.0,5cv,Traction,Essence
+108635,peugeot,508,95 000DT,111 000km,11.2019,Berline,Automatique,1300cm³,5.0,7cv,Propulsion,Diesel
+109167,peugeot,3008,37 500DT,143 000km,6.2014,Autres,Manuelle,1598cm³,5.0,7cv,Propulsion,Essence
+101674,peugeot,308,95 000DT,1 000km,2.2023,Compacte,Automatique,1000cm³,5.0,7cv,Traction,Essence
+104848,peugeot,2008,56 000DT,120 000km,8.2018,Citadine,Automatique,1199cm³,5.0,6cv,Traction,Essence
+108663,peugeot,508,28 000DT,215 000km,10.2012,Berline,Manuelle,1599cm³,5.0,7cv,Traction,Essence
+109058,peugeot,2008,40 000DT,135 000km,10.2016,Citadine,Manuelle,1199cm³,4.0,5cv,Traction,Essence
+108637,peugeot,206-plus,22 700DT,110 000km,11.2012,Citadine,Manuelle,1124cm³,5.0,4cv,Traction,Essence
+109040,peugeot,308,49 999DT,89 000km,10.202,Compacte,Manuelle,1199cm³,5.0,6cv,Traction,Essence
+109025,peugeot,301,24 500DT,202 000km,4.2018,Citadine,Manuelle,1199cm³,4.0,5cv,Traction,Essence
+94617,peugeot,boxer,14 000DT,200 100km,6.2007,Utilitaire,Manuelle,1219cm³,2.0,7cv,Traction,Diesel
+108984,peugeot,3008,90 000DT,120 000km,11.2019,SUV/4x4,Automatique,1498cm³,4.0,7cv,Traction,Diesel
+108930,peugeot,3008,32 000DT,210 000km,1.201,Compacte,Manuelle,1600cm³,5.0,7cv,Traction,Essence
+106636,peugeot,307,25 500DT,110 451km,6.2007,Cabriolet,Manuelle,1599cm³,3.0,8cv,Traction,Essence
+108884,peugeot,208,32 500DT,100 000km,9.202,Coupé,Manuelle,920cm³,5.0,4cv,Traction,Essence
+108240,peugeot,308,85 000DT,170 000km,4.2022,Berline,Automatique,999cm³,5.0,7cv,Intégrale,Diesel
+108800,peugeot,308,53 000DT,82 500km,12.202,Berline,Manuelle,1200cm³,5.0,6cv,Traction,Essence
+108779,peugeot,308,68 000DT,164 000km,5.2016,Compacte,Automatique,1598cm³,5.0,9cv,Traction,Essence
+108687,peugeot,2008,35 000DT,132 000km,4.2014,SUV/4x4,Manuelle,1191cm³,5.0,5cv,Traction,Essence
+108656,peugeot,207,26 500DT,260 000km,2.2012,Berline,Manuelle,1200cm³,5.0,5cv,Traction,Essence
+108589,peugeot,207,27 400DT,226 000km,6.2009,Compacte,Manuelle,1560cm³,5.0,6cv,Traction,Diesel
+108578,peugeot,505,5 000DT,350 000km,1.1995,Berline,Manuelle,2500cm³,4.0,9cv,Traction,Diesel
+108530,peugeot,boxer,58 000DT,85 000km,6.2022,Autres,Manuelle,2198cm³,2.0,7cv,Traction,Diesel
+102736,peugeot,407,35 000DT,244 000km,12.2007,Berline,Manuelle,2080cm³,4.0,8cv,Traction,Diesel
+108504,peugeot,partner,42 500DT,122 490km,10.202,Utilitaire,Manuelle,1560cm³,4.0,5cv,Traction,Diesel
+108482,peugeot,208,42 000DT,75 000km,3.2022,Berline,Manuelle,1199cm³,5.0,4cv,Propulsion,Essence
+108407,peugeot,partner,47 000DT,114 000km,12.202,Utilitaire,Manuelle,1560cm³,4.0,5cv,Traction,Diesel
+101971,peugeot,2008,54 000DT,40 000km,10.2018,SUV/4x4,Manuelle,1199cm³,5.0,5cv,Traction,Essence
+108383,peugeot,208,28 000DT,104 000km,1.2018,Citadine,Manuelle,1499cm³,5.0,5cv,Traction,Essence
+108354,peugeot,208,31 500DT,56 540km,5.2019,Compacte,Manuelle,1199cm³,5.0,4cv,Propulsion,Essence
+108966,peugeot,208,28 000DT,116 000km,11.2019,Citadine,Manuelle,1199cm³,4.0,5cv,Traction,Essence
+108599,peugeot,2008,80 000DT,156 000km,2.2021,SUV/4x4,Automatique,1199cm³,5.0,7cv,Traction,Essence
+109061,peugeot,208,36 000DT,40 000km,8.202,Citadine,Manuelle,899cm³,5.0,4cv,Traction,Essence
+102808,peugeot,2008,45 000DT,82 000km,11.2016,SUV/4x4,Manuelle,1199cm³,5.0,5cv,Traction,Essence
+108629,peugeot,208,40 000DT,56 000km,6.2016,Citadine,Manuelle,1199cm³,5.0,5cv,Traction,Essence
